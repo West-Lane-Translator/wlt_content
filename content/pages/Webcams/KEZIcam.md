@@ -11,7 +11,7 @@ KEZI Cam
 ========
 
 This web camera overlooking Florence is located on the WLT tower and is\
-\"steerable\", it might be pointed nearly anywhere, but mostly, it\'s
+"steerable", it might be pointed nearly anywhere, but mostly, it's
 looking at Old Town
 
  

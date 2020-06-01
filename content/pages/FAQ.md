@@ -2,16 +2,16 @@
 Frequently Asked Questions
 --------------------------
 
-Here we\'ll try to briefly touch upon some topics, provide a quick and
+Here we'll try to briefly touch upon some topics, provide a quick and
 understandable answer, and direct you to resources to help you learn
 more. Click any of the questions below to view an answer.
 
-What\'s this about \"translators\"? Do I need to know a foreign
+What's this about "translators"? Do I need to know a foreign
 language?
 
 <div>
 
-No special language skills are required. The term \"Translator\" is in
+No special language skills are required. The term "Translator" is in
 reference to the equipment that is used to transmit a signal, either
 audio or video, on a frequency or channel different than it was
 originally transmitted on. For example, a broadcast on TV channel 8 might
@@ -19,14 +19,14 @@ be received by translator equipment, and shifted either up or down,
 perhaps to channel 45. The program content of the broadcast is unchanged
 by the shift in channel, it is identical to the original. Shifting the
 frequency of FM stations or the channel number of TV stations is
-necessary to prevent interference to the originating station\'s
+necessary to prevent interference to the originating station's
 broadcast signal. See the [Channels and
 Sub-Channels](http://www.westlanetv.org/HDTV/Channels) and [FM
 Radio](http://www.westlanetv.org/FM) pages for additional information.
 
 </div>
 
-HDTV? What\'s that? Why do I need it?
+HDTV? What's that? Why do I need it?
 
 <div>
 
@@ -34,7 +34,7 @@ HDTV stands for High Definition TeleVision, which is the current,
 digital standard for all television broadcasts in the U.S. All
 full-power television stations in the country were required to switch
 over to this new digital standard and cease broadcasting in the old,
-\"analog\" format in early 2010. In nearly all parts of the country, it
+"analog" format in early 2010. In nearly all parts of the country, it
 is the only type of on-air television broadcast available. Your
 enjoyment of on-air television broadcasts is now enhanced by clearer,
 crisper video images, stereophonic and surround sound of the highest
@@ -48,7 +48,7 @@ additional information.
 
 </div>
 
-I\'ve tried receiving your broadcasts on my HD television, but see
+I've tried receiving your broadcasts on my HD television, but see
 nothing. Why?
 
 <div>
@@ -61,8 +61,8 @@ Florence and the surrounding area should be no problem. See the [HDTV
 Coverage](http://www.westlanetv.org/HDTV/Coverage) page for additional
 information and some helpful maps to determine if you can receive our
 signals.Some HD televisions must be programmed to recognize on-air
-broadcast signals. Consult your television\'s owners manual for
-instructions on how to \"scan\" for stations.
+broadcast signals. Consult your television's owners manual for
+instructions on how to "scan" for stations.
 
 </div>
 
@@ -75,7 +75,7 @@ For the best viewing experience, we recommend that you purchase a newer
 television. All receivers manufactured after 2007 are HDTV capable. You
 do not need an elaborate system to view HDTV, even a modestly-priced
 HDTV will provide you with significantly improved picture quality.
-Alternately, \"converter boxes\" are manufactured to allow older sets to
+Alternately, "converter boxes" are manufactured to allow older sets to
 receive HDTV signals. See the [HDTV
 Receivers](http://www.westlanetv.org/HDTV/Receivers) page for additional
 information.
@@ -96,7 +96,7 @@ are being cautious.
 </div>
 
 Every so often, I hear an unusual squawking noise on my FM radio.
-What\'s that?
+What's that?
 
 <div>
 

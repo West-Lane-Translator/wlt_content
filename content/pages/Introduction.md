@@ -41,7 +41,7 @@ Wind: N 13 G 17 mph\
 [Click](http://www.westlanetv.org/WX) for complete conditions and
 forecast
 
-**[Today\'s Tides](http://www.westlanetv.org/Tides/Florence/)** [![Tide
+**[Today's Tides](http://www.westlanetv.org/Tides/Florence/)** [![Tide
 Chart](http://www.westlanetv.org/TideChart.php?vars=3505)](http://www.westlanetv.org/Tides/Florence/ "Click to view full tide information")\
 [ 04:59 PDT 6.12 feet High Tide\
 12:07 PDT -0.24 feet Low Tide\

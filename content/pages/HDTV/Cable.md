@@ -5,12 +5,12 @@ Cable and Satellite Subscribers
 
 If you are a subscriber to cable or satellite television service, you
 already know that the local TV signals are available to you. What you
-may not know is that you are not getting the \"whole picture\"!
+may not know is that you are not getting the "whole picture"!
 
-Cable and satellite services only provide you with the first, \"main\"
+Cable and satellite services only provide you with the first, "main"
 channel of each of the local stations. You may be missing multiple
 programming choices offered on the HDTV sub-channels, channels that
-subscription services don\'t offer under any of their service plans.
+subscription services don't offer under any of their service plans.
 
 Additionally, although the cable or satellite version of the local
 channels originates as an HDTV signal at the station, the programming is

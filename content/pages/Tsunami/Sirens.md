@@ -24,7 +24,7 @@ projection.
 -   The first tone is the TEST TONE, which is a long steady sound. The
     test tone will be activated on the last Friday of each month. It
     will last for a few minutes, beginning at 11 am. The test tone will
-    be followed by the \'all clear\' tone (see below)
+    be followed by the 'all clear' tone (see below)
 -   The second tone is the REAL TIME evacuation blast, known as a wail
     tone. Evacuation for a distant tsunami will generally be indicated
     by a siren blast and an announcement over NOAA weather radio that
@@ -37,7 +37,7 @@ projection.
     106.9 FM for more information.
 -   The third tone is the ALL CLEAR sound, which resembles the
     Westminster Chimes. You will hear this tone if the tsunami warning
-    has been canceled. The protocols state that the \'all clear\' will
+    has been canceled. The protocols state that the 'all clear' will
     run for one minute followed by a two minute rest period. This
     process will be repeated five times. At that time it is OK for
     people to return to their homes.

@@ -45,7 +45,7 @@ KWAX/KWVZ
 
 KXCR
 
-\-
+-
 
 90.7 MHz
 
@@ -232,7 +232,7 @@ Family Stations Inc.
 Address:
 
 Family Stations Inc\
-4135 Northgate Boulevard \#1\
+4135 Northgate Boulevard #1\
 Sacramento, CA 95834
 
 Telephone:

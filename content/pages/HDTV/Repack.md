@@ -6,17 +6,17 @@ HDTV Repack
 Due to sale of spectrum by the FCC, West Lane Translator, Inc. was
 recently required to change 3 of its channels. The translators for KVAL,
 KMTR and KLSR were moved from channel 40, 43 and 51 respectively, to
-channel 24, 26 & 28. When this occurred, viewers \"lost\" these stations
-and needed to re-scan their televisions to \"find\" the new channels.
+channel 24, 26 & 28. When this occurred, viewers "lost" these stations
+and needed to re-scan their televisions to "find" the new channels.
 The change took place on December 7th.
 
 After setting your TV to scan, and assuming that it successfully finds
 the translators on their new channels, nothing will look any different
 to you, the viewer. The three network stations will once again appear on
 the same channel selections as before (channels 13, 16, and 34). Much of
-this has to do with digital smoke and electronic mirrors, but that\'s
-alright, you don\'t have to understand it fully, few of us here really
-do either\...
+this has to do with digital smoke and electronic mirrors, but that's
+alright, you don't have to understand it fully, few of us here really
+do either...
 
 If you have an inquisitive mind, a fast internet connection and some
 spare time, you can gain a better understanding of why it was necessary

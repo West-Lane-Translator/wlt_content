@@ -33,10 +33,10 @@ Memberships
 
 ### **Lifetime**
 
-A One-Year Membership costs just \$10 and entitles you to voting
+A One-Year Membership costs just $10 and entitles you to voting
 privileges at the annual meeting.
 
-Lifetime Membership is available for \$75. It grants you full membership
+Lifetime Membership is available for $75. It grants you full membership
 privileges and our eternal gratitude.
 
  
@@ -50,8 +50,8 @@ volunteer efforts to maintain your access to free, quality on-air
 broadcasting from eleven television and radio broadcasters on our
 towers.
 
-West Lane Translator is a \"membership\" nonprofit \-- your vote is the
-keystone \-- you can vote annually for Board members. You will receive
+West Lane Translator is a "membership" nonprofit -- your vote is the
+keystone -- you can vote annually for Board members. You will receive
 email alerts of our open public meetings.
 
 Please remit donations or membership via US Postal Mail to our mailing
@@ -66,7 +66,7 @@ on your payment method (money order, etc.)
 
 Please note that donations or memberships sent from this page will be
 applied to West Lane Translator, Inc. If you are interested in
-supporting WLT\'s licensed non-profit radio station, KXCR, you may do so
+supporting WLT's licensed non-profit radio station, KXCR, you may do so
 by visiting the [KXCR web site](http://www.kxcr.net).
 
  

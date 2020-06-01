@@ -5,7 +5,7 @@ HD Television Antennas
 
 In order to assist translator system viewers in pulling in the best
 possible signal, what follows a list of tips for installing an antenna
-or \"tuning up\" an existing antenna.
+or "tuning up" an existing antenna.
 
 ### **Indoor Antennas**
 
@@ -14,7 +14,7 @@ adequate to pull in enough signal to provide satisfactory operation.
 Such antennas are neither expensive nor are they difficult to install.
 
 Indoor antennas come in a variety of sizes and shapes, from the familiar
-\"rabbit ears with a loop\" to futuristic panel antennas that look more
+"rabbit ears with a loop" to futuristic panel antennas that look more
 like a radar array than a set-top antenna.
 
 **Examples of Indoor Antennas**\
@@ -29,7 +29,7 @@ Your antenna choice may come down to a matter of interior decor rather
 than antenna performance if you have enough signal strength.
 
 Be sure that any indoor antenna you use or purchase has a built-in UHF
-\"loop\" antenna. The telescoping rod type antennas are meant for VHF
+"loop" antenna. The telescoping rod type antennas are meant for VHF
 reception only, and will be of no benefit in receiving WLT translator
 signals.
 
@@ -38,7 +38,7 @@ weak signals. While a preamp may improve your reception, it is also
 possible that it may degrade antenna performance. As a rule, try to
 select an antenna which will supply your receiver with an adequate
 signal without the use of an amplifier. If using an amplifier gives you
-good results, that\'s fine, but usually, if you don\'t have enough
+good results, that's fine, but usually, if you don't have enough
 signal to make an indoor antenna work, you should then step up to an
 outdoor antenna.
 
@@ -54,21 +54,21 @@ Make sure you have the right antenna. All of our translators operate on
 the UHF portion of the band, so that is the correct type of antenna to
 choose. The older types of UHF antennas that were designed for channels
 70 to 83 do not work well on channels 14 through 60, which is the
-portion of the band we are interested in receiving. The \"bowtie\" type
+portion of the band we are interested in receiving. The "bowtie" type
 antenna is a favorite and performs very well on UHF channels. There are
 other types that work quite well also.
 
 **Examples of Outdoor UHF Antennas**\
 ![Log Periodic Antenna](http://www.westlanetv.org/gfx/antenna2.png)
 ![Bowtie Antenna](http://www.westlanetv.org/gfx/antenna1a.png)\
-[Bowtie antennas should be aimed with the \"bowties\" facing the
+[Bowtie antennas should be aimed with the "bowties" facing the
 translator tower.]{.txtsm}
 
-Install your antenna \"in the clear\" above trees, buildings, or other
+Install your antenna "in the clear" above trees, buildings, or other
 obstructions (if possible). Be sure it is in a safe area, away from any
 and all power lines. If this results in a down-lead (the wire from the
 antenna to the TV set) that is over about 50 feet long, consider
-installing a UHF preamplifier or \"booster\". With a good preamp you can
+installing a UHF preamplifier or "booster". With a good preamp you can
 use enough down-lead cable to position your antenna at the most ideal
 location.
 
@@ -79,7 +79,7 @@ Locate the antenna position which results in the best overall reception
 on all the channels. This may be necessary even if you have a clear
 unobstructed view of the translator tower. Signal reflections from the
 ground in front of your receiving antenna or other nearby objects such
-as buildings usually cause \"hot spots\" and \"cold spots\". Moving your
+as buildings usually cause "hot spots" and "cold spots". Moving your
 antenna, especially moving it vertically, even a foot or two can have a
 dramatic effect on signal strength.
 
@@ -100,7 +100,7 @@ television signal energy is totally contained inside the cable and the
 only way to hamper or degrade the signal it is carrying to your TV set
 is to squash the whole cable. However, matching transformers may be
 needed at the antenna to go from the two screw terminals to the coaxial
-cable \"type F\" connector. These matching transformers must be capable
+cable "type F" connector. These matching transformers must be capable
 of operating efficiently at UHF frequencies and must be weatherproof
 types. Ask your dealer for the proper ones.
 
@@ -109,7 +109,7 @@ so these sets are ready for the coaxial down-lead cable. The type F
 connectors can be tricky to put on the cable for those not used to them.
 A TV shop can put them on for you if you have trouble.
 
-Each of West Lane Translator\'s UHF HDTV translators operates at an
+Each of West Lane Translator's UHF HDTV translators operates at an
 effective radiated power of 2,500 watts. The transmitting equipment is
 only half of the total system, however. The other half is your receiving
 equipment which, like the translator, it must be kept in top condition

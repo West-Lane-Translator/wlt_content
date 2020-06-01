@@ -5,7 +5,7 @@ HD Television Channels
 
 The five HD television stations rebroadcast on WLT translators originate
 their signals from Eugene. In order to retransmit these signals in
-Florence, it is necessary to shift or \"translate\" the channel numbers
+Florence, it is necessary to shift or "translate" the channel numbers
 for each station. This page will provide you with the information
 necessary to understand the changes in station channel numbers.
 
@@ -21,7 +21,7 @@ Eugene\
 Channel
 
 Florence\
-Channel\*
+Channel*
 
 Network\
 Affiliation
@@ -80,11 +80,11 @@ CBS
 K24MF-D
 
 Because digital TV broadcasting allows for three program channels in
-addition to the \"main\" channel, a decimal is appended to the end of
+addition to the "main" channel, a decimal is appended to the end of
 the channel number (16**.1**, etc.) to indicate which you are selecting.
 The decimal tells your receiver which of the several available program
 streams you wish to view from the station. The first decimal (Ch x.1) is
-always the \"main\" channel for that station.
+always the "main" channel for that station.
 
 The following table illustrates the WLT translator channels and
 sub-channels and the programming you can expect to view on each:
@@ -99,7 +99,7 @@ Eugene\
 Channel
 
 Florence\
-Channel\*
+Channel*
 
 Program\
 Content
@@ -189,15 +189,15 @@ TBD\
 Charge!\
 --
 
-\* You will notice that both the Eugene and Florence channel numbers are
+* You will notice that both the Eugene and Florence channel numbers are
 listed in these tables. This information will only be useful to you the
-first time you receive the station\'s programming. After once entering
+first time you receive the station's programming. After once entering
 the Florence channel number or allowing your HD television or HDTV
 converter box to scan for local stations, the set or converter will
-\"learn\" the relationship between the originating station\'s channel
-number and the translator\'s channel number. Thereafter, you will only
-need to know and enter the channel number of the \"Eugene\" station to
-view the programming you desire. The \"Florence\" channel number will no
+"learn" the relationship between the originating station's channel
+number and the translator's channel number. Thereafter, you will only
+need to know and enter the channel number of the "Eugene" station to
+view the programming you desire. The "Florence" channel number will no
 longer be necessary or have meaning in the operation of your HD
 receiver. Be sure to read the documentation that accompanied your HDTV
 receiver for more details.\

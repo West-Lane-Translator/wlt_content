@@ -209,7 +209,7 @@ Times are Pacific time, corrected during Daylight Savings
 In astronomy the brightness of any star is measured using the magnitude
 scale. This method was devised originally by the Greeks, who classified
 the stars as first magnitude (brightest) to sixth magnitude (dimmest).
-This rough method was altered in the 1800\'s so that magnitude (mag.) 1
+This rough method was altered in the 1800's so that magnitude (mag.) 1
 stars were defined as being exactly 100 times brighter than mag. 6
 stars. Thus magnitude could be expressed as varying logarithmically with
 the stars brightness. With the advent of accurate modern photometry the

@@ -30,8 +30,8 @@ station.
 
 In addition to the audio messages transmitted by radio stations,
 television stations must also transmit a visual message. A text
-\"crawl\" is displayed at the top of the screen that contains all of the
-information encoded in the initial header. A color coded \"crawl\"
+"crawl" is displayed at the top of the screen that contains all of the
+information encoded in the initial header. A color coded "crawl"
 system is often used where the color signifies the priority of the
 message. Some television stations transmit only the visual message which
 is outside of the requirements.
@@ -45,14 +45,14 @@ weekly tests. RWTs are scheduled by the station, on random days and
 times, and are generally not relayed.
 
 Required Monthly Tests (RMTs) are generally originated by the primary
-relay station or a State\'s EAS agency, relayed by broadcast and cable
-stations. Some RMT\'s are issued by the National Weather Service,
+relay station or a State's EAS agency, relayed by broadcast and cable
+stations. Some RMT's are issued by the National Weather Service,
 sometimes for Statewide Severe Weather Drills.
 
 **Because the format of test messages closely resembles that of actual
 emergency messages, it is advised that you pay close attention to any
 EAS activations you hear on any broadcast station. Until you can confirm
-by listening or reading the EAS message that it is \"only a test\", you
+by listening or reading the EAS message that it is "only a test", you
 should assume that the incoming information could be important to your
 safety, or that of others near you.**
 

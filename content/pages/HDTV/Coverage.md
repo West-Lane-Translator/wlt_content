@@ -8,13 +8,13 @@ signal will be usable.
 
 ![map](http://www.westlanetv.org/gfx/coverage_map.jpg)
 
-Note that this is \"predicted\" coverage, not \"measured\" It is
+Note that this is "predicted" coverage, not "measured" It is
 calculated mathematically using data about the antenna design, antenna
 height, transmitter output power, and topographic features from 2 to 10
 miles away from the transmitter location.
 
-Because the calculations don\'t take into account terrestrial
-obstructions beyond 10 miles from the transmitter, they don\'t recognize
+Because the calculations don't take into account terrestrial
+obstructions beyond 10 miles from the transmitter, they don't recognize
 distant obstacles, such as, for example, Cape Perpetua being a small
 impediment to our signals getting into Yachats. Even nearby locations
 can be much different from the predicted coverage. The coverage map
@@ -24,7 +24,7 @@ signal there. Two of the Eugene TV stations operate separate translator
 facilities to provide service to that community.
 
 On the other hand, the signal strength out to sea is probably
-understated. Without hills and trees, it\'s likely possible to receive a
+understated. Without hills and trees, it's likely possible to receive a
 great picture all the way to the horizon and a bit beyond.
 
 Locations such as Siltcoos Lake, and other hilly environs will

@@ -58,10 +58,10 @@ receive the notification.
 Keep in mind that CENS is an excellent enhancement to our effort to
 share emergency information with our citizens, but registration will not
 guarantee notification of any specific event. You are still encouraged
-to visit Lane County Public Safety Agencies\' websites and to stay tuned
+to visit Lane County Public Safety Agencies' websites and to stay tuned
 to local news channels and radio stations during a community crisis.
 
-Another option is to purchase a NOAA (\"weather\") radio. These radios
+Another option is to purchase a NOAA ("weather") radio. These radios
 broadcast NOAA alerts, such including tsunami warnings, and can be
 programmed to turn on when normally not in use. The tsunami warning
 sirens are designed to notify those who are outdoors in low lying areas
@@ -78,7 +78,7 @@ website or
 <http://www.ci.florence.or.us/community/register-your-cell-phone-receive-emergency-notification-alerts>.
 
 **Do I need to register my regular telephone?**\
-No, land-line telephones are already \"registered\" through the 9-1-1
+No, land-line telephones are already "registered" through the 9-1-1
 system.
 
 **How will I receive alerts?**\

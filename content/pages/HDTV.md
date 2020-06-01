@@ -99,9 +99,9 @@ a result, and because the five TV stations have identical power output
 levels, robust signal strength in the area is insured for each station.
 
 [[READ MORE](http://www.westlanetv.org/Siuslaw_News_01-16-2010.pdf)
-about WLT\'s transmission facility upgrade (PDF)\
+about WLT's transmission facility upgrade (PDF)\
 [READ MORE](http://www.westlanetv.org/HDTV/Receivers) about Digital and
-Analog television receivers and \"converter boxes\"\
+Analog television receivers and "converter boxes"\
 [READ MORE](http://www.westlanetv.org/HDTV/Antennas) about antennas and
 signal reception\
 [READ MORE](http://www.westlanetv.org/HDTV/Coverage) about reception and

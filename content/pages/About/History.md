@@ -12,12 +12,12 @@ described in this clipping from *The Siuslaw Oar*:
 | 1959](http://www.westlanetv.org/g |                                   |
 | fx/The-Oar.jpg "The Siuslaw Oar,  | Two television translators will   |
 | June 12, 1959"){width="608"       | be installed here as soon as      |
-| height="800"}\                    | approximately \$4500 more is      |
-| ](http://www.westlanetv.org/The_O | raised to add to the \$9700 in    |
+| height="800"}                     | approximately $4500 more is       |
+| ](http://www.westlanetv.org/The_O | raised to add to the $9700 in     |
 | ar.pdf)                           | the fund June 9. This is the      |
 |                                   | decision of subscribers in West   |
 | Click for PDF copy                | Lane Translator Corp. by show of  |
-|                                   | hands at Tuesday evening\'s       |
+|                                   | hands at Tuesday evening's        |
 |                                   | meeting at Siuslaw junior high    |
 |                                   | school.                           |
 |                                   |                                   |
@@ -49,10 +49,10 @@ described in this clipping from *The Siuslaw Oar*:
 |                                   | reception. The translators will   |
 |                                   | provide signals for color TV.     |
 |                                   |                                   |
-|                                   | Up to the meeting time, \$9300    |
+|                                   | Up to the meeting time, $9300     |
 |                                   | was raised, with new subscribers  |
 |                                   | during the evening boosting the   |
-|                                   | total to \$9700.                  |
+|                                   | total to $9700.                   |
 |                                   |                                   |
 |                                   | Art Wharfield explained the work  |
 |                                   | of the committee who have been    |
@@ -65,19 +65,19 @@ described in this clipping from *The Siuslaw Oar*:
 |                                   | assist in the fund raising        |
 |                                   | campaign which has as its         |
 |                                   | immediate goal a sum to reach     |
-|                                   | \$14,196 necessary for two        |
+|                                   | $14,196 necessary for two         |
 |                                   | channels.                         |
 |                                   |                                   |
 |                                   | Bob Wick gave data on financing   |
 |                                   | for the project. For one channel  |
-|                                   | reception, \$8675 is estimated    |
-|                                   | necessary, two channel, \$14,196  |
-|                                   | and three channel, \$19,717. Each |
-|                                   | transmitter costs \$3100 (each    |
+|                                   | reception, $8675 is estimated     |
+|                                   | necessary, two channel, $14,196   |
+|                                   | and three channel, $19,717. Each  |
+|                                   | transmitter costs $3100 (each     |
 |                                   | channel requires one); building   |
-|                                   | to house the equipment, \$750; a  |
-|                                   | road; \$1000 and maintenance;     |
-|                                   | \$1500.                           |
+|                                   | to house the equipment, $750; a   |
+|                                   | road; $1000 and maintenance;      |
+|                                   | $1500.                            |
 |                                   |                                   |
 |                                   | Close to 300 persons attended.    |
 +-----------------------------------+-----------------------------------+
@@ -91,12 +91,12 @@ another big step forward for our organization, featured in this article
 in *The Siuslaw News*
 
 +-----------------------------------+-----------------------------------+
-| **Seeing digital**\               | [![The Siuslaw News, January 16,  |
+| **Seeing digital**                | [![The Siuslaw News, January 16,  |
 | West Lane Translator converts     | 2010](http://www.westlanetv.org/g |
 | free local TV channels to         | fx/seeing-digital.jpg "The Siusla |
-| digital\                          | w News, January 16, 2010"){width= |
-| BY RYAN CRONK\                    | "298"                             |
-| Siuslaw News                      | height="674"}\                    |
+| digital                           | w News, January 16, 2010"){width= |
+| BY RYAN CRONK                     | "298"                             |
+| Siuslaw News                      | height="674"}                     |
 |                                   | ](http://www.westlanetv.org/Siusl |
 | JANUARY 16, 2010                  | aw_News_01-16-2010.pdf)           |
 |                                   |                                   |
@@ -105,7 +105,7 @@ in *The Siuslaw News*
 | channels broadcasted by West Lane |                                   |
 | Translator (WLT), which           |                                   |
 | successfully converted its free   |                                   |
-| \"over-the-air" TV services after |                                   |
+| "over-the-air" TV services after  |                                   |
 | a month of delays.                |                                   |
 |                                   |                                   |
 | As of Wednesday, the local        |                                   |
@@ -116,16 +116,16 @@ in *The Siuslaw News*
 | digital signals, improving audio  |                                   |
 | and visual quality for viewers.   |                                   |
 |                                   |                                   |
-| \"The transition to digital for   |                                   |
+| "The transition to digital for    |                                   |
 | this area might not have happened |                                   |
-| if we had sat back,\" said Bill   |                                   |
-| Durst, WLT board member. \"In     |                                   |
+| if we had sat back," said Bill    |                                   |
+| Durst, WLT board member. "In      |                                   |
 | some communities, broadcasters    |                                   |
 | lacking local support are         |                                   |
 | considering turning off the old   |                                   |
 | signal rather than fund digital.  |                                   |
 | Those communities risk going      |                                   |
-| without free television.\"        |                                   |
+| without free television."         |                                   |
 |                                   |                                   |
 | Durst said the volunteer WLT      |                                   |
 | board worked hard to obtain a     |                                   |
@@ -133,17 +133,17 @@ in *The Siuslaw News*
 | and fall-back positions with      |                                   |
 | broadcasters.                     |                                   |
 |                                   |                                   |
-| \"Our mission is promotion of     |                                   |
+| "Our mission is promotion of      |                                   |
 | free broadcasting for the         |                                   |
 | community --- in a tradition of   |                                   |
 | 50 years of effort --- and we     |                                   |
 | believe we will accomplish        |                                   |
-| this,\" he added.                 |                                   |
+| this," he added.                  |                                   |
 |                                   |                                   |
-| \"We also want to thank new       |                                   |
+| "We also want to thank new        |                                   |
 | community member supporters who   |                                   |
 | have voluntarily sent in annual   |                                   |
-| or life-time dues.\"              |                                   |
+| or life-time dues."               |                                   |
 |                                   |                                   |
 | Last weekend, Oregon Reception    |                                   |
 | Engineering mounted 1,000 pounds  |                                   |
@@ -160,15 +160,15 @@ in *The Siuslaw News*
 | was essential for the digital     |                                   |
 | switch.                           |                                   |
 |                                   |                                   |
-| \"The delays were unfortunate,\"  |                                   |
-| Durst said, \"We had to take some |                                   |
+| "The delays were unfortunate,"    |                                   |
+| Durst said, "We had to take some  |                                   |
 | risk here, both in obtaining this |                                   |
 | tower and in deciding to buy      |                                   |
-| equipment.\"                      |                                   |
+| equipment."                       |                                   |
 |                                   |                                   |
 | WLT's digital conversion          |                                   |
 | culminates two years of planning  |                                   |
-| and nearly \$500,000 in modern    |                                   |
+| and nearly $500,000 in modern     |                                   |
 | equipment and tower.              |                                   |
 |                                   |                                   |
 | New digital signals bring new     |                                   |
@@ -193,17 +193,17 @@ in *The Siuslaw News*
 | TV sets will require a converter  |                                   |
 | box to get reception.             |                                   |
 |                                   |                                   |
-| \"We expect the best digital      |                                   |
+| "We expect the best digital       |                                   |
 | signal will come from using an    |                                   |
 | external UHF antenna. The next    |                                   |
 | best signal will come from using  |                                   |
 | the old indoor rabbit-ear loop    |                                   |
-| antenna,\" said Dennis Hunt, WLT  |                                   |
+| antenna," said Dennis Hunt, WLT   |                                   |
 | board member and TV engineer.     |                                   |
-| \"Non-digital sets will require   |                                   |
+| "Non-digital sets will require    |                                   |
 | the converter box. There is no    |                                   |
 | need to buy an amplified antenna  |                                   |
-| system.\"                         |                                   |
+| system."                          |                                   |
 |                                   |                                   |
 | For more information, visit WLT's |                                   |
 | Web site                          |                                   |

@@ -5,7 +5,7 @@ Tsunami Preparedness
 
 ### **WHAT TO DO:**
 
-If you feel an earthquake, a tsunami may be coming\...
+If you feel an earthquake, a tsunami may be coming...
 
 -   **DROP, COVER, HOLD** until the earthquake is over; protect yourself
 -   **MOVE IMMEDIATELY INLAND** to high ground and away from low-lying
@@ -72,13 +72,13 @@ North Florence, OR 97439\
 <http://florencecert.tripod.com/>
 
 Oregon Department of Geology and Mineral Industries\
-800 NE Oregon Street \#28, Suite 965\
+800 NE Oregon Street #28, Suite 965\
 Portland, OR 97232\
 (971) 673-1555\
 <http://www.oregongeology.com>
 
 Nature of the Northwest Information Center\
-800 NE Oregon Street \#5, Suite 177\
+800 NE Oregon Street #5, Suite 177\
 Portland, OR 97232\
 (503) 872-2750\
 <http://www.naturenw.org/>

@@ -84,7 +84,7 @@ wait for emergency personnel. Do not attempt to drive into the city.
 Official public announcements and both general and specific information
 about Tsunami watches and warnings will be broadcast on KCST Radio,
 106.9 FM and updated as the event progresses. If conditions warrant,
-additional broadcast stations will be programmed with KCST\'s content.
+additional broadcast stations will be programmed with KCST's content.
 Additional stations include:
 
 KCFM-AM, 1250 AM, Florence\
