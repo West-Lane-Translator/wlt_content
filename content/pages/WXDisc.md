@@ -1,59 +1,8 @@
-<div>
-
-</div>
-
-::: {#wrapper}
-::: {#container .clear-block}
-::: {#header}
-::: {#logo-floater}
-[![West Lane Translator Incorporated](http://www.westlanetv.org/themes/garland/logo.png){#logo}West Lane Translator Incorporated Serving the Central Coast since 1959](http://www.westlanetv.org/ "West Lane Translator Incorporated Serving the Central Coast since 1959")
-===========================================================================================================================================================================================================================================================================
-:::
-:::
-
-::: {#sidebar-left .sidebar}
-::: {#block-user-1 .clear-block .block .block-user}
-::: {.content}
--   [Introduction](http://www.westlanetv.org/Introduction)
--   [HD
-    Television](http://www.westlanetv.org/HDTV "High Definition Television for Florence")
--   [FM Radio](http://www.westlanetv.org/FM "FM Radio for Florence")
--   [EAS
-    System](http://www.westlanetv.org/EAS "The Emergency Alert System")
--   [F.A.Q.](http://www.westlanetv.org/FAQ)
--   [About WLT /
-    Contact](http://www.westlanetv.org/contact "About WLT and Contact Information")
--   [Donate / Join](http://www.westlanetv.org/Donate)
--   [Weather](http://www.westlanetv.org/WX "Florence, Oregon Weather")
-    -   [Weather
-        Discussion](http://www.westlanetv.org/WXDisc "Weather Discussion for Western Oregon"){.active}
-    -   [Siuslaw River
-        Level](http://www.westlanetv.org/WX/Siuslaw_River)
--   [Webcams](http://www.westlanetv.org/Webcam)
--   [Florence Tide
-    Chart](http://www.westlanetv.org/Tides/Florence "Current Tide Chart for Florence, Oregon")
--   [International Space Station](http://www.westlanetv.org/ISS)
--   [Tsunami Information](http://www.westlanetv.org/Tsunami)
--   [Search](http://www.westlanetv.org/search/node "Search the WLT Site")
-:::
-:::
-:::
-
-::: {#center}
-::: {#squeeze}
-::: {.right-corner}
-::: {.left-corner}
-::: {.breadcrumb}
-[Home](http://www.westlanetv.org/) ›
 [Weather](http://www.westlanetv.org/WX "Florence, Oregon Weather")
-:::
 
 Weather Discussion for Western Oregon
 -------------------------------------
 
-::: {.clear-block}
-::: {#node-4 .node}
-::: {.content .clear-block}
     000
     FXUS66 KPQR 300410 AAA
     AFDPQR
@@ -470,24 +419,6 @@ Visit your local NWS office at: <http://www.wrh.noaa.gov/pqr>\
         "productName": "Area Forecast Discussion",
         "productText": "\n000\nFXUS66 KPQR 300410 AAA\nAFDPQR\n\nArea Forecast Discussion...UPDATED\nNational Weather Service Portland OR \n909 PM PDT Fri May 29 2020\n\nUpdated aviation discussion\n\n.SYNOPSIS...High pressure over the Pacific NW gives way to an\napproaching low pressure system from the southwest tonight. Active \nconvective weather expected through Saturday with the potential for\nthunderstorms. Sunday high pressure will start to build in over the\nPacific NW, but a shortwave trough begins passing over the area on\nMonday, which will usher in a period of calm weather with seasonal\ntemperatures and low precipitation chances through Thursday. The next\nmajor system looks to impact the area starting next Friday. \n\n&&\n\n.SHORT TERM...Tonight through Sunday Night...The dominating ridge\nwhich has brought near record breaking temperatures across the area,\nwill continue being pushed out by an advancing low from the southwest\ntonight. This low will bring a period of active convective weather to\nthe area as it moves to the northeast. This low has strong upper\nlevel easterly winds and elevated convection. \n\nAs this system approaches the eastern portion of the Lane County\nCascades into the afternoon and early evening hours, expect showers\nto manifest along with the chances for some thunderstorm activity.\nThe easterly flow mentioned above will allow any elevated storm cells\nto be pushed west of the Cascades and into the Willamette Valley this\nevening. \n\nTonight and into Saturday this elevated convection will propagate\nalong the Cascades as the low moves further north and east. The\nstrong easterly winds will continue to push any developing cells into\nthe remaining portions of the Willamette Valley. Thunderstorm chances\nwill persist through much of Saturday, but will start to recede by \nSaturday afternoon in the southern portions of the CWA. The trend of \nlowering thunderstorm chances, will continue propagating northward \nas the low moves further into eastern Washington and eastern Oregon \nSaturday night. However, showers will continue to linger across the \nCWA through Sunday night as high pressure slowly starts to build. \n/42 \n\n.LONG TERM...Monday through Friday...The start of next week brings\nmore seasonable weather and temperatures to the CWA. The ridge of\nhigh pressure continues to build over the area, but a shortwave\ntrough does pass over the area on Monday. The passage of the\nshortwave could bring some light precipitation to the area through\nthe middle of next week. Thursday night into Friday has the next\nmajor trough diving down from Alaska into the area, bringing cooler\ntemperatures along with an increasing chance for precipitation. /42 \n\n&&\n\n.AVIATION...Mainly VFR conditions this evening with variable mid and \nhigh clouds. As onshore flow increases along the coast expect marine \nclouds and patchy fog to develop, with a mix of IFR and low MVFR \nlikely after midnight. The interior will remain VFR into Saturday \nmorning. The latest guidance continues to show showers spreading \nnorth late tonight, with coverage increasing through the day. This \nwill result in an increasing chance of MVFR conditions at inland TAF \nsites Saturday. Isolated thunderstorms remain possible for areas \neast of the Coast Range late tonight through Saturday evening, but \nthe best chances remain in the Cascades. However, confidence is \nstill too low to include the mention of VCTS at interior TAF sites. \n\nKPDX AND APPROACHES...VFR conditions expected through Saturday \nmorning. Will see an increasing chance for MVFR cigs after 18Z as \nshowers and isolated thunderstorms spread north. /64\n\n&&\n\n.MARINE...A trough of low pressure over southwest Oregon will \ncontinue to bring gusty north to northwest winds over the coastal \nwaters through tonight. As the low pressure shifts further inland \nand high pressure shifts in off the Pacific, winds will weaken some \nearly Saturday. A westerly swell will keep seas close to 10 ft \nthrough early Saturday, before beginning to subside again later \nSaturday and into Sunday. \n\nSunday night and Monday a trough of low pressure is expected to \nredevelop along the south Oregon coast, returning gusty north. winds \nto the coastal waters, with the strongest winds south of Cascade \nHead.\n\n&&\n\n.PQR WATCHES/WARNINGS/ADVISORIES...\nOR...None.\nWA...None.\nPZ...Small Craft Advisory until 3 PM PDT Saturday for coastal waters \n     from Cape Shoalwater WA to Florence OR out 60 NM.\n\n     Small Craft Advisory from 10 PM this evening to 1 AM PDT \n     Saturday for Columbia River Bar.\n\n&&\n\n$$\n\n\n\nThis discussion is for Northwest oregon and Southwest Washington \nfrom the Cascade crest to 60 nm offshore. This area is commonly \nreferred to as the forecast area.\n"
     }
-:::
 
-::: {.clear-block}
-::: {.meta}
-:::
-:::
-:::
-:::
 
-::: {#footer}
-:::
-:::
-:::
-:::
-:::
-:::
-:::
 
-[[If you see kay
-spam](http://www.mymooresville.com/horizontal.php?date=6)\
-[dr-content](http://www.westlanetv.org/liverpoet.php)]{style="display: none !important; opacity: 0.0;"}
