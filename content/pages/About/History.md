@@ -1,0 +1,290 @@
+<div>
+
+</div>
+
+::: {#wrapper}
+::: {#container .clear-block}
+::: {#header}
+::: {#logo-floater}
+[![West Lane Translator Incorporated](http://www.westlanetv.org/themes/garland/logo.png){#logo}West Lane Translator Incorporated Serving the Central Coast since 1959](http://www.westlanetv.org/ "West Lane Translator Incorporated Serving the Central Coast since 1959")
+===========================================================================================================================================================================================================================================================================
+:::
+:::
+
+::: {#sidebar-left .sidebar}
+::: {#block-user-1 .clear-block .block .block-user}
+::: {.content}
+-   [Introduction](http://www.westlanetv.org/Introduction)
+-   [HD
+    Television](http://www.westlanetv.org/HDTV "High Definition Television for Florence")
+-   [FM Radio](http://www.westlanetv.org/FM "FM Radio for Florence")
+-   [EAS
+    System](http://www.westlanetv.org/EAS "The Emergency Alert System")
+-   [F.A.Q.](http://www.westlanetv.org/FAQ)
+-   [About WLT /
+    Contact](http://www.westlanetv.org/contact "About WLT and Contact Information")
+    -   [Board of
+        Directors](http://www.westlanetv.org/About/BOD "Meet the Board of Directors of WLT")
+    -   [Committees](http://www.westlanetv.org/About/Committees "WLT Commitee Lists")
+    -   [Meetings](http://www.westlanetv.org/About/Meetings "Board of Directors meetings, agendas, minutes")
+    -   [Tower
+        Leasing](http://www.westlanetv.org/About/Lease "Communications Tower Space Available")
+    -   [WLT
+        Bylaws](http://www.westlanetv.org/About/Bylaws "Corporation Bylaws in PDF")
+    -   [WLT History](http://www.westlanetv.org/About/History){.active}
+-   [Donate / Join](http://www.westlanetv.org/Donate)
+-   [Weather](http://www.westlanetv.org/WX "Florence, Oregon Weather")
+-   [Webcams](http://www.westlanetv.org/Webcam)
+-   [Florence Tide
+    Chart](http://www.westlanetv.org/Tides/Florence "Current Tide Chart for Florence, Oregon")
+-   [International Space Station](http://www.westlanetv.org/ISS)
+-   [Tsunami Information](http://www.westlanetv.org/Tsunami)
+-   [Search](http://www.westlanetv.org/search/node "Search the WLT Site")
+:::
+:::
+:::
+
+::: {#center}
+::: {#squeeze}
+::: {.right-corner}
+::: {.left-corner}
+::: {.breadcrumb}
+[Home](http://www.westlanetv.org/) › [About WLT /
+Contact](http://www.westlanetv.org/contact "About WLT and Contact Information")
+:::
+
+WLT History
+-----------
+
+::: {.clear-block}
+::: {#node-73 .node}
+::: {.content .clear-block}
+Free, over-the-air television in the Florence area began back in 1959
+with a demonstration of the capabilities of translator technology,
+described in this clipping from *The Siuslaw Oar*:
+
++-----------------------------------+-----------------------------------+
+| [![The Siuslaw Oar, June 12,      | **Favor 2-Channel TV Reception**  |
+| 1959](http://www.westlanetv.org/g |                                   |
+| fx/The-Oar.jpg "The Siuslaw Oar,  | Two television translators will   |
+| June 12, 1959"){width="608"       | be installed here as soon as      |
+| height="800"}\                    | approximately \$4500 more is      |
+| ](http://www.westlanetv.org/The_O | raised to add to the \$9700 in    |
+| ar.pdf)                           | the fund June 9. This is the      |
+|                                   | decision of subscribers in West   |
+| Click for PDF copy                | Lane Translator Corp. by show of  |
+|                                   | hands at Tuesday evening\'s       |
+|                                   | meeting at Siuslaw junior high    |
+|                                   | school.                           |
+|                                   |                                   |
+|                                   | The meeting had been called to    |
+|                                   | demonstrate television reception  |
+|                                   | over a single channel, a          |
+|                                   | translator having been            |
+|                                   | temporarily installed on Canary   |
+|                                   | Hill. A clear, steady picture     |
+|                                   | showed on the screen, with        |
+|                                   | necessary antenna and converter   |
+|                                   | being in view on the auditorium   |
+|                                   | stage with the set.               |
+|                                   |                                   |
+|                                   | Paul Kafoury, television man from |
+|                                   | Newport, explained technical      |
+|                                   | features of the proposed system   |
+|                                   | and answered questions from the   |
+|                                   | audience. Get the best equipment  |
+|                                   | and installation service he       |
+|                                   | advised, pointing out situations  |
+|                                   | in which poor reception might     |
+|                                   | result. Some locations may cause  |
+|                                   | technical difficulties, only a    |
+|                                   | fair trial can determine whether  |
+|                                   | these cannot be overcome, he      |
+|                                   | said. A few places in the area    |
+|                                   | appear to be unsuitable for good  |
+|                                   | reception. The translators will   |
+|                                   | provide signals for color TV.     |
+|                                   |                                   |
+|                                   | Up to the meeting time, \$9300    |
+|                                   | was raised, with new subscribers  |
+|                                   | during the evening boosting the   |
+|                                   | total to \$9700.                  |
+|                                   |                                   |
+|                                   | Art Wharfield explained the work  |
+|                                   | of the committee who have been    |
+|                                   | directing the campaign to bring   |
+|                                   | topnotch television reception to  |
+|                                   | the coastal region of western     |
+|                                   | Lane county.                      |
+|                                   |                                   |
+|                                   | Several persons volunteered to    |
+|                                   | assist in the fund raising        |
+|                                   | campaign which has as its         |
+|                                   | immediate goal a sum to reach     |
+|                                   | \$14,196 necessary for two        |
+|                                   | channels.                         |
+|                                   |                                   |
+|                                   | Bob Wick gave data on financing   |
+|                                   | for the project. For one channel  |
+|                                   | reception, \$8675 is estimated    |
+|                                   | necessary, two channel, \$14,196  |
+|                                   | and three channel, \$19,717. Each |
+|                                   | transmitter costs \$3100 (each    |
+|                                   | channel requires one); building   |
+|                                   | to house the equipment, \$750; a  |
+|                                   | road; \$1000 and maintenance;     |
+|                                   | \$1500.                           |
+|                                   |                                   |
+|                                   | Close to 300 persons attended.    |
++-----------------------------------+-----------------------------------+
+
+------------------------------------------------------------------------
+
+ 
+
+More recently, the switch from analog to digital TV transmission was
+another big step forward for our organization, featured in this article
+in *The Siuslaw News*
+
++-----------------------------------+-----------------------------------+
+| **Seeing digital**\               | [![The Siuslaw News, January 16,  |
+| West Lane Translator converts     | 2010](http://www.westlanetv.org/g |
+| free local TV channels to         | fx/seeing-digital.jpg "The Siusla |
+| digital\                          | w News, January 16, 2010"){width= |
+| BY RYAN CRONK\                    | "298"                             |
+| Siuslaw News                      | height="674"}\                    |
+|                                   | ](http://www.westlanetv.org/Siusl |
+| JANUARY 16, 2010                  | aw_News_01-16-2010.pdf)           |
+|                                   |                                   |
+| Florence television viewers this  | Click for PDF copy                |
+| week were greeted to new digital  |                                   |
+| channels broadcasted by West Lane |                                   |
+| Translator (WLT), which           |                                   |
+| successfully converted its free   |                                   |
+| \"over-the-air" TV services after |                                   |
+| a month of delays.                |                                   |
+|                                   |                                   |
+| As of Wednesday, the local        |                                   |
+| nonprofit organization's four     |                                   |
+| licensed stations --- ABC, CBS,   |                                   |
+| NBC and FOX --- and OPB           |                                   |
+| transitioned from analog to       |                                   |
+| digital signals, improving audio  |                                   |
+| and visual quality for viewers.   |                                   |
+|                                   |                                   |
+| \"The transition to digital for   |                                   |
+| this area might not have happened |                                   |
+| if we had sat back,\" said Bill   |                                   |
+| Durst, WLT board member. \"In     |                                   |
+| some communities, broadcasters    |                                   |
+| lacking local support are         |                                   |
+| considering turning off the old   |                                   |
+| signal rather than fund digital.  |                                   |
+| Those communities risk going      |                                   |
+| without free television.\"        |                                   |
+|                                   |                                   |
+| Durst said the volunteer WLT      |                                   |
+| board worked hard to obtain a     |                                   |
+| local bridge loan, federal grant  |                                   |
+| and fall-back positions with      |                                   |
+| broadcasters.                     |                                   |
+|                                   |                                   |
+| \"Our mission is promotion of     |                                   |
+| free broadcasting for the         |                                   |
+| community --- in a tradition of   |                                   |
+| 50 years of effort --- and we     |                                   |
+| believe we will accomplish        |                                   |
+| this,\" he added.                 |                                   |
+|                                   |                                   |
+| \"We also want to thank new       |                                   |
+| community member supporters who   |                                   |
+| have voluntarily sent in annual   |                                   |
+| or life-time dues.\"              |                                   |
+|                                   |                                   |
+| Last weekend, Oregon Reception    |                                   |
+| Engineering mounted 1,000 pounds  |                                   |
+| of new antenna equipment to the   |                                   |
+| top of WLT's 240-foot tower       |                                   |
+| located south of Florence. The    |                                   |
+| low-wind weather provided an      |                                   |
+| opportunity for engineering crews |                                   |
+| to make the strenuous lift.       |                                   |
+|                                   |                                   |
+| Stormy conditions last month      |                                   |
+| prevented installation of the     |                                   |
+| 12-panel antenna system, which    |                                   |
+| was essential for the digital     |                                   |
+| switch.                           |                                   |
+|                                   |                                   |
+| \"The delays were unfortunate,\"  |                                   |
+| Durst said, \"We had to take some |                                   |
+| risk here, both in obtaining this |                                   |
+| tower and in deciding to buy      |                                   |
+| equipment.\"                      |                                   |
+|                                   |                                   |
+| WLT's digital conversion          |                                   |
+| culminates two years of planning  |                                   |
+| and nearly \$500,000 in modern    |                                   |
+| equipment and tower.              |                                   |
+|                                   |                                   |
+| New digital signals bring new     |                                   |
+| changes to the local channel      |                                   |
+| lineup. After programming a tuner |                                   |
+| scan through the television or    |                                   |
+| digital converter box, each of    |                                   |
+| the four TV stations and OPB will |                                   |
+| show up as the following: 9.1     |                                   |
+| (ABC), 9.2 (Local News/Weather),  |                                   |
+| 13.1 (CBS), 13.2 (This), 16.1     |                                   |
+| (NBC), 16.2 (CW), 29.1 (OPB HD),  |                                   |
+| 29.2 (OPB SD), 29.3 (OPB PLUS),   |                                   |
+| 29.4 (OPB FM), 34.1 (FOX), 34.2   |                                   |
+| (MY TV).                          |                                   |
+|                                   |                                   |
+| WLT will continue to broadcast    |                                   |
+| channels 52, 54, 56, 58 and 60 in |                                   |
+| analog until the end of January.  |                                   |
+| Once these signals are turned     |                                   |
+| off, however, older non-digital   |                                   |
+| TV sets will require a converter  |                                   |
+| box to get reception.             |                                   |
+|                                   |                                   |
+| \"We expect the best digital      |                                   |
+| signal will come from using an    |                                   |
+| external UHF antenna. The next    |                                   |
+| best signal will come from using  |                                   |
+| the old indoor rabbit-ear loop    |                                   |
+| antenna,\" said Dennis Hunt, WLT  |                                   |
+| board member and TV engineer.     |                                   |
+| \"Non-digital sets will require   |                                   |
+| the converter box. There is no    |                                   |
+| need to buy an amplified antenna  |                                   |
+| system.\"                         |                                   |
+|                                   |                                   |
+| For more information, visit WLT's |                                   |
+| Web site                          |                                   |
+| [www.WestLaneTV.org](http://www.W |                                   |
+| estLaneTV.org "www.WestLaneTV.org |                                   |
+| ").                               |                                   |
++-----------------------------------+-----------------------------------+
+:::
+
+::: {.clear-block}
+::: {.meta}
+:::
+:::
+:::
+:::
+
+::: {#footer}
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+
+[[If you see kay
+spam](http://www.mymooresville.com/horizontal.php?date=6)\
+[dr-content](http://www.westlanetv.org/liverpoet.php)]{style="display: none !important; opacity: 0.0;"}
