@@ -27,5 +27,3 @@ to let us know your feelings or need further information.
 Start your visit here by reading the Frequently Asked Questions
 section, or by exploring the menu items on the left side of every
 page.
-
-[//]: # "TODO: Display weather, tides, etc.?"

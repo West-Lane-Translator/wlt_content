@@ -1,4 +1,4 @@
-Title: Board of Directors
+Title: WLT Board of Directors
 
 Name | Office | Affiliation
 ---- | ------ | -----------

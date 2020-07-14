@@ -1,4 +1,4 @@
-Title: Community Radio for Florence
+Title: KXCR: Community Radio for Florence
 
 KXCR Community Radio Partners is a 501(c)(3) nonprofit Oregon corporation
 formed in February 2012 to provide financial, programming and volunteer

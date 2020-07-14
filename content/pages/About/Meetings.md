@@ -1,17 +1,19 @@
 Title: WLT Board Meetings
 
-Board Meetings Dates Scheduled
-: Fourth Wednesday of January, April, July, and October, unless a
-  special meeting is convened.
+Board Meetings Dates Scheduled: Historically, meetings were held on the
+fourth Wednesday of January, April, July, and October at 6:00 PM in
+the Bromley room of the Siuslaw Public Library. Due to COVID-19
+limitations, it is unclear when the next meeting will occur and in
+what format.
 
-### Next Meetings
+### Next Meetings:
 
 Date | Time | Location
 ---- | ---- | --------
-<div id='meet1'></div> | 6:00 PM | Subject to coronavirus restrictions
-<div id='meet2'></div> | 6:00 PM | TBD
-<div id='meet3'></div> | 6:00 PM | TBD
-<div id='meet4'></div> | 6:00 PM | TBD
+<div id='meet1'>JavaScript required</div> | 6:00 PM | Cancelled due to COVID-19 limitations
+<div id='meet2'>JavaScript required</div> | 6:00 PM | TBD
+<div id='meet3'>JavaScript required</div> | 6:00 PM | TBD
+<div id='meet4'>JavaScript required</div> | 6:00 PM | TBD
 
 <script type="text/javascript">
 function setFourthWednesdayOfQuarter(dt) {

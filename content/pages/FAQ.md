@@ -79,4 +79,3 @@ is an integral part of public safety in the event of an emergency, and
 also is used to assist law enforcement in the event of a child
 abduction. Get to know more about this essential service by reading our
 [EAS Information Page]({filename}EAS.md).
-

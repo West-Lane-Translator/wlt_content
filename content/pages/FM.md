@@ -9,217 +9,116 @@ with keeping the WLT facilities operational.
 
 [//]: # "TODO: Sort FM stations"
 
-Station | Eugene Frequency | Florence Frequency | Content
-------- | ---------------- | ------------------ | -------
-[KLCC/KLFO]({filename}FM.md#klcc) | 89.7 MHz | 88.1 MHz | Public Radio from Lane Community College
-[KXCR]({filename}FM.md#kxcr) | - | 90.7 MHz | Florence community station
-[KWAX/KWVZ]({filename}FM.md#kwax) | 91.1MHz | 91.5 MHz | Classical Music Programming from the University of Oregon
-[KQFE]({filename}FM.md#kqfe) | 88.9 MHz | 92.5 MHz | Family Stations Christian broadcasting
-[KKNU]({filename}FM.md#kknu) | 93.3 MHz | 100.9 MHz | New Country 93
-[KODZ]({filename}FM.md#kodz) | 99.1 MHz | 95.3 MHz | Oldies 99
+Station | Florence Frequency | Eugene Frequency | Content
+:------ | :----------------: | :--------------: | :------
+[KLCC/KLFO]({filename}FM.md#klcc) | 88.1 MHz | 89.7 MHz | Public Radio from Lane Community College
+[KXCR]({filename}FM.md#kxcr) | 90.7 MHz | - | Florence community station
+[KWAX/KWVZ]({filename}FM.md#kwax) | 91.5 MHz | 91.1 MHz | Classical Music Programming from the University of Oregon
+[KQFE]({filename}FM.md#kqfe) | 92.5 MHz | 88.9 MHz | Family Stations Christian broadcasting
+[KODZ]({filename}FM.md#kodz) | 95.3 MHz | 99.1 MHz | Oldies 99
+[KKNU]({filename}FM.md#kknu) | 100.9 MHz | 93.3 MHz | New Country 93
 
 Each of these stations operates a translator or satellite station in the
 Florence community. The following tables will give you information about
 each, and provide contact information.
 
--------
-
-# KLCC
-
-Translator Call Sign
-: KLFO
-
-Eugene Frequency
-: 89.7 MHz
-
-Florence Frequency
-: 88.1 MHz
-
-Output Power
-: 250 Watts E.R.P.
-
-Programming
-: National Public Radio network
-: Local news and features
-: Eclectic music selection
-
-Licensee
-: Lane Community College
-
-Address
-: KLCC Radio
-: 136 W 8th Ave
-: Eugene, Oregon 97401
-
-Telephone
-: Announcer Line: 541-463-5522
-: News Line: 541-463-6022
-: Business Office: 541-463-6000
-
-Website
-: <http://www.klcc.org>
+| **KLCC**{: #klcc } |   |
+| :------- | - |
+| Translator Call Sign: | KLFO |
+| Florence Frequency: | 88.1 MHz |
+| Eugene Frequency: | 89.7 MHz |
+| Output Power: | 250 Watts E.R.P. |
+| Programming: | National Public Radio network |
+| | Local news and features |
+| | Eclectic music selection |
+| Licensee: | Lane Community College |
+| Address: | KLCC Radio |
+| | 136 W 8th Ave |
+| | Eugene, Oregon 97401 |
+| Telephone: | Announcer Line: 541-463-5522 |
+| | News Line: 541-463-6022 |
+| | Business Office: 541-463-6000 |
+| Website: | <http://www.klcc.org> |
 
 -------
 
-# KXCR
-
-Station Call Sign
-: KXCR
-
-Florence Frequency
-: 90.7 MHz
-
-Output Power
-: 900 Watts E.R.P.
-
-Programming
-: Florence community news and public affairs
-
-Licensee
-: West Lane Translator, Inc
-
-Address
-: KXCR Radio
-: P.O. Box 127
-: Florence, Oregon 97439
-
-Telephone
-: Business Office: 541-997-5252
-
-Website
-: <http://www.kxcr.net>
+| **KXCR**{: #kxcr } |   |
+| :------- | - |
+| Station Call Sign: | KXCR |
+| Florence Frequency: | 90.7 MHz |
+| Output Power: | 900 Watts E.R.P. |
+| Programming: | Florence community news and public affairs |
+| Licensee: | West Lane Translator, Inc |
+| Address: | KXCR Radio |
+| | P.O. Box 127 |
+| | Florence, Oregon 97439 |
+| Telephone: | Business Office: 541-997-5252 |
+| Website: | <http://www.kxcr.net> |
 
 -------
 
-# KWAX
-
-Translator Call Sign
-: KWVZ
-
-Eugene Frequency
-: 91.1 MHz
-
-Florence Frequency
-: 91.5 MHz
-
-Output Power
-: 150 Watts E.R.P.
-
-Programming
-: Classical Music
-: Fine arts news and features
-
-Licensee
-: University of Oregon
-
-Address
-: KWAX Radio
-: 75 Centennial Loop
-: Eugene, Oregon 97401
-
-Telephone
-: Business Office: 541-345-0800
-: Toll Free: 800-422-4301
-
-Website
-: <http://kwax.uoregon.edu>
+| **KWAX**{: #kwax } |   |
+| :------- | - |
+| Translator Call Sign: | KWVZ |
+| Florence Frequency: | 91.5 MHz |
+| Eugene Frequency: | 91.1 MHz |
+| Output Power: | 150 Watts E.R.P. |
+| Programming: | Classical Music |
+| | Fine arts news and features |
+| Licensee: | University of Oregon |
+| Address: | KWAX Radio |
+| | 75 Centennial Loop |
+| | Eugene, Oregon 97401 |
+| Telephone: | Business Office: 541-345-0800 |
+| | Toll Free: 800-422-4301 |
+| Website: | <http://kwax.uoregon.edu> |
 
 -------
 
-# KQFE
-
-Translator Call Sign
-: K223AO
-
-Eugene Frequency
-: 88.9 MHz
-
-Florence Frequency
-: 92.5 MHz
-
-Output Power
-: 50 Watts E.R.P.
-
-Programming
-: Christian music and features
-
-Licensee
-: Family Stations Inc.
-
-Address
-: Family Stations Inc
-: 4135 Northgate Boulevard #1
-: Sacramento, CA 95834
-
-Telephone
-: Business Office: 800-543-1495
-
-Website
-: <http://www.familyradio.com>
+| **KQFE**{: #kqfe } |   |
+| :------- | - |
+| Translator Call Sign: | K223AO |
+| Florence Frequency: | 92.5 MHz |
+| Eugene Frequency: | 88.9 MHz |
+| Output Power: | 50 Watts E.R.P. |
+| Programming: | Christian music and features |
+| Licensee: | Family Stations Inc. |
+| Address: | Family Stations Inc |
+| | 4135 Northgate Boulevard #1 |
+| | Sacramento, CA 95834 |
+| Telephone: | Business Office: 800-543-1495 |
+| Website: | <http://www.familyradio.com> |
 
 -------
 
-# KKNU
+| **KODZ**{: #kodz } |   |
+| :------- | - |
+| Translator Call Sign: | K237EC |
+| Florence Frequency: | 95.3 MHz |
+| Eugene Frequency: | 99.1 MHz |
+| Output Power: | 25 Watts E.R.P. |
+| Programming: | Classic Hits |
+| Licensee: | Bicoastal Media LLC |
+| Address: | KOOL 99.1 |
+| | 1500 Valley River Dr. Suite 350 |
+| | Eugene, OR 97401 |
+| Telephone: | Announcer Line: 541-284-7599 |
+| | Business Office: 541-284-3600 |
+| Website: | <http://www.kool991.com> |
 
-Translator Call Sign
-: K265AB
-
-Eugene Frequency
-: 93.3 MHz
-
-Florence Frequency
-: 100.9 MHz
-
-Output Power
-: 240 Watts E.R.P.
-
-Programming
-: New Country Music
-
-Licensee
-: McKenzie River Broadcasting
-
-Address
-: McKenzie River Broadcasting
-: 925 Country Club Road Suite 200
-: Eugene, Oregon 97401-2297
-
-Telephone
-: Business Office: 541-484-9400
-
-Website
-: <http://www.kknu.fm>
 
 -------
 
-# KODZ
-
-Translator Call Sign
-: K237EC
-
-Eugene Frequency
-: 99.1 MHz
-
-Florence Frequency
-: 95.3 MHz
-
-Output Power
-: 25 Watts E.R.P.
-
-Programming
-: Classic Hits
-
-Licensee
-: Bicoastal Media LLC
-
-Address
-: KOOL 99.1
-: 1500 Valley River Dr. Suite 350
-: Eugene, OR 97401
-
-Telephone
-: Announcer Line: 541-284-7599
-: Business Office: 541-284-3600
-
-Website
-: <http://www.kool991.com>
+| **KKNU**{: #kknu } |   |
+| :------- | - |
+| Translator Call Sign: | K265AB |
+| Florence Frequency: | 100.9 MHz |
+| Eugene Frequency: | 93.3 MHz |
+| Output Power: | 240 Watts E.R.P. |
+| Programming: | New Country Music |
+| Licensee: | McKenzie River Broadcasting |
+| Address: | McKenzie River Broadcasting |
+| | 925 Country Club Road Suite 200 |
+| | Eugene, Oregon 97401-2297 |
+| Telephone: | Business Office: 541-484-9400 |
+| Website: | <http://www.kknu.fm> |

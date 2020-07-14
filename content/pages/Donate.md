@@ -9,18 +9,16 @@ The amount you donate is up to you.
 All proceeds are applied to the operation of the translator
 facilities, none of our administration is paid staff.
 
+-------
+
 ## Memberships
 
-One Year
-: A One-Year Membership costs just $10 and entitles you to voting
-  privileges at the annual meeting.
-
-Lifetime
-: Lifetime Membership is available for $75. It grants you full
-  membership privileges and our eternal gratitude.
+One Year | Lifetime
+-------- | --------
+A One-Year Membership costs just $10 and entitles you to voting privileges at the annual meeting. | Lifetime Membership is available for $75. It grants you full membership privileges and our eternal gratitude.
 
 Membership conditions and rights are described in the *Regular Voting Members*
-section of the [WLT by-laws]({static}/pdfs/WLT_Bylaws_2018.pdf).
+section of the [WLT bylaws]({static}/pdfs/WLT_Bylaws_2018.pdf).
 
 Membership also includes a quarterly e-newsletter detailing our
 volunteer efforts to maintain your access to free, quality on-air
@@ -30,8 +28,6 @@ towers.
 West Lane Translator is a "membership" nonprofit -- your vote is the
 keystone -- you can vote annually for Board members. You will receive
 email alerts of our open public meetings.
-
--------
 
 Please remit donations or membership via US Postal Mail to our mailing address:
 
