@@ -71,7 +71,7 @@ do {
 
 ### Bylaws
 
-Our bylaws are available in [pdf format]({static}/pdfs/WLT_Bylaws_2018.pdf).
+Our bylaws are available in [PDF format]({static}/pdfs/WLT_Bylaws_2018.pdf).
 
 ### Board Members
 
