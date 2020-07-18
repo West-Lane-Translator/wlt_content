@@ -69,6 +69,10 @@ do {
 } while (i < 5);
 </script>
 
+### Bylaws
+
+Our bylaws are available in [pdf format]({static}/pdfs/WLT_Bylaws_2018.pdf).
+
 ### Board Members
 
 | Name              | Office         | Affiliation                                        |
