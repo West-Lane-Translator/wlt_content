@@ -34,3 +34,6 @@ account more accurate terrain modeling, but it is very expensive, and
 is usually only put to task in high-stakes radio frequency
 installations. For now, all we have access to is the FCC contour maps,
 which is the only data which the Commission regards as valid.
+
+The tools on [TV Fool](https://www.tvfool.com/) may be useful for
+getting information specific to your exact location.

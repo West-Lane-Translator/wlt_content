@@ -26,5 +26,5 @@ can receive our signals.
 The links below will guide you to pages on this site that can inform
 you about how to accomplish this.
 
-* [READ MORE about HDTV main and sub-channels]({filename}HDTV/Channels.md)
-* [READ MORE about antennas and signal reception]({filename}HDTV/Antennas.md)
+* [READ MORE about HDTV main and sub-channels]({filename}Channels.md)
+* [READ MORE about antennas and signal reception]({filename}Antennas.md)

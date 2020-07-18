@@ -1,4 +1,6 @@
 Title: Introduction
+URL:
+Save_As: index.html
 
 Since 1959, West Lane Translator has brought FREE over-the-air
 Television and FM broadcasts to Florence, Oregon and the Central
@@ -24,6 +26,8 @@ notices of upcoming meetings for your perusal. You will also find
 ample [contact information]({filename}contact.md), should you desire
 to let us know your feelings or need further information.
 
-Start your visit here by reading the Frequently Asked Questions
-section, or by exploring the menu items on the left side of every
-page.
+[//]: # "TODO: Fix the left side comment below"
+
+Start your visit here by reading the [Frequently Asked
+Questions]({filename}FAQ.md) section, or by exploring the menu items
+on the left side of every page.

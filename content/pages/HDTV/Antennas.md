@@ -1,5 +1,7 @@
 Title: HDTV Antennas
 
+[TOC]
+
 In order to assist translator system viewers in pulling in the best
 possible signal, what follows a list of tips for installing an antenna
 or "tuning up" an existing antenna.
@@ -17,7 +19,7 @@ like a radar array than a set-top antenna.
 #### Examples of Indoor Antennas
 
 ![Rabbit Ears with a Loop]({static}/images/antenna3.png)
-![Modern Log-Periodic look-alike]({static}/images/antenna6.png)
+![Modern Log-Periodic look-alike]({static}/images/antenna6.png)  
 ![Dual Loop Antenna]({static}/images/antenna5.png)
 ![Radar Array]({static}/images/antenna4.png)
 
@@ -118,6 +120,8 @@ These links to external sites will allow you to research antenna
 performance and learn more about what type of antenna will best suit
 your needs.
 
-* [Antenna Web](https:/www.antennaweb.org) Geographical antenna selector
-* [HDTv Antenna Labs](http://www.hdtvantennalabs.com) HDTV antenna reviews, technical articles and antennas comparison
-* [Solid Signal](https://www.solidsignal.com) Products and service 24 hours a day
+|                                                     |                                                                          |
+| ---                                                 | ---                                                                      |
+| [Antenna Web](https:/www.antennaweb.org)            | Geographical antenna selector                                            |
+| [HDTv Antenna Labs](http://www.hdtvantennalabs.com) | HDTV antenna reviews, technical articles and antennas comparison         |
+| [TV Fool](https://www.tvfool.com/)                  | Resources for over-the-air (OTA) broadcast services (TV, FM, and others) |

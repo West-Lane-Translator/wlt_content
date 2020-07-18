@@ -1,4 +1,4 @@
-Title: HDTV Channels
+Title: HDTV Channels and Sub-channels
 
 The five HD television stations rebroadcast on WLT translators
 originate their signals from Eugene. In order to retransmit these
@@ -9,13 +9,13 @@ numbers.
 
 First, here is a table summarizing the shift in channel numbers:
 
-Station | Eugene Channel | Florence Channel* | Network Affiliation | Translator Callsign
----- | ----- | ----- | --- | -------
-KEPB | Ch 28 | Ch 32 | PBS | K32HF-D
-KEZI | Ch 9 | Ch 35 | ABC | K35HW-D
-KLSR | Ch 34 | Ch 28 | Fox | K28NZ-D
-KMTR | Ch 16 | Ch 26 | NBC | K26NE-D
-KVAL | Ch 13 | Ch 24 | CBS | K24MF-D
+| <br>Station | Eugene<br>Channel | Florence<br>Channel | Network<br>Affiliation | Translator<br>Callsign |
+| ----    | -----          | -----            | ---                 | -------             |
+| KEPB    | Ch 28          | Ch 32            | PBS                 | K32HF-D             |
+| KEZI    | Ch 9           | Ch 35            | ABC                 | K35HW-D             |
+| KLSR    | Ch 34          | Ch 28            | Fox                 | K28NZ-D             |
+| KMTR    | Ch 16          | Ch 26            | NBC                 | K26NE-D             |
+| KVAL    | Ch 13          | Ch 24            | CBS                 | K24MF-D             |
 
 Because digital TV broadcasting allows for three program channels in
 addition to the "main" channel, a decimal is appended to the end of
@@ -81,4 +81,4 @@ number will no longer be necessary or have meaning in the operation of
 your HD receiver. Be sure to read the documentation that accompanied
 your HDTV receiver for more details.
 
-RELATED TOPIC: [Additional channels for Cable and Satellite subscribers]({filename}HDTV/Cable.md)
+RELATED TOPIC: [Additional channels for Cable and Satellite subscribers]({filename}Cable.md)
