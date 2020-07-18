@@ -1,4 +1,4 @@
-Title: HDTV Channels and Sub-channels
+Title: HDTV Channels and Subchannels
 
 The five HD television stations rebroadcast on WLT translators
 originate their signals from Eugene. In order to retransmit these
@@ -25,7 +25,7 @@ available program streams you wish to view from the station. The first
 decimal (Ch x.1) is always the "main" channel for that station.
 
 The following table illustrates the WLT translator channels and
-sub-channels and the programming you can expect to view on each:
+subchannels and the programming you can expect to view on each:
 
 [//]: # "TODO: De-HTML channel table"
 

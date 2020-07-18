@@ -29,12 +29,12 @@ alphabetical order):
 | [KVAL]({filename}HDTV.md#kmtr) | 24 | 13 | Sinclair Broadcasting - CBS TV          |
 
 Be sure to read our [Channels and
-Sub-Channels]({filename}HDTV/Channels.md) page for help and
-advice programming your HD television or HDTV converter box.
+Subchannels]({filename}HDTV/Channels.md) page for help and advice
+programming your HD television or HDTV converter box.
 
 Each of the translators carries the programming content of one of the
 major networks on the main channel. Because HDTV allows for the use of
-sub-channels, each of the stations carries supplemental programming in
+subchannels, each of the stations carries supplemental programming in
 addition to their regular network and locally-produced features. This
 means more choices for the viewer, still at no cost.
 

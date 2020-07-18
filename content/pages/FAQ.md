@@ -17,10 +17,9 @@ originally transmitted on. For example, a broadcast on TV channel 8
 might be received by translator equipment, and shifted either up or
 down, perhaps to channel 45. The program content of the broadcast is
 unchanged by the shift in channel, it is identical to the
-original. Shifting the frequency of FM stations or the channel number of
-TV stations is necessary to prevent interference to the originating
-station's broadcast signal.  See the [Channels and
-Sub-Channels]({filename}HDTV/Channels.md) and [FM
+original. Shifting the frequency of FM stations or the channel number
+of TV stations is necessary to prevent interference to the originating
+station's broadcast signal.  See the [HDTV]({filename}HDTV.md) and [FM
 Radio]({filename}FM.md) pages for additional information.
 
 ## HDTV
@@ -39,7 +38,7 @@ quality, and the complete absence of snow, ghosting, fading, and
 distortion that the old system was prone to experience. HDTV also
 allows the originating station to supply up to three additional
 program streams to be viewed. See the [Channels and
-Sub-Channels]({filename}HDTV/Channels.md) page for additional
+Subchannels]({filename}HDTV/Channels.md) page for additional
 information.
 
 ### I've tried receiving your broadcasts on my HD television, but see nothing. Why?

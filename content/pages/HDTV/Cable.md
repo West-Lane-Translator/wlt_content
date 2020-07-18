@@ -6,7 +6,7 @@ may not know is that you are not getting the "whole picture"!
 
 Cable and satellite services only provide you with the first, "main"
 channel of each of the local stations. You may be missing multiple
-programming choices offered on the HDTV sub-channels, channels that
+programming choices offered on the HDTV subchannels, channels that
 subscription services don't offer under any of their service plans.
 
 Additionally, although the cable or satellite version of the local
@@ -26,5 +26,5 @@ can receive our signals.
 The links below will guide you to pages on this site that can inform
 you about how to accomplish this.
 
-* [READ MORE about HDTV main and sub-channels]({filename}Channels.md)
-* [READ MORE about antennas and signal reception]({filename}Antennas.md)
+* [READ MORE]({filename}Channels.md) about HDTV main and subchannels
+* [READ MORE]({filename}Antennas.md) about antennas and signal reception
