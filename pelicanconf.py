@@ -64,6 +64,10 @@ MENUITEMS = (
     ( 'Membership', '/pages/membership.html' ),
     ( 'Contact Us', '/pages/contact-us.html' )
 )
+FOOTERMENUITEMS = (
+    ( 'Terms and Conditions', '/pages/terms-and-conditions.html' ),
+    ( 'Privacy Policy', '/pages/privacy-policy.html' )
+)
 SITETITLE = SITENAME
 SITESUBTITLE = 'Serving the Central Coast since 1959'
 SITELOGO = SITEURL + '/images/logo.png'
