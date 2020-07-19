@@ -1,10 +1,11 @@
-Title: Communications Facility Leasing
+Title: Leasing
+Menu: TopC
 
 West Lane Translator Incorporated owns and operates a substantial
 communications tower in the Florence, Oregon market. Our facilities are
 located at the top of Parachute Hill, south of the Siuslaw River and Old
 Town Florence. We currently have available tower inventory at all levels
-for lease. [Contact us]({filename}../contact.md) for a consultation on
+for lease. [Contact us]({filename}Contact.md) for a consultation on
 how we can assist your business in achieving its communications goals.
 
 * COVERAGE
@@ -57,7 +58,7 @@ how we can assist your business in achieving its communications goals.
 : WLT's lease offerings are competitively priced.
 
 To learn more about our facilities and set up a consultation to discuss
-your needs, please use our [Contact Form]({filename}../contact.md) to
+your needs, please use our [Contact Form]({filename}Contact.md) to
 submit an inquiry. Someone from our organization will respond to your
 message shortly.
 

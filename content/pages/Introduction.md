@@ -25,7 +25,7 @@ As a non-profit, Oregon State 501(c)(4) corporation, we maintain an
 online [listing]({filename}About/BOD.md) of officers,
 board-of-directors members, upcoming meetings, and
 [bylaws]({static}/pdfs/WLT_Bylaws_2018.pdf) for your perusal. You will
-also find ample [contact information]({filename}contact.md), should
+also find ample [contact information]({filename}About/Contact.md), should
 you desire to let us know your feelings or need further information.
 
 [//]: # "TODO: Fix the left side comment below"

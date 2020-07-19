@@ -1,4 +1,5 @@
-Title: WLT Board of Directors
+Title: Governance
+Menu: TopB
 
 [TOC]
 

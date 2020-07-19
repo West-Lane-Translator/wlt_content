@@ -1,8 +1,9 @@
-Title: Frequently Asked Questions
+Title: FAQ
+Menu: SideF
 
-Here we'll try to briefly touch upon some topics, provide a quick and
-understandable answer, and direct you to resources to help you learn
-more.
+Here we'll try to briefly touch upon Frequently Asked Questions,
+provide a quick and understandable answer, and direct you to resources
+to help you learn more.
 
 [TOC]
 
@@ -207,7 +208,7 @@ to be solved.
 If you have checked with friends, neighbors or social media, and the
 indications are that other viewers are experiencing an outage on the
 same channel(s) you are having problems with, please do contact us via
-our [Contact Page]({filename}contact.md). We can't be monitoring
+our [Contact Page]({filename}About/Contact.md). We can't be monitoring
 every channel all the time, and we rely on reports from concerned
 viewers to help us keep up with the status of the system. Normally, each
 message sent via the site will be answered individually, although if

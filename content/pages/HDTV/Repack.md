@@ -1,4 +1,5 @@
 Title: HDTV Repack
+Menu: SideD
 
 Due to sale of spectrum by the FCC, West Lane Translator, Inc. was
 required to change three of its channels on December 7th, 2017. The

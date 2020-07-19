@@ -1,4 +1,5 @@
-Title: WLT History
+Title: History
+Menu: TopA
 
 Free, over-the-air television in the Florence area began back in 1959
 with a demonstration of the capabilities of translator technology,

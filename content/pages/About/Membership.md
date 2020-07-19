@@ -1,15 +1,7 @@
-Title: Donate or join WLT
+Title: Membership
+Menu: TopD
 
 West Lane Translator welcomes your support!
-
-## Donations
-
-The amount you donate is up to you.
-
-All proceeds are applied to the operation of the translator
-facilities, none of our administration is paid staff.
-
--------
 
 ## Memberships
 
@@ -29,6 +21,17 @@ West Lane Translator is a "membership" nonprofit -- your vote is the
 keystone -- you can vote annually for Board members. You will receive
 email alerts of our open public meetings.
 
+-------
+
+## Donations
+
+The amount you donate is up to you.
+
+All proceeds are applied to the operation of the translator
+facilities, none of our administration is paid staff.
+
+-------
+
 Please remit donations or membership via US Postal Mail to our mailing address:
 
 West Lane Translator  
@@ -38,12 +41,10 @@ Florence, Oregon 97439
 Be sure to include your name and mailing address if it is not
 indicated on your payment method (money order, etc.)
 
-Please note that donations or memberships sent from this page will be
-applied to West Lane Translator, Inc. If you are interested in
+Please note that donations or memberships sent to West Lane Translator
+will be applied to West Lane Translator, Inc. If you are interested in
 supporting WLT's licensed non-profit radio station, KXCR, you may do
 so by visiting the [KXCR web site](http://www.kxcr.net).
-
--------
 
 As WLT is a 501(c)(4) non-profit corporation, your contributions are
 not tax deductible, but they do help us to keep the free, over-the-air

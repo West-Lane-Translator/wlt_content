@@ -1,4 +1,5 @@
-Title: Contact
+Title: Contact Us
+Menu: TopE
 
 ## Mailing Address
 West Lane Translator Incorporated  
