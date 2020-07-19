@@ -1,6 +1,7 @@
 Title: Introduction
 URL:
 Save_As: index.html
+Status: Hidden
 
 Since [1959]({filename}About/History.md), West Lane Translator has
 brought FREE over-the-air Television and FM broadcasts to Florence,
