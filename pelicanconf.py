@@ -10,7 +10,6 @@ TIMEZONE = 'America/Los_Angeles'
 
 PATH = 'content'
 PAGE_PATHS = ['pages']
-PAGE_EXCLUDES = ['pages/About']
 STATIC_PATHS = ['images', 'pdfs']
 # EXTRA_PATH_METADATA = {
 #     'extra/favicon.ico': {'path': 'favicon.ico'}

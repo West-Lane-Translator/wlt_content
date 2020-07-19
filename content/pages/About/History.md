@@ -1,4 +1,5 @@
 Title: History
+Status: Hidden
 Menu: TopA
 
 Free, over-the-air television in the Florence area began back in 1959
