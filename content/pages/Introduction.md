@@ -28,8 +28,6 @@ board-of-directors members, upcoming meetings, and
 also find ample [contact information]({filename}About/Contact.md), should
 you desire to let us know your feelings or need further information.
 
-[//]: # "TODO: Fix the left side comment below"
-
 Continue your visit here by reading the [Frequently Asked
 Questions]({filename}FAQ.md) section, or by exploring the menu items
 on the left side of every page.
