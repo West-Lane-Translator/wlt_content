@@ -68,6 +68,7 @@ FOOTERMENUITEMS = (
     ( 'Terms and Conditions', '/pages/terms-and-conditions.html' ),
     ( 'Privacy Policy', '/pages/privacy-policy.html' )
 )
+ALT_CREDIT=''
 SITETITLE = SITENAME
 SITESUBTITLE = 'Serving the Central Coast since 1959'
 SITELOGO = SITEURL + '/images/logo.png'
@@ -83,6 +84,9 @@ FAVICON = SITEURL + '/images/favicon.ico'
 THEME_COLOR = 'light'
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
 THEME_COLOR_ENABLE_USER_OVERRIDE = True # Uses JavaScript
+
+OG_TYPE = 'website'
+JSONLD_TYPE = 'WebPage'
 
 # THEME = '../pelican-themes/Flex'              # +Nav always on screen L:MIT
 # THEME = "../pelican-themes/notebook"          # +Nav always on screen L:Retain copyright
