@@ -44,11 +44,6 @@ For the purposes of these Terms and Conditions:
   Conditions
   Generator](https://www.termsfeed.com/terms-conditions-generator/){:target="_blank"}.
 
-* **Third-party Social Media Service** means any services or content
-  (including data, information, products or services) provided by a
-  third-party that may be displayed, included or made available by the
-  Service.
-
 * **Website** refers to West Lane Translator Inc., accessible from
   [http://www.westlanetv.org](http://www.westlanetv.org)
 
