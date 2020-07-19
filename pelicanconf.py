@@ -10,6 +10,7 @@ TIMEZONE = 'America/Los_Angeles'
 
 PATH = 'content'
 PAGE_PATHS = ['pages']
+PAGE_EXCLUDES = ['pages/About']
 STATIC_PATHS = ['images', 'pdfs']
 # EXTRA_PATH_METADATA = {
 #     'extra/favicon.ico': {'path': 'favicon.ico'}
@@ -57,6 +58,13 @@ MARKDOWN = {
 
 THEME = '../Flex'
 MAIN_MENU = True
+MENUITEMS = (
+    ( 'History', '/pages/history.html' ),
+    ( 'Governance', '/pages/governance.html' ),
+    ( 'Leasing', '/pages/leasing.html' ),
+    ( 'Membership', '/pages/membership.html' ),
+    ( 'Contact Us', '/pages/contact-us.html' )
+)
 SITETITLE = SITENAME
 SITESUBTITLE = 'Serving the Central Coast since 1959'
 SITELOGO = SITEURL + '/images/logo.png'
@@ -67,7 +75,7 @@ SITEURL = 'http://localhost:8000'  # publishconf.py overrides
 COPYRIGHT_NAME = AUTHOR
 COPYRIGHT_YEAR = datetime.datetime.today().year
 ROBOTS = 'index, follow'
-# PAGES_SORT_ATTRIBUTE
+PAGES_SORT_ATTRIBUTE = 'menu'
 FAVICON = SITEURL + '/images/favicon.ico'
 THEME_COLOR = 'light'
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
