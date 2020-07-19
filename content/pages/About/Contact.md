@@ -52,6 +52,7 @@ Someone from our organization will contact you in reply shortly.
   <p><label><b>Category:</b><br>
       <select name="category">
         <option value="WLT Administration">WLT Administration</option>
+        <option value="Website Problems">Website Problems</option>
         <option value="Reception Issues - KEPB (OPB) channel 28">
           Reception Issues - KEPB (OPB) channel 28</option>
         <option value="Reception Issues - KEZI (ABC) channel 9">
