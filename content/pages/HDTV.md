@@ -34,22 +34,18 @@ about it further down the page.
 |                                |      | 28.2 | 32.2 | OPB Plus       |         |
 |                                |      | 28.3 | 32.3 | OPB Kids       |         |
 |                                |      | 28.4 | 32.4 | OPB Radio      |         |
-|                                |      |      |      |                |         |
 | [KEZI]({filename}HDTV.md#kezi) | ABC  | 9.1  | 35.1 | KEZI (ABC)     | K35HW-D |
 |                                |      | 9.2  | 35.2 | Me-TV          |         |
 |                                |      | 9.3  | 35.3 | ION-TV         |         |
 |                                |      | 9.4  | 35.4 | -              |         |
-|                                |      |      |      |                |         |
 | [KLSR]({filename}HDTV.md#klsr) | Fox  | 34.1 | 28.1 | KLSR (Fox)     | K28NZ-D |
 |                                |      | 34.2 | 28.2 | KEVU (My TV)   |         |
 |                                |      | 34.3 | 28.3 | -              |         |
 |                                |      | 34.4 | 28.4 | -              |         |
-|                                |      |      |      |                |         |
 | [KMTR]({filename}HDTV.md#kmtr) | NBC  | 16.1 | 26.1 | KMTR (NBC)     | K26NE-D |
 |                                |      | 16.2 | 26.2 | The CW Network |         |
 |                                |      | 16.3 | 26.3 | Comet TV       |         |
 |                                |      | 16.4 | 26.4 | -              |         |
-|                                |      |      |      |                |         |
 | [KVAL]({filename}HDTV.md#kmtr) | CBS  | 13.1 | 24.1 | KVAL(CBS)      | K24MF-D |
 |                                |      | 13.2 | 24.2 | TBD            |         |
 |                                |      | 13.3 | 24.3 | Charge!        |         |
