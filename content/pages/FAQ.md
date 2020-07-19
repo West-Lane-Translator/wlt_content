@@ -37,9 +37,8 @@ crisper video images, stereophonic and surround sound of the highest
 quality, and the complete absence of snow, ghosting, fading, and
 distortion that the old system was prone to experience. HDTV also
 allows the originating station to supply up to three additional
-program streams to be viewed. See the [Channels and
-Subchannels]({filename}HDTV/Channels.md) page for additional
-information.
+program streams to be viewed. See the [HDTV]({filename}HDTV.md) page
+for additional information.
 
 ### I've tried receiving your broadcasts on my HD television, but see nothing. Why?
 

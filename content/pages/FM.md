@@ -7,8 +7,10 @@ to serving the Florence community by becoming User Members of West Lane
 Translator, Inc, and they share equally in the ongoing costs associated
 with keeping the WLT facilities operational.
 
-Our FM radio stations providing programming are (in order of their
-Florence frequencies):
+Our FM radio stations providing programming are listed in the
+table below in order of their Florence frequencies.  Clicking on a
+Station will take you to more detailed information (including contact
+information) about it further down the page.
 
 | <br>Station | Florence<br>Frequency | Eugene<br>Frequency | <br>Content |
 | :---------- | :-------------------: | :-----------------: | :---------- |
@@ -18,10 +20,6 @@ Florence frequencies):
 | [KQFE]({filename}FM.md#kqfe)      | 92.5 MHz  | 88.9 MHz | Family Stations Christian broadcasting                    |
 | [KODZ]({filename}FM.md#kodz)      | 95.3 MHz  | 99.1 MHz | Oldies 99                                                 |
 | [KKNU]({filename}FM.md#kknu)      | 100.9 MHz | 93.3 MHz | New Country 93                                            |
-
-Each of these stations operates a translator or satellite station in the
-Florence community. The following tables will give you information about
-each, and provide contact information.
 
 -------
 
