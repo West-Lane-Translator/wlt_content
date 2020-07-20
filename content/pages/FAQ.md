@@ -255,14 +255,13 @@ comprehend and enjoy the show.
 
 ### I'm NOT going up on the roof! How can I get an outdoor antenna installed?
 
-[//]: # "TODO: Verify the following is still true."
 You are in luck! What we have been told is that if you purchase an
-outdoor antenna from Full Spectrum Computers in Florence, they will
-install it for you. There may be an additional charge for this service,
-so be sure to inquire about this. Contracting to do installation or
-repairs on a home or business requires a license and insurance, so
-unless you have a relative who likes heights and owes you a favor, this
-may be your best option.
+outdoor antenna from [Hyak](https://hyak.co) in Florence, they will
+install it for you. There may be an additional charge for this
+service, so be sure to inquire about this. Contracting to do
+installation or repairs on a home or business requires a license and
+insurance, so unless you have a relative who likes heights and owes
+you a favor, this may be your best option.
 
 ## FM
 
