@@ -13,12 +13,12 @@ next meeting will occur and in what format.
 
 ### Upcoming Meetings:
 
-| Date                                      | Time    | Location                              |
-| :---                                      | :---    | :-------                              |
-| <div id='meet1'>JavaScript required</div> | 6:00 PM | Cancelled due to COVID-19 limitations |
-| <div id='meet2'>JavaScript required</div> | 6:00 PM | TBD                                   |
-| <div id='meet3'>JavaScript required</div> | 6:00 PM | TBD                                   |
-| <div id='meet4'>JavaScript required</div> | 6:00 PM | TBD                                   |
+| Date                                      | Time    | Location |
+| :---                                      | :---    | :------- |
+| <div id='meet1'>JavaScript required</div> | 6:00 PM | TBD      |
+| <div id='meet2'>JavaScript required</div> | 6:00 PM | TBD      |
+| <div id='meet3'>JavaScript required</div> | 6:00 PM | TBD      |
+| <div id='meet4'>JavaScript required</div> | 6:00 PM | TBD      |
 
 <script type="text/javascript">
 function setFourthWednesdayOfQuarter(dt) {
