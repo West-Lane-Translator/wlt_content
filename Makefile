@@ -9,7 +9,8 @@ PYCACHEDIR=$(BASEDIR)/__pycache__
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-GITHUB_PAGES_BRANCH=gh-pages
+GIT_PUBLISH_REPOSITORY=git@github.com:saagit/wlt_publish.git
+GIT_PUBLISH_BRANCH=publish
 
 
 DEBUG ?= 0
@@ -73,13 +74,13 @@ else
 	$(PELICAN) -lr $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 endif
 
-publish:
+publish: clean
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 	chmod -R og+rX $(OUTPUTDIR)
 
 github: publish
-	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
-	git push origin $(GITHUB_PAGES_BRANCH)
+	ghp-import -m "Generate Pelican site" -b $(GIT_PUBLISH_BRANCH) $(OUTPUTDIR)
+	git push $(GIT_PUBLISH_REPOSITORY) $(GIT_PUBLISH_BRANCH):master
 
 
 .PHONY: html help clean regenerate serve serve-global devserver stopserver publish github
