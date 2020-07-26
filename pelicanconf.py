@@ -70,7 +70,7 @@ FOOTERMENUITEMS = (
 )
 ALT_CREDIT=''
 SITETITLE = SITENAME
-SITESUBTITLE = 'Serving the Central Coast since 1959'
+SITESUBTITLE = 'Serving the Central Oregon Coast since 1959'
 SITELOGO = SITEURL + '/images/logo.png'
 SITEDESCRIPTION = (
     "Information about West Lane Translator's HDTV and FM translators."
