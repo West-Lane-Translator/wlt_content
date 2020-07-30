@@ -2,8 +2,6 @@ Title: History
 Status: Hidden
 Menu: TopA
 
-[//]: # "TODO: Siuslaw News"
-
 Free, over-the-air television in the Florence area began back in 1959
 with a demonstration of the capabilities of translator technology,
 described in this clipping from *The Siuslaw Oar*:
@@ -68,7 +66,7 @@ Close to 300 persons attended.
 
 More recently, the switch from analog to digital TV transmission was
 another big step forward for our organization, featured in this article
-in *The Siuslaw News*:
+in [The Siuslaw News](https://thesiuslawnews.com/):
 
 ----
 
