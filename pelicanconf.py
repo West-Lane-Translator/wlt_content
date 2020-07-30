@@ -71,7 +71,7 @@ FOOTERMENUITEMS = (
 ALT_CREDIT=''
 SITETITLE = SITENAME
 SITESUBTITLE = 'Serving the Central Oregon Coast since 1959'
-SITELOGO = SITEURL + '/images/logo.png'
+SITELOGO = 'images/logo.png'
 SITEDESCRIPTION = (
     "Information about West Lane Translator's HDTV and FM translators."
 )
@@ -80,7 +80,7 @@ COPYRIGHT_NAME = AUTHOR
 COPYRIGHT_YEAR = datetime.datetime.today().year
 ROBOTS = 'index, follow'
 PAGES_SORT_ATTRIBUTE = 'menu'
-FAVICON = SITEURL + '/images/favicon.ico'
+FAVICON = 'images/favicon.ico'
 THEME_COLOR = 'light'
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
 THEME_COLOR_ENABLE_USER_OVERRIDE = True # Uses JavaScript
