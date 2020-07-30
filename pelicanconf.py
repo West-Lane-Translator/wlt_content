@@ -28,7 +28,7 @@ OUTPUT_PATH = '../wlt_output/'
 PAGE_ORDER_BY = 'title'
 
 # The site is small, so ensure output is de-crufted.
-DELETE_OUTPUT_DIRECTORY = True
+DELETE_OUTPUT_DIRECTORY = False
 CACHE_CONTENT = False
 LOAD_CONTENT_CACHE = False
 
