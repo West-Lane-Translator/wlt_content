@@ -123,6 +123,6 @@ your needs.
 
 |                                                     |                                                                          |
 | ---                                                 | ---                                                                      |
-| [Antenna Web](https:/www.antennaweb.org)            | Geographical antenna selector                                            |
+| [Antenna Web](https://www.antennaweb.org)            | Geographical antenna selector                                            |
 | [HDTv Antenna Labs](http://www.hdtvantennalabs.com) | HDTV antenna reviews, technical articles and antennas comparison         |
 | [TV Fool](https://www.tvfool.com/)                  | Resources for over-the-air (OTA) broadcast services (TV, FM, and others) |
