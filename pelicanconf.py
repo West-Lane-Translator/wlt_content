@@ -3,17 +3,22 @@
 from __future__ import unicode_literals
 import datetime
 
+SITEURL = 'http://localhost:8000'  # publishconf.py overrides
 AUTHOR = 'West Lane Translator Inc.'
 SITENAME = 'West Lane Translator Inc.'
-SITEURL = ''
+SITETITLE = SITENAME
+SITESUBTITLE = 'Serving the Central Oregon Coast since 1959'
+SITELOGO = '/images/logo.png'
+SITEDESCRIPTION = (
+    "Information about West Lane Translator's HDTV and FM translators."
+)
+COPYRIGHT_NAME = AUTHOR
+COPYRIGHT_YEAR = datetime.datetime.today().year
 TIMEZONE = 'America/Los_Angeles'
 
 PATH = 'content'
 PAGE_PATHS = ['pages']
 STATIC_PATHS = ['images', 'pdfs']
-# EXTRA_PATH_METADATA = {
-#     'extra/favicon.ico': {'path': 'favicon.ico'}
-# }
 DIRECT_TEMPLATES = []
 ARTICLE_PATHS = []
 ARCHIVES_SAVE_AS = ''
@@ -69,15 +74,6 @@ FOOTERMENUITEMS = (
     ( 'Privacy Policy', '/pages/privacy-policy.html' )
 )
 ALT_CREDIT=''
-SITETITLE = SITENAME
-SITESUBTITLE = 'Serving the Central Oregon Coast since 1959'
-SITELOGO = '/images/logo.png'
-SITEDESCRIPTION = (
-    "Information about West Lane Translator's HDTV and FM translators."
-)
-SITEURL = 'http://localhost:8000'  # publishconf.py overrides
-COPYRIGHT_NAME = AUTHOR
-COPYRIGHT_YEAR = datetime.datetime.today().year
 ROBOTS = 'index, follow'
 PAGES_SORT_ATTRIBUTE = 'menu'
 FAVICON = '/images/favicon.ico'
