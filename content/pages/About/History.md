@@ -149,3 +149,8 @@ For more information, visit WLT's Web site
 [www.WestLaneTV.org](http://www.WestLaneTV.org).
 
 </div>
+
+----
+
+Both articles on this page appear courtesy of [The Siuslaw
+News](https://thesiuslawnews.com/).
