@@ -9,10 +9,6 @@ PYCACHEDIR=$(BASEDIR)/__pycache__
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-GIT_PUBLISH_REPOSITORY=git@github.com:saagit/wlt_publish.git
-GIT_PUBLISH_BRANCH=publish
-
-
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D
@@ -34,9 +30,6 @@ help:
 	@echo '   make serve [PORT=8000]              serve site at http://localhost:8000'
 	@echo '   make serve-global [SERVER=0.0.0.0]  serve (as root) to $(SERVER):80    '
 	@echo '   make devserver [PORT=8000]          serve and regenerate together      '
-	@echo '   make ssh_upload                     upload the web site via SSH        '
-	@echo '   make rsync_upload                   upload the web site via rsync+ssh  '
-	@echo '   make github                         upload the web site via gh-pages   '
 	@echo '                                                                          '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
@@ -78,9 +71,4 @@ publish: clean
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 	chmod -R og+rX $(OUTPUTDIR)
 
-github: publish
-	ghp-import -m "Generate Pelican site" -b $(GIT_PUBLISH_BRANCH) $(OUTPUTDIR)
-	git push $(GIT_PUBLISH_REPOSITORY) $(GIT_PUBLISH_BRANCH):master
-
-
-.PHONY: html help clean regenerate serve serve-global devserver stopserver publish github
+.PHONY: html help clean regenerate serve serve-global devserver stopserver publish
