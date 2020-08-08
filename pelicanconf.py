@@ -18,7 +18,9 @@ TIMEZONE = 'America/Los_Angeles'
 
 PATH = 'content'
 PAGE_PATHS = ['pages']
-STATIC_PATHS = ['images', 'pdfs']
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
+STATIC_PATHS = ['images', 'pdfs', 'extra']
 DIRECT_TEMPLATES = []
 ARTICLE_PATHS = []
 ARCHIVES_SAVE_AS = ''
@@ -29,8 +31,6 @@ DRAFT_SAVE_AS = ''
 INDEX_SAVE_AS = ''
 TAG_SAVE_AS = ''
 OUTPUT_PATH = '../wlt_output/'
-
-PAGE_ORDER_BY = 'title'
 
 # The site is small, so ensure output is de-crufted.
 DELETE_OUTPUT_DIRECTORY = False
@@ -63,15 +63,15 @@ MARKDOWN = {
 THEME = '../Flex'
 MAIN_MENU = True
 MENUITEMS = (
-    ( 'History', '/pages/history.html' ),
-    ( 'Governance', '/pages/governance.html' ),
-    ( 'Leasing', '/pages/leasing.html' ),
-    ( 'Membership', '/pages/membership.html' ),
-    ( 'Contact Us', '/pages/contact-us.html' )
+    ( 'History', '/history.html' ),
+    ( 'Governance', '/governance.html' ),
+    ( 'Leasing', '/leasing.html' ),
+    ( 'Membership', '/membership.html' ),
+    ( 'Contact Us', '/contact-us.html' )
 )
 FOOTERMENUITEMS = (
-    ( 'Terms and Conditions', '/pages/terms-and-conditions.html' ),
-    ( 'Privacy Policy', '/pages/privacy-policy.html' )
+    ( 'Terms and Conditions', '/terms-and-conditions.html' ),
+    ( 'Privacy Policy', '/privacy-policy.html' )
 )
 ALT_CREDIT=''
 ROBOTS = 'index, follow'
@@ -84,20 +84,24 @@ THEME_COLOR_ENABLE_USER_OVERRIDE = True # Uses JavaScript
 OG_TYPE = 'website'
 JSONLD_TYPE = 'WebPage'
 
-# THEME = '../pelican-themes/Flex'              # +Nav always on screen L:MIT
-# THEME = "../pelican-themes/notebook"          # +Nav always on screen L:Retain copyright
-# THEME = "../pelican-themes/bootstrap2"        # +Good, header problem? L:Apache
-# THEME = "../pelican-themes/blueidea"          # +Good L:MIT
-# THEME = "../pelican-themes/dev-random"        # +I like it L:WTFPL
-# THEME = "../pelican-themes/elegant"           # +It *is* elegant L:MIT
-# THEME = "../pelican-themes/taman"             # +Maybe L:MIT
-# THEME = "../pelican-themes/tuxlite_tbs"       # +Maybe L:WTFPL
-# THEME = "../pelican-themes/tuxlite_zf"        # +Maybe L:MIT
-# THEME = "../pelican-themes/voidy-bootstrap"   # +Nice L:MIT
-# THEME = "../pelican-themes/zurb-F5-basic"     # +Nice L:WTFPL
-# THEME = "../pelican-themes/bootlex"           # +Nice, but narrow L:Apache
-# THEME = "../pelican-themes/MinimalXY"         # +Nice. L:MIT
-# THEME = "../pelican-themes/bricks"            # +Nifty scrolling L:WTFPL
-# THEME = "../pelican-themes/built-texts"       # +Really close L:MIT
-# THEME = "../pelican-themes/cebong"            # +Similar to blueidea L:WTFPL
-# THEME = "../pelican-themes/medius"            # +Worth a closer look L:MIT
+EXTRA_PATH_METADATA = {
+    'extra/htaccess': {'path': '.htaccess'},
+    'extra/htaccess_About': {'path': 'About/.htaccess'},
+    'extra/htaccess_Donate': {'path': 'Donate/.htaccess'},
+    'extra/htaccess_EAS': {'path': 'EAS/.htaccess'},
+    'extra/htaccess_FAQ': {'path': 'FAQ/.htaccess'},
+    'extra/htaccess_FM': {'path': 'FM/.htaccess'},
+    'extra/htaccess_HDTV': {'path': 'HDTV/.htaccess'},
+    'extra/htaccess_ISS': {'path': 'ISS/.htaccess'},
+    'extra/htaccess_Introduction': {'path': 'Introduction/.htaccess'},
+    'extra/htaccess_Tides': {'path': 'Tides/.htaccess'},
+    'extra/htaccess_Tsunami': {'path': 'Tsunami/.htaccess'},
+    'extra/htaccess_WX': {'path': 'WX/.htaccess'},
+    'extra/htaccess_WXDisc': {'path': 'WXDisc/.htaccess'},
+    'extra/htaccess_Webcam': {'path': 'Webcam/.htaccess'},
+    'extra/htaccess_Webcams': {'path': 'Webcams/.htaccess'},
+    'extra/htaccess_contact': {'path': 'contact/.htaccess'},
+    'extra/htaccess_files': {'path': 'files/.htaccess'},
+    'extra/htaccess_pages': {'path': 'pages/.htaccess'},
+    'extra/htaccess_search': {'path': 'search/.htaccess'},
+}
