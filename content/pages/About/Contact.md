@@ -7,7 +7,7 @@ West Lane Translator Incorporated
 P.O. Box 91  
 Florence, Oregon 97439
 
-## Contact Us
+## Email Us
 
 Use this form to send us a message about reception problems, donating or
 becoming a member of WLT, tower space rental, or whatever else is on
@@ -79,7 +79,7 @@ Someone from our organization will contact you in reply shortly.
       <b>What river runs through Florence, Oregon?:</b><br>
       <input type="text" name="river" size="10" required
              pattern="[Ss][Ii][Uu][Ss][Ll][Aa][Ww]"><br>
-      <i>Hint: One word only, seven letters total.</i></p>
+      <i>Hint: One word only, seven letters total.</i>
   </label></p>
 
   <input type="submit" value="Send e-mail">
