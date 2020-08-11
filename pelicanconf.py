@@ -131,7 +131,11 @@ LOAD_CONTENT_CACHE = False
 # builds EXTRA_PATH_METADATA from the list of extra/htaccess* files.
 # As an example, extra/htaccess_About will end up in About/.htaccess
 # in the output.
-EXTRA_PATH_METADATA = {}
+EXTRA_PATH_METADATA = {
+    'extra/google91b9f44816fd80c5.html': {
+        'path': 'google91b9f44816fd80c5.html'
+    }
+}
 path_path = pathlib.Path(PATH)
 extra_path = path_path / "extra"
 for hta in extra_path.glob('htaccess*'):
