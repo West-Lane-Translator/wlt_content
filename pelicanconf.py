@@ -84,6 +84,9 @@ MENUITEMS = (
 # menu items in the preferred order, the new custom Menu attribute was put in
 # the Markdown files.  Tell Flex to sort by that new attribute:
 PAGES_SORT_ATTRIBUTE = 'menu'
+# Normally, Flex tells robots not to follow nor index hidden pages,
+# but that's not what we want, so use this local change to Flex:
+CRAWL_HIDDEN = True
 # The menu at the bottom of the page is enabled with local changes to Flex:
 FOOTERMENUITEMS = (
     ( 'Terms and Conditions', SITEURL + '/terms-and-conditions.html' ),
