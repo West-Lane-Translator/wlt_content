@@ -97,6 +97,9 @@ FOOTERMENUITEMS = (
 # Pelican and Flex.  This relies on local changes to Flex.
 ALT_CREDIT=''
 
+# Output our canonical URL.  This relies on local changes to Flex.
+REL_CANONICAL = True
+
 # Tell the world via the JSON-LD and Open Graph types that we are a
 # website and not a blog.  These rely on local changes to Flex.
 OG_TYPE = 'website'
