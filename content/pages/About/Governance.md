@@ -8,17 +8,18 @@ Menu: TopB
 
 Historically, meetings were held on the fourth Wednesday of January,
 April, July, and October at 6:00 PM in the Bromley room of the Siuslaw
-Public Library. Due to COVID-19 limitations, it is unclear when the
-next meeting will occur and in what format.
+Public Library. For the time however, upcoming meetings are planned to
+be virtual.  Details on how to attend will be sent to
+[members]({filename}Membership.md).
 
 ### Upcoming Meetings:
 
-| Date                                      | Time    | Location |
-| :---                                      | :---    | :------- |
-| <div id='meet1'>JavaScript required</div> | 6:00 PM | TBD      |
-| <div id='meet2'>JavaScript required</div> | 6:00 PM | TBD      |
-| <div id='meet3'>JavaScript required</div> | 6:00 PM | TBD      |
-| <div id='meet4'>JavaScript required</div> | 6:00 PM | TBD      |
+| Date                                      | Time    |
+| :---                                      | :---    |
+| <div id='meet1'>JavaScript required</div> | 6:00 PM |
+| <div id='meet2'>JavaScript required</div> | 6:00 PM |
+| <div id='meet3'>JavaScript required</div> | 6:00 PM |
+| <div id='meet4'>JavaScript required</div> | 6:00 PM |
 
 <script type="text/javascript">
 function setFourthWednesdayOfQuarter(dt) {
