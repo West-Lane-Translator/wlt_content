@@ -8,8 +8,8 @@ Menu: TopB
 
 Historically, meetings were held on the fourth Wednesday of January,
 April, July, and October at 6:00 PM in the Bromley room of the Siuslaw
-Public Library. For the time however, upcoming meetings are planned to
-be virtual.  Details on how to attend will be sent to
+Public Library. For the time being however, upcoming meetings are
+planned to be virtual.  Details on how to attend will be sent to
 [members]({filename}Membership.md).
 
 ### Upcoming Meetings:
