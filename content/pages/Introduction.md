@@ -24,9 +24,10 @@ the information you need to make the most of our available services.
 As a non-profit, Oregon State 501(c)(4) corporation, we maintain an
 online [listing]({filename}About/Governance.md) of officers,
 board-of-directors members, upcoming meetings, and
-[bylaws]({static}/pdfs/WLT_Bylaws_2018.pdf) for your perusal. You will
-also find ample [contact information]({filename}About/Contact.md), should
-you desire to let us know your feelings or need further information.
+[bylaws]({static}/pdfs/WLT_Bylaws_October_28_2020_edits.pdf) for your
+perusal. You will also find ample [contact
+information]({filename}About/Contact.md), should you desire to let us
+know your feelings or need further information.
 
 Continue your visit here by reading the [Frequently Asked
 Questions]({filename}FAQ.md) section, or by exploring the menu items

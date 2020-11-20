@@ -11,7 +11,7 @@ One Year | Lifetime
 A One-Year Membership costs just $10 and entitles you to voting privileges at the annual meeting. | Lifetime Membership is available for $75. It grants you full membership privileges and our eternal gratitude.
 
 Membership conditions and rights are described in the *Regular Voting Members*
-section of the [WLT bylaws]({static}/pdfs/WLT_Bylaws_2018.pdf).
+section of the [WLT bylaws]({static}/pdfs/WLT_Bylaws_October_28_2020_edits.pdf).
 
 Membership also includes a quarterly e-newsletter detailing our
 volunteer efforts to maintain your access to free, quality on-air
