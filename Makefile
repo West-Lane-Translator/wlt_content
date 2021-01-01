@@ -69,6 +69,13 @@ endif
 
 publish: clean
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	rm -f $(OUTPUTDIR)/theme/dark-theme/dark-theme.js
+	rm -fr $(OUTPUTDIR)/theme/font-awesome
+	rm -fr $(OUTPUTDIR)/theme/img
+	rm -fr $(OUTPUTDIR)/theme/isso
+	find $(OUTPUTDIR)/theme/pygments/* ! -name github.min.css ! -name monokai.min.css -print0 | xargs -0 rm -f
+	rm -f $(OUTPUTDIR)/theme/stylesheet/*.less
+	rm -fr $(OUTPUTDIR)/theme/tipuesearch
 	chmod -R og+rX $(OUTPUTDIR)
 
 .PHONY: html help clean regenerate serve serve-global devserver stopserver publish
