@@ -33,7 +33,7 @@ SITEDESCRIPTION = \
     "Information about West Lane Translator's HDTV and FM translators."
 AUTHOR = 'West Lane Translator Inc.'
 COPYRIGHT_NAME = AUTHOR
-COPYRIGHT_YEAR = datetime.datetime.today().year
+COPYRIGHT_YEAR = '2011-' + str(datetime.datetime.today().year)
 ROBOTS = 'index, follow'
 FAVICON = SITEURL + '/images/favicon.ico'
 SITELOGO = SITEURL + '/images/logo.png'
@@ -97,6 +97,11 @@ FOOTERMENUITEMS = (
 # Pelican and Flex.  This relies on local changes to Flex.
 ALT_CREDIT=''
 
+# By default, the links point to the main page heading so that the top
+# menu isn't seen unless you scroll or if the page happens to be
+# smaller than your browser window.  Disable that.
+DISABLE_URL_HASH = True
+
 # Output our canonical URL.  This relies on local changes to Flex.
 REL_CANONICAL = True
 
@@ -122,6 +127,9 @@ FEED_ALL_ATOM = None
 INDEX_SAVE_AS = ''
 TAG_SAVE_AS = ''
 TRANSLATION_FEED_ATOM = None
+# We don't have SOCIAL nor articles so turn on this local change to
+# prevent links to font-awesome being emitted.
+FONT_AWESOME_UNNEEDED = True
 
 # The site is small, so rebuild it from scratch every time.
 DELETE_OUTPUT_DIRECTORY = False
