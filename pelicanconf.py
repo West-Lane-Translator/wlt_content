@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 import datetime
 import inspect
 import pathlib
+import re
 
 # The Pelican settings are documented here:
 #   https://docs.getpelican.com/en/stable/settings.html
@@ -59,40 +60,6 @@ MARKDOWN = {
     'output_format': 'html5',
 }
 
-# Tell Pelican where things come from and go to.
-PATH = 'content'  # Keep content separate from how to build.
-PAGE_PATHS = ['pages']  # Where to look in content subdirectory for our pages.
-STATIC_PATHS = ['images', 'pdfs', 'extra']  # Copy things from these to output.
-OUTPUT_PATH = '../wlt_output/'  # Where to put the output.
-PAGE_URL = '{slug}.html'  # Output the HTML at the root instead of in pages/
-PAGE_SAVE_AS = '{slug}.html'
-
-# Configuring the menus is currently somewhat hacky.  The menu at the top of
-# the page is enabled with MAIN_MENU and defined with MENUITEMS:
-MAIN_MENU = True
-MENUITEMS = (
-    ( 'History', SITEURL + '/history.html' ),
-    ( 'Governance', SITEURL + '/governance.html' ),
-    ( 'Leasing', SITEURL + '/leasing.html' ),
-    ( 'Membership', SITEURL + '/membership.html' ),
-    ( 'Contact Us', SITEURL + '/contact-us.html' )
-)
-# The left side menu contains all the Markdown pages except for ones that have
-# 'Status: Hidden' attribute in their metadata.  This means that any page that
-# appears in the top or bottom menu should have that attribute in their
-# Markdown so they don't appear in the left side menu as well.  To get the
-# menu items in the preferred order, the new custom Menu attribute was put in
-# the Markdown files.  Tell Flex to sort by that new attribute:
-PAGES_SORT_ATTRIBUTE = 'menu'
-# Normally, Flex tells robots not to follow nor index hidden pages,
-# but that's not what we want, so use this local change to Flex:
-CRAWL_HIDDEN = True
-# The menu at the bottom of the page is enabled with local changes to Flex:
-FOOTERMENUITEMS = (
-    ( 'Terms and Conditions', SITEURL + '/terms-and-conditions.html' ),
-    ( 'Privacy Policy', SITEURL + '/privacy-policy.html' )
-)
-
 # I don't feel compelled to tell the world our site was built with
 # Pelican and Flex.  This relies on local changes to Flex.
 ALT_CREDIT=''
@@ -102,7 +69,7 @@ ALT_CREDIT=''
 # smaller than your browser window.  Disable that.
 DISABLE_URL_HASH = True
 
-# Output our canonical URL.  This relies on local changes to Flex.
+# Output our canonical URL.
 REL_CANONICAL = True
 
 # Tell the world via the JSON-LD and Open Graph types that we are a
@@ -136,6 +103,97 @@ DELETE_OUTPUT_DIRECTORY = False
 CACHE_CONTENT = False
 LOAD_CONTENT_CACHE = False
 
+# Tell Pelican where things come from and go to.
+PATH = 'content'  # Keep content separate from how to build.
+PAGE_PATHS = ['pages']  # Where to look in content subdirectory for our pages.
+STATIC_PATHS = ['images', 'pdfs', 'extra']  # Copy things from these to output.
+OUTPUT_PATH = '../wlt_output/'  # Where to put the output.
+PAGE_URL = '{slug}.html'  # Output the HTML at the root instead of in pages/
+PAGE_SAVE_AS = '{slug}.html'
+
+# The configuration of the menus is custom and somewhat hacky.
+
+# Pages can be placed in one of three different menus of links:
+#   1) at the top of the page,
+#   2) on the left side of the page, or
+#   3) at the bottom of the page by the copyright (via a local change).
+
+# The menu at the top of the page is enabled with:
+MAIN_MENU = True
+# and the items to be put in it are defined via MENUITEMS which will
+# be set by Python code that follows.
+
+# The items in the menu at the bottom of the page are defined via
+# FOOTERMENUITEMS (a local change).  Defining it also enables it.
+# FOOTERMENUITEMS will also be set via the Python code that follows.
+
+# Each page Markdown file has our own locally defined 'Menu' metadata.
+# It is used for two purposes.  The first is to construct the
+# MENUITEMS and FOOTERMENUITEMS lists.  The second is to define the
+# order of the pages within each menu:
+PAGES_SORT_ATTRIBUTE = 'menu'
+
+# The following code examines the 'Menu' metadata of each Markdown
+# page.  If it starts with 'Top', the page will be placed in the menu
+# at the top of the page.  Conversely, if the 'Menu' metadata starts
+# with 'Bottom', the page will be placed in the menu at the bottom of
+# the page.  Otherwise, the page will be placed in the menu at the
+# left side of the page.  By convention, we start the 'Menu' metadata
+# with 'Side' for those pages.  Note that the pages to be placed in
+# the top or bottom menus should also set the 'Status' metadata to be
+# 'Hidden' to prevent the page from also appearing in the left side
+# menu.  Normally that prevents the page from being crawled but a
+# local change (if enabled) allows it:
+CRAWL_HIDDEN = True
+
+# We'll use the default SLUG_REGEX_SUBSTITUTIONS for generating the slug.
+SLUG_REGEX_SUBSTITUTIONS = [
+    (r'[^\w\s-]', ''), # remove non-alphabetical/whitespace/'-' chars
+    (r'(?u)\A\s*', ''), # strip leading whitespace
+    (r'(?u)\s*\Z', ''), # strip trailing whitespace
+    (r'[-\s]+', '-'), # reduce multiple whitespace or '-' to single '-'
+]
+
+# Build up a list of the Markdown pages.  Each element of the list is
+# a tuple containing:
+#   1) the value of the 'Menu' metadata,
+#   2) the value of the 'Title' metadata, and
+#   3) the URL of the page (which makes assumptions about slugification)
+path_path = pathlib.Path(PATH)
+pages_path = path_path / 'pages'
+pages_menu_info = []
+for md in pages_path.glob('**/*.md'):
+    title = ''
+    menu = ''
+    with md.open() as f:
+        while True:
+            line = f.readline()
+            if not line or ':' not in line:
+                break
+            if line.lower().startswith('title:'):
+                title = line[6:].strip()
+            if line.lower().startswith('menu:'):
+                menu = line[5:].strip()
+    assert title
+    if menu:
+        slug = title
+        for pattern, repl in SLUG_REGEX_SUBSTITUTIONS:
+            slug = re.sub(pattern, repl, slug)
+        slug = slug.lower()
+        page_url = f'{SITEURL}/{slug}.html'
+        pages_menu_info.append((menu, title, page_url))
+
+# Now iterate through the list of Markdown pages to form MENUITEMS and
+# FOOTERMENUITEMS:
+MENUITEMS = []
+FOOTERMENUITEMS = []
+for menu, title, page_url in sorted(pages_menu_info):
+    if menu.lower().startswith('top'):
+        MENUITEMS.append((title, page_url))
+    if menu.lower().startswith('bottom'):
+        FOOTERMENUITEMS.append((title, page_url))
+# Done!
+
 # We want redirects of URLs from the old site to go to the new site
 # URLs.  This is done with .htaccess files in subdirectories on the
 # website as needed.  The source for these files is
@@ -150,8 +208,7 @@ EXTRA_PATH_METADATA = {
         'path': 'google91b9f44816fd80c5.html'
     }
 }
-path_path = pathlib.Path(PATH)
-extra_path = path_path / "extra"
+extra_path = path_path / 'extra'
 for hta in extra_path.glob('htaccess*'):
     rel_hta = pathlib.Path(*hta.parts[-2:])
     hta_loc = hta.name[len('htaccess'):]
