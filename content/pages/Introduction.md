@@ -14,10 +14,6 @@ translators]({filename}FM.md) provide diverse programming choices
 while maintaining world-class signal quality, including HD digital
 music and news.
 
-West Lane Translator is the licensee of KXCR, 90.7 FM -- bringing
-community news, public service and music programming to the
-Florence area since April of 2014.
-
 Take some time to explore our web site. Here you will find access to
 the information you need to make the most of our available services.
 

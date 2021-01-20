@@ -59,8 +59,7 @@ information) about it further down the page.
 
 KXCR Community Radio Partners is a 501(c)(3) nonprofit Oregon corporation
 formed in February 2012 to provide financial, programming and volunteer
-support to West Lane Translator's non-commercial, educational FM radio station
-KXCR.
+support to the non-commercial, educational FM radio station KXCR.
 
 The physical location of the broadcast studio is 1509 9th Street, across the
 street from the Siuslaw Library. The station commenced broadcasting on April
