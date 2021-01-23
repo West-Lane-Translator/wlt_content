@@ -4,7 +4,7 @@ Menu: SideC
 This predicted coverage map shows generally where the WLT translator
 signal will be usable.
 
-![Coverage Map]({static}/images/coverage_map.jpg)
+![Coverage Map]({static}/images/coverage_map.png)
 
 Note that this is "predicted" coverage, not "measured" It is
 calculated mathematically using data about the antenna design, antenna
