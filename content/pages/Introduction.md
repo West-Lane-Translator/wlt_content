@@ -28,17 +28,3 @@ know your feelings or need further information.
 Continue your visit here by reading the [Frequently Asked
 Questions]({filename}FAQ.md) section, or by exploring the menu items
 on the left side of every page.
-
-# Notice of Annual Meeting
-
-West Lane Translator, Inc., a not-for-profit organization providing
-free television and radio re-transmission to the Florence area, will
-hold its Annual Meeting, including election of its officers, on
-Wednesday, January 27, 2021 at 6:00 pm.  Due to continuing COVID-19
-restrictions, this meeting will be held virtually with attendance
-details provided to all current WLT
-[members]({filename}About/Membership.md) via email. For the
-convenience of the public, a link to the summary of the meeting will
-be posted to the
-[governance]({filename}About/Governance.md#board-meetings) page of
-this site.
