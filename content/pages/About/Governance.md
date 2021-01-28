@@ -83,6 +83,7 @@ meetings are being made available in PDF format:
 | Meeting summary from |
 | :--- |
 | [October 28, 2020]({static}/pdfs/WLT BoD Meeting Summary 2020-10-28.pdf) |
+| The January 27, 2021 annual meeting summary will be soon be available here. |
 
 ### Bylaws
 
@@ -94,29 +95,16 @@ format]({static}/pdfs/WLT_Bylaws_October_28_2020_edits.pdf).
 | Name              | Office         | Affiliation                                        |
 | ----              | ------         | -----------                                        |
 | Julie McGrew      | President      | Local Resident                                     |
-| Bill Durst        | Vice President | Local Resident                                     |
+| Scott Anderson    | Vice President | Local Resident                                     |
 | Jeff Williams     | Secretary      | Local Resident                                     |
 | Chris Sorensen    | Treasurer      | Local Resident                                     |
-| John Raymonda     | KXCR liaison   | Local Resident                                     |
-| Scott Anderson    | Member         | Local Resident                                     |
 | Dennis Hunt       | Member         | Retired Television Engineer                        |
 | Chris Reid Murray | Member         | Chief Engineer, KKNU / McKenzie River Broadcasting |
+| John Raymonda     | Member         | Local Resident                                     |
 
-### Committees
-
-These are the current standing committee members who work on issues
-and projects for the organization.
-
-#### Technical Committee
+### Technical Committee
 
 | Name              | Affiliation                                        |
 | ----              | -----------                                        |
 | Dennis Hunt       | Retired Television Engineer                        |
 | Chris Reid Murray | Chief Engineer, KKNU / McKenzie River Broadcasting |
-
-#### Radio Steering Committee
-
-| Name          | Affiliation                      |
-| ----          | -----------                      |
-| Bill Durst    | WLT Vice President, Board member |
-| John Raymonda | KXCR liaison, Board member       |
