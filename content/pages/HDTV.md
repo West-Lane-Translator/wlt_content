@@ -35,8 +35,8 @@ about it further down the page.
 |                                |      | 28.3 | 32.3 | OPB Kids       |         |
 |                                |      | 28.4 | 32.4 | OPB Radio      |         |
 | [KEZI]({filename}HDTV.md#kezi) | ABC  | 9.1  | 35.1 | KEZI (ABC)     | K35HW-D |
-|                                |      | 9.2  | 35.2 | Me-TV          |         |
-|                                |      | 9.3  | 35.3 | ION-TV         |         |
+|                                |      | 9.2  | 35.2 | MeTV           |         |
+|                                |      | 9.3  | 35.3 | ION Television |         |
 |                                |      | 9.4  | 35.4 | -              |         |
 | [KLSR]({filename}HDTV.md#klsr) | Fox  | 34.1 | 28.1 | KLSR (Fox)     | K28NZ-D |
 |                                |      | 34.2 | 28.2 | KEVU (My TV)   |         |
