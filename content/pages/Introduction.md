@@ -23,7 +23,9 @@ board-of-directors members, upcoming meetings, and
 [bylaws]({static}/pdfs/WLT_Bylaws_October_28_2020_edits.pdf) for your
 perusal. You will also find ample [contact
 information]({filename}About/Contact.md), should you desire to let us
-know your feelings or need further information.
+know your feelings or need further information.  We're also currently
+looking for new board members and would appreciate hearing from you if
+you want to help!
 
 Continue your visit here by reading the [Frequently Asked
 Questions]({filename}FAQ.md) section, or by exploring the menu items

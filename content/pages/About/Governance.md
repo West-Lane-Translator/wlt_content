@@ -102,6 +102,10 @@ format]({static}/pdfs/WLT_Bylaws_October_28_2020_edits.pdf).
 | Chris Reid Murray | Member         | Chief Engineer, KKNU / McKenzie River Broadcasting |
 | John Raymonda     | Member         | Local Resident                                     |
 
+We are actively looking for new board members to join us.  Please
+reach out to us via our [contact page]({filename}Contact.md) if you
+would like to help with the governance of West Lane Translator.
+
 ### Technical Committee
 
 | Name              | Affiliation                                        |
