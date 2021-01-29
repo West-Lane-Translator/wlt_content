@@ -83,7 +83,7 @@ meetings are being made available in PDF format:
 | Meeting summary from |
 | :--- |
 | [October 28, 2020]({static}/pdfs/WLT BoD Meeting Summary 2020-10-28.pdf) |
-| The January 27, 2021 annual meeting summary will be soon be available here. |
+| [January 27, 2021 annual meeting]({static}/pdfs/WLT BoD Meeting Summary 2021-01-27.pdf) |
 
 ### Bylaws
 
