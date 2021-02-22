@@ -85,7 +85,7 @@ line-of-sight to the tower may have difficulties, as described below.
 ### I'm in town, and I can clearly see the tower, but I can't receive all the stations.
 
 Unfortunately, this is something we hear too often. Even if you are away
-from obstructions, the signals my be reflecting off of those objects,
+from obstructions, the signals may be reflecting off of those objects,
 and are being received by your TV set. This is a phenomena known as
 "multipath", that is multiple signals broadcast by the same source, but
 arriving at different times due to the difference in distance (reflected
