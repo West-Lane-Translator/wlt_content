@@ -88,7 +88,7 @@ meetings are being made available in PDF format:
 ### Bylaws
 
 Our bylaws are available in [PDF
-format]({static}/pdfs/WLT_Bylaws_October_28_2020_edits.pdf).
+format]({static}/pdfs/WLT_Bylaws_January_27_2021_distribution.pdf).
 
 ### Board Members
 
