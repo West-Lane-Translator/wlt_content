@@ -37,7 +37,7 @@ COPYRIGHT_NAME = AUTHOR
 COPYRIGHT_YEAR = '2011-' + str(datetime.datetime.today().year)
 ROBOTS = 'index, follow'
 FAVICON = SITEURL + '/images/favicon.ico'
-SITELOGO = SITEURL + '/images/logo.png'
+SITELOGO = SITEURL + '/images/logo.jpg'
 # Flex Dark Mode settings per:
 #   https://github.com/alexandrevicenzi/Flex/wiki/Dark-Mode
 THEME_COLOR = 'light'

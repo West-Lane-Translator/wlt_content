@@ -19,10 +19,17 @@ like a radar array than a set-top antenna.
 
 #### Examples of Indoor Antennas
 
-![Rabbit Ears with a Loop]({static}/images/antenna3.png)
-![Modern Log-Periodic look-alike]({static}/images/antenna6.png)  
-![Dual Loop Antenna]({static}/images/antenna5.png)
-![Radar Array]({static}/images/antenna4.png)
+![Loop Antenna on TV]({static}/images/uhf_loop.jpg)
+<br>
+*UHF loop antenna on TV's antenna input*
+
+![Loop Antenna on Base]({static}/images/uhf_loop_w_base.jpg)
+<br>
+*Freestanding UHF loop antenna*
+
+![Flat Antenna]({static}/images/uhf_flat.jpg)
+<br>
+*UHF flat antenna*
 
 Your antenna choice may come down to a matter of interior decor rather
 than antenna performance if you have enough signal strength.
@@ -59,11 +66,17 @@ other types that work quite well also.
 
 #### Examples of Outdoor UHF Antennas
 
-![Log Periodic Antenna]({static}/images/antenna2.png)
-![Bowtie Antenna]({static}/images/antenna1a.png)
+![Bowtie Antenna]({static}/images/uhf_bowtie.jpg)
+<br>
+*UHF Bowtie antenna*
+
+![Yagi Antenna]({static}/images/uhf_yagi.jpg)
+<br>
+*UHF Yagi antenna*
 
 Bowtie antennas should be aimed with the "bowties" facing the translator
-tower.
+tower.  Yagi antennas should be aimed with the smaller end pointing towards
+the translator tower.
 
 Install your antenna "in the clear" above trees, buildings, or other
 obstructions (if possible). Be sure it is in a safe area, away from any
@@ -86,13 +99,18 @@ dramatic effect on signal strength.
 
 ### Antenna Cables
 
-![Coax with F Connector]({static}/images/coax_f_connector.png)
-![Twin Lead Cable]({static}/images/twin_lead.png)
+![Twin Lead Cable]({static}/images/twin_lead.jpg)
+<br>
+*Twin Lead Cable*
 
 If your down-lead is of the twin-lead type (a brown or black colored
 cable with two wires embedded along the edges), replace it with
 coax. You will encounter too many problems dealing with this type of
 antenna lead-in wire than is worth the effort to keep it.
+
+![Coax with F Connector]({static}/images/coax_f_connector.jpg)
+<br>
+*Coax with F Connector*
 
 In many ways, a coaxial cable (type RG-6 is best) down-lead is easier to
 install as it can be run in any manner whatsoever. The wave or
