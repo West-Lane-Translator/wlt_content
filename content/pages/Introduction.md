@@ -3,22 +3,6 @@ URL:
 Save_As: index.html
 Status: Hidden
 
----
-
-<b>
-July 19, 2021
-
-KLSR (HDTV 34.1) and KEVU (HDTV 34.2) are currently off the air in the
-Florence area although they are operating normally in Eugene.  Their
-engineers have been made aware of the outage and are working to
-resolve the problem.
-
-Please accept our apologies for this unanticipated interruption of
-service.
-</b>
-
----
-
 Since [1959]({filename}About/History.md), West Lane Translator has
 brought FREE over-the-air Television and FM broadcasts to Florence,
 Oregon and the Central Oregon Coast area.
