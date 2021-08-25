@@ -77,14 +77,8 @@ do {
 } while (i < 5);
 </script>
 
-Starting with the October 28, 2020 meeting, summaries of past board
-meetings are being made available in PDF format:
-
-| Meeting summary from |
-| :--- |
-| [October 28, 2020]({static}/pdfs/WLT BoD Meeting Summary 2020-10-28.pdf) |
-| [January 27, 2021 annual meeting]({static}/pdfs/WLT BoD Meeting Summary 2021-01-27.pdf) |
-| [April 28, 2021]({static}/pdfs/WLT BoD Meeting Summary 2021-04-28.pdf) |
+[Summaries of past board meetings are available
+here.]({filename}Summaries of past board meetings.md)
 
 ### Bylaws
 
