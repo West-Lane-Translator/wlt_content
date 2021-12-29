@@ -3,6 +3,23 @@ URL:
 Save_As: index.html
 Status: Hidden
 
+---
+
+<b>
+December 28, 2021
+
+KLSR (HDTV 34.1), KEVU (HDTV 34.2) and the four OPB stations (HDTV
+28.1 through 28.4) are currently off the air in the Florence area
+although they are operating normally in Eugene.  This is due to a loss
+of power on Walker Mountain.  Engineers are working to resolve the
+problem.
+
+Please accept our apologies for this unanticipated interruption of
+service.
+</b>
+
+---
+
 Since [1959]({filename}About/History.md), West Lane Translator has
 brought FREE over-the-air Television and FM broadcasts to Florence,
 Oregon and the Central Oregon Coast area.

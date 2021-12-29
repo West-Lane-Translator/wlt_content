@@ -1,6 +1,23 @@
 Title: HDTV
 Menu: SideA
 
+---
+
+<b>
+December 28, 2021
+
+KLSR (HDTV 34.1), KEVU (HDTV 34.2) and the four OPB stations (HDTV
+28.1 through 28.4) are currently off the air in the Florence area
+although they are operating normally in Eugene.  This is due to a loss
+of power on Walker Mountain.  Engineers are working to resolve the
+problem.
+
+Please accept our apologies for this unanticipated interruption of
+service.
+</b>
+
+---
+
 West Lane Translator is the licensee of four HDTV digital television
 translators in Florence. Together with a fifth licensee, Oregon Public
 Broadcasting, we bring High Definition television to the Central Coast
