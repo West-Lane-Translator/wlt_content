@@ -6,12 +6,12 @@ Status: Hidden
 ---
 
 <b>
-December 28, 2021
+December 31, 2021
 
-KLSR (HDTV 34.1), KEVU (HDTV 34.2) and the four OPB stations (HDTV
-28.1 through 28.4) are currently off the air in the Florence area
-although they are operating normally in Eugene.  This is due to a loss
-of power on Walker Mountain.  Engineers are working to resolve the
+KLSR (HDTV 34.1) and KEVU (HDTV 34.2)
+are currently off the air in the Florence area
+although they are operating normally in Eugene.
+Engineers are working to resolve the
 problem.
 
 Please accept our apologies for this unanticipated interruption of
