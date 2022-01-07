@@ -1,6 +1,8 @@
 Title: HDTV
 Menu: SideA
 
+{!notice.md!}
+
 West Lane Translator is the licensee of four HDTV digital television
 translators in Florence. Together with a fifth licensee, Oregon Public
 Broadcasting, we bring High Definition television to the Central Coast

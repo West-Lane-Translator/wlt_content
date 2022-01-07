@@ -1,6 +1,8 @@
 Title: Florence Oregon
 Menu: SideG
 
+{!notice.md!}
+
 There is a wide variety of useful information about the Florence,
 Oregon area on the internet.  Notable sites include:
 

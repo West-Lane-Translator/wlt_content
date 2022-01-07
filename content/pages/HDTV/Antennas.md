@@ -1,6 +1,8 @@
 Title: HDTV Antennas
 Menu: SideB
 
+{!notice.md!}
+
 [TOC]
 
 In order to assist translator system viewers in pulling in the best

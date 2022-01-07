@@ -1,6 +1,8 @@
 Title: FAQ
 Menu: SideF
 
+{!notice.md!}
+
 Here we'll try to briefly touch upon Frequently Asked Questions,
 provide a quick and understandable answer, and direct you to resources
 to help you learn more.

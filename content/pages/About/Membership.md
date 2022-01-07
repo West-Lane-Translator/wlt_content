@@ -2,6 +2,8 @@ Title: Membership
 Status: Hidden
 Menu: TopD
 
+{!notice.md!}
+
 West Lane Translator welcomes your support!
 
 ## Memberships

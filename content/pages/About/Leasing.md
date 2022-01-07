@@ -2,6 +2,8 @@ Title: Leasing
 Status: Hidden
 Menu: TopC
 
+{!notice.md!}
+
 West Lane Translator Incorporated owns and operates a substantial
 communications tower in the Florence, Oregon market. Our facilities are
 located at the top of Parachute Hill, south of the Siuslaw River and Old

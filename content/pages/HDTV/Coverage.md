@@ -1,6 +1,8 @@
 Title: HDTV Coverage
 Menu: SideC
 
+{!notice.md!}
+
 This predicted coverage map shows generally where the WLT translator
 signal will be usable.
 

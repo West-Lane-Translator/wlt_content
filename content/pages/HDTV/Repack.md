@@ -1,6 +1,8 @@
 Title: HDTV Repack
 Menu: SideD
 
+{!notice.md!}
+
 Due to sale of spectrum by the FCC, West Lane Translator, Inc. was
 required to change three of its channels on December 7th, 2017. The
 translators for KVAL, KMTR and KLSR were moved from channel 40, 43 and

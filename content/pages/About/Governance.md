@@ -2,6 +2,8 @@ Title: Governance
 Status: Hidden
 Menu: TopB
 
+{!notice.md!}
+
 [TOC]
 
 ### Board Meetings

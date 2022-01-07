@@ -1,6 +1,8 @@
 Title: FM Radio
 Menu: SideE
 
+{!notice.md!}
+
 The six FM radio stations of WLT are owned and operated by their
 respective originating stations. The translator licenses are granted to
 the station owners. These radio stations have affirmed their commitment

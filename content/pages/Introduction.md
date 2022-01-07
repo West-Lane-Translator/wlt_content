@@ -3,6 +3,8 @@ URL:
 Save_As: index.html
 Status: Hidden
 
+{!notice.md!}
+
 Since [1959]({filename}About/History.md), West Lane Translator has
 brought FREE over-the-air Television and FM broadcasts to Florence,
 Oregon and the Central Oregon Coast area.

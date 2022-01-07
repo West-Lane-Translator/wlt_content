@@ -2,6 +2,8 @@ Title: Contact Us
 Status: Hidden
 Menu: TopE
 
+{!notice.md!}
+
 ## Mailing Address
 West Lane Translator Incorporated  
 P.O. Box 91  

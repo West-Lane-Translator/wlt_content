@@ -5,6 +5,10 @@ import datetime
 import inspect
 import pathlib
 import re
+import sys
+
+sys.path.append('../markdown-include')
+from markdown_include.include import MarkdownInclude
 
 # The Pelican settings are documented here:
 #   https://docs.getpelican.com/en/stable/settings.html
@@ -50,14 +54,15 @@ THEME_COLOR_ENABLE_USER_OVERRIDE = True  # Uses JavaScript
 # For completeness, the basic Markdown syntax is documented here:
 #   https://daringfireball.net/projects/markdown/syntax
 MARKDOWN = {
-    'extension_configs': {
-        'markdown.extensions.attr_list': {},
-        'markdown.extensions.extra': {},
-        'markdown.extensions.meta': {},
-        'markdown.extensions.smarty': {},
-        'markdown.extensions.toc': {},
+    'extensions': {
+        'markdown.extensions.attr_list',
+        'markdown.extensions.extra',
+        'markdown.extensions.meta',
+        'markdown.extensions.smarty',
+        'markdown.extensions.toc',
+        MarkdownInclude({'base_path': 'content'})
     },
-    'output_format': 'html5',
+    'output_format': 'html5'
 }
 
 # I don't feel compelled to tell the world our site was built with
