@@ -31,33 +31,34 @@ in the table below in alphabetical order.  Clicking on a Station will
 take you to more detailed information (including contact information)
 about it further down the page.
 
-| <br>Station | Network<br>Affiliation | Eugene<br>Channel | Florence<br>Channel | Program<br>Content | Translator<br>Callsign |
+| <br>Station | Network<br>Affiliation | **Eugene<br>Channel** | *Florence<br>Channel* | Program<br>Content | Translator<br>Callsign |
 | :---                           | :--- | :--: | :--: | :---           | :---    |
-| [KEPB]({filename}HDTV.md#kepb) | PBS  | 28.1 | 32.1 | OBP            | K32HF-D |
-|                                |      | 28.2 | 32.2 | OPB Plus       |         |
-|                                |      | 28.3 | 32.3 | OPB Kids       |         |
-|                                |      | 28.4 | 32.4 | OPB Radio      |         |
-| [KEZI]({filename}HDTV.md#kezi) | ABC  | 9.1  | 35.1 | KEZI (ABC)     | K35HW-D |
-|                                |      | 9.2  | 35.2 | MeTV           |         |
-|                                |      | 9.3  | 35.3 | ION Television |         |
-|                                |      | 9.4  | 35.4 | -              |         |
-| [KLSR]({filename}HDTV.md#klsr) | Fox  | 34.1 | 28.1 | KLSR (Fox)     | K28NZ-D |
-|                                |      | 34.2 | 28.2 | KEVU (My TV)   |         |
-|                                |      | 34.3 | 28.3 | -              |         |
-|                                |      | 34.4 | 28.4 | -              |         |
-| [KMTR]({filename}HDTV.md#kmtr) | NBC  | 16.1 | 26.1 | KMTR (NBC)     | K26NE-D |
-|                                |      | 16.2 | 26.2 | The CW Network |         |
-|                                |      | 16.3 | 26.3 | Comet TV       |         |
-|                                |      | 16.4 | 26.4 | -              |         |
-| [KVAL]({filename}HDTV.md#kmtr) | CBS  | 13.1 | 24.1 | KVAL(CBS)      | K24MF-D |
-|                                |      | 13.2 | 24.2 | TBD            |         |
-|                                |      | 13.3 | 24.3 | Charge!        |         |
-|                                |      | 13.4 | 24.4 | -              |         |
+| [KEPB]({filename}HDTV.md#kepb) | PBS  | **28.1** | *32.1* | OBP            | K32HF-D |
+|                                |      | **28.2** | *32.2* | OPB Plus       |         |
+|                                |      | **28.3** | *32.3* | OPB Kids       |         |
+|                                |      | **28.4** | *32.4* | OPB Radio      |         |
+| [KEZI]({filename}HDTV.md#kezi) | ABC  | **9.1**  | *35.1* | KEZI (ABC)     | K35HW-D |
+|                                |      | **9.2**  | *35.2* | MeTV           |         |
+|                                |      | **9.3**  | *35.3* | ION Television |         |
+|                                |      | **9.4**  | *35.4* | -              |         |
+| [KLSR]({filename}HDTV.md#klsr) | Fox  | **34.1** | *28.1* | KLSR (Fox)     | K28NZ-D |
+|                                |      | **34.2** | *28.2* | KEVU (My TV)   |         |
+|                                |      | **34.3** | *28.3* | -              |         |
+|                                |      | **34.4** | *28.4* | -              |         |
+| [KMTR]({filename}HDTV.md#kmtr) | NBC  | **16.1** | *26.1* | KMTR (NBC)     | K26NE-D |
+|                                |      | **16.2** | *26.2* | The CW Network |         |
+|                                |      | **16.3** | *26.3* | Comet TV       |         |
+|                                |      | **16.4** | *26.4* | -              |         |
+| [KVAL]({filename}HDTV.md#kmtr) | CBS  | **13.1** | *24.1* | KVAL(CBS)      | K24MF-D |
+|                                |      | **13.2** | *24.2* | TBD            |         |
+|                                |      | **13.3** | *24.3* | Charge!        |         |
+|                                |      | **13.4** | *24.4* | -              |         |
 
 A few important notes on the information in this table:
 
 * You will notice that both the Eugene and Florence channel numbers
- are listed in these tables. This information will only be useful to
+ are listed in these tables. The Florence channel numbers (italicized)
+ will only be useful to
  you the first time you receive the station's programming. After
  once entering the Florence channel number or allowing your HD
  television or HDTV converter box to scan for local stations, the
