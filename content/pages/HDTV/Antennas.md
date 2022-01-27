@@ -1,5 +1,5 @@
 Title: HDTV Antennas
-Menu: SideB
+Menu: SideG
 
 {!notice.md!}
 

@@ -1,5 +1,5 @@
-Title: Florence Oregon
-Menu: SideG
+Title: Florence, Oregon
+Menu: SideX
 
 {!notice.md!}
 

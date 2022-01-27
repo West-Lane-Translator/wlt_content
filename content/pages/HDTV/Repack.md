@@ -1,5 +1,5 @@
 Title: HDTV Repack
-Menu: SideD
+Status: Hidden
 
 {!notice.md!}
 

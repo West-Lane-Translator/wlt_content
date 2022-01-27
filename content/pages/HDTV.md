@@ -1,4 +1,5 @@
-Title: HDTV
+Title: HDTV Stations
+Slug: hdtv
 Menu: SideA
 
 {!notice.md!}

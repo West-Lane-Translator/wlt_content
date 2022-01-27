@@ -1,5 +1,5 @@
 Title: FM Radio
-Menu: SideE
+Menu: SideR
 
 {!notice.md!}
 

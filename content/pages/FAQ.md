@@ -1,5 +1,5 @@
 Title: FAQ
-Menu: SideF
+Menu: SideV
 
 {!notice.md!}
 

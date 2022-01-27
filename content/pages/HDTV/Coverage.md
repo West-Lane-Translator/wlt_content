@@ -1,5 +1,5 @@
 Title: HDTV Coverage
-Menu: SideC
+Menu: SideJ
 
 {!notice.md!}
 
