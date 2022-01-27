@@ -1,4 +1,4 @@
-Title: HDTV Stations
+Title: HDTV Channels
 Slug: hdtv
 Menu: SideA
 
