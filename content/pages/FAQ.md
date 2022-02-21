@@ -59,7 +59,7 @@ to "scan" for stations.
 ### My television is quite old. Can I still use it to receive your broadcasts?
 
 For the best viewing experience, we recommend that you purchase a newer
-television. All receivers manufactured after 2007 are HDTV capable. You
+television. All receivers manufactured since March 1, 2007 are HDTV capable. You
 do not need an elaborate system to view HDTV, even a modestly-priced
 HDTV will provide you with significantly improved picture
 quality. Alternately, "converter boxes" are manufactured to allow older
