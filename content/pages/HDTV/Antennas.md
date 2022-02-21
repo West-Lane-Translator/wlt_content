@@ -7,7 +7,12 @@ Menu: SideG
 
 In order to assist translator system viewers in pulling in the best
 possible signal, what follows a list of tips for installing an antenna
-or "tuning up" an existing antenna.
+or "tuning up" an existing antenna.  The channels broadcast by West
+Lane Translator are all in the UHF band (specifically UHF channels 24,
+26, 28, 32 and 35) so make sure that your antenna is designed to
+receive UHF.  A UHF-only antenna is ideal.  A combined VHF/UHF antenna
+is also suitable although the elements of it that receive VHF will be
+of no use.
 
 ### Indoor Antennas
 
@@ -19,7 +24,7 @@ Indoor antennas come in a variety of sizes and shapes, from the familiar
 "rabbit ears with a loop" to futuristic panel antennas that look more
 like a radar array than a set-top antenna.
 
-#### Examples of Indoor Antennas
+#### Examples of Indoor UHF Antennas
 
 ![Loop Antenna on TV]({static}/images/uhf_loop.jpg)
 <br>
@@ -34,7 +39,9 @@ like a radar array than a set-top antenna.
 *UHF flat antenna*
 
 Your antenna choice may come down to a matter of interior decor rather
-than antenna performance if you have enough signal strength.
+than antenna performance if you have enough signal strength.  In
+general, a flat face of the antenna should point towards the
+translator tower.
 
 Be sure that any indoor antenna you use or purchase has a built-in UHF
 "loop" antenna. The telescoping rod type antennas are meant for VHF
@@ -89,7 +96,10 @@ use enough down-lead cable to position your antenna at the most ideal
 location.
 
 Have someone move your antenna vertically, either up or down on its
-mount while you watch your set.  Switch among the various channels with
+mount while you watch your set or the [signal
+meter]({filename}HowTo.md#a-signal-meter-helps-overcome-the-challenge)
+that you can checkout from the library.
+Switch among the various channels with
 the antenna at different heights instead of viewing just one channel.
 Locate the antenna position which results in the best overall reception
 on all the channels. This may be necessary even if you have a clear
@@ -129,13 +139,22 @@ so these sets are ready for the coaxial down-lead cable. The type F
 connectors can be tricky to put on the cable for those not used to
 them. A TV shop can put them on for you if you have trouble.
 
+### Amplifiers
+
+A TV antenna amplifier may be used to boost the signal received from
+your antenna.  If your antenna is not receiving a good signal,
+boosting the poor signal it receives with an amplifier will not make
+it better.  Amplifiers are used instead to boost a good signal from
+the antenna to overcome signal loss when you have a long length of
+cable or when the signal is split to multiple televisions.
+
+### More Information and Antenna Resources
+
 Each of West Lane Translator's UHF HDTV translators operates at an
 effective radiated power of 2,500 watts. The transmitting equipment is
 only half of the total system, however. The other half is your receiving
 equipment which, like the translator, it must be kept in top condition
 if the maximum potential of the system is to be realized.
-
-### More Information and Antenna Resources
 
 These links to external sites will allow you to research antenna
 performance and learn more about what type of antenna will best suit

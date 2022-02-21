@@ -67,6 +67,8 @@ Someone from our organization will contact you in reply shortly.
           Reception Issues - KVAL (CBS) channel 13</option>
         <option value="Support WLT - Donate or Membership">
           Support WLT - Donate or Membership</option>
+        <option value="Problems with the Library's Signal Meter">
+          Problems with the Library's Signal Meter</option>
         <option value="Tower Leasing">Tower Leasing</option>
       </select>
   </label></p>
