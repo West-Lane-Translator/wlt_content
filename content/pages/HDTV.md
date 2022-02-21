@@ -103,13 +103,13 @@ from atop our new 240-foot tower on Glenada Hill, south of Florence. As
 a result, and because the five TV stations have identical power output
 levels, robust signal strength in the area is insured for each station.
 
-[READ MORE]({static}/pdfs/Siuslaw_News_01-16-2010.pdf) about WLT's
-transmission facility upgrade (PDF)  
-[READ MORE]({filename}FAQ.md) about the answers to frequently asked
-questions  
-[READ MORE]({filename}HDTV/Antennas.md) about antennas and signal
-reception  
-[READ MORE]({filename}HDTV/Coverage.md) about reception and coverage,
+[Read more]({static}/pdfs/Siuslaw_News_01-16-2010.pdf) about WLT's
+transmission facility upgrade (PDF).  
+[Read more]({filename}FAQ.md) about the answers to frequently asked
+questions.  
+[Read more]({filename}HDTV/Antennas.md) about antennas and signal
+reception.  
+[Read more]({filename}HDTV/Coverage.md) about reception and coverage,
 including maps of the area.  
 
 -------
