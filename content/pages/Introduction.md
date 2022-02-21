@@ -11,7 +11,7 @@ Oregon and the Central Oregon Coast area.
 
 Today, we continue to present our community with state-of-the-art
 [High Definition digital television]({filename}HDTV.md) featuring the
-highest video and audio quality available anywhere. Our six [FM radio
+highest video and audio quality available. Our six [FM radio
 translators]({filename}FM.md) provide diverse programming choices
 while maintaining world-class signal quality, including HD digital
 music and news.
@@ -20,7 +20,7 @@ Take some time to explore our web site. Here you will find access to
 the information you need to make the most of our available services.
 
 As a non-profit, Oregon State 501(c)(4) corporation, we maintain an
-online [listing]({filename}About/Governance.md) of officers,
+[online]({filename}About/Governance.md) listing of officers,
 board-of-directors members, upcoming meetings, and
 [bylaws]({static}/pdfs/WLT_Bylaws_January_27_2021_distribution.pdf) for your
 perusal. You will also find ample [contact
