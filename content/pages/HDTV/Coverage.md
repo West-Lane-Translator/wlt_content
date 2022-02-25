@@ -4,7 +4,8 @@ Menu: SideJ
 {!notice.md!}
 
 This predicted coverage map shows generally where the WLT translator
-signal will be usable.
+signal will be usable.  The red circle is centered on Parachute Hill
+where our communications tower is located.
 
 ![Coverage Map]({static}/images/coverage_map.png)
 
