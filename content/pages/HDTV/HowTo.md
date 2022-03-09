@@ -5,9 +5,7 @@ Menu: SideD
 
 [TOC]
 
-**NOTE: The images on this page are still preliminary.**
-
-[comment]: # (TODO: Update pictures)
+**NOTE: Many images on this page are still preliminary.**
 
 This page is for you if you are interested in receiving the [HDTV
 Channels]({filename}../HDTV.md) that are broadcast over the air free of charge
@@ -22,6 +20,8 @@ pictures and obtain additional information regarding HDTV and our FM
 stations.
 
 [comment]: # (TODO: Change new.westlanetv.org to westlanetv.org)
+
+[comment]: # (TODO: Replace pictures of screens with screenshots)
 
 [comment]: # (TODO: Add a pdf printout, optimally without navigation menus)
 
@@ -124,11 +124,9 @@ rechargeable battery.
 
 This is what the kit looks like:
 
-[comment]: # (TODO: Label what the parts are )
-
 ![Signal Meter Kit]({static}/images/meter_kit.jpg)
 
-[comment]: # (TODO: Take a picture of the kit with guide. )
+[comment]: # (TODO: Take a picture of the kit with guide and label the parts. )
 
 The kit consists of:
 
@@ -264,9 +262,9 @@ channels as shown above in the images of the SNR and SCAN screens.
 
 ## Final Notes
 
-When you are ready to the meter, please ensure that the settings have
-been restored as mentioned above, the battery has been charged and
-everything has been put back in the case.
+When you are ready to return the meter, please ensure that the
+settings have been restored as mentioned above, the battery has been
+charged and everything has been put back in the case.
 
 If you have any problems with or questions about using the SS40 for
 checking for reception of WLT's channels, please [contact
