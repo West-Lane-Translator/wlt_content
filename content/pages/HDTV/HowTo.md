@@ -187,10 +187,7 @@ page, subchannels are available for each HDTV channel.  The main
 channel and subchannels are all part of the same digital transmission
 so the level and SNR will be identical for all of them.  The meter
 displays information about channels without the decimal suffixes
-because of this.  If you would like more information, [this blog post
-by the retailer Solid
-Signal](https://blog.solidsignal.com/tutorials/what-is-a-good-signal-level-for-over-the-air-reception/)
-was the basis for this section and is a good introduction.
+because of this.
 
 The meter displays the signal level in dBm.  If you accidentally touch
 the word **dBm** on the screen, the meter will switch to displaying
@@ -210,6 +207,11 @@ SNR is measured in dB.  SNR values over 25 dB are ideal and values
 under 20 dB mean the signal is practically unusable.  The values are
 positive but dB units are also logarithmic so once again, 23 dB is two
 times better than 20 dB and 30 dB is 10 times better than 20 dB.
+
+If you would like more information, [this blog post
+by the retailer Solid
+Signal](https://blog.solidsignal.com/tutorials/what-is-a-good-signal-level-for-over-the-air-reception/)
+was the basis for this section and is a good introduction.
 
 To summarize, the SNR needs to be at least 20 dB and preferably over
 25 dB at your antenna and in addition, the signal levels need to be
