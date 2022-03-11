@@ -5,7 +5,7 @@ Menu: SideD
 
 [TOC]
 
-**NOTE: Many images on this page are still preliminary.**
+**NOTE: Some of the images on this page are still preliminary.**
 
 This page is for you if you are interested in receiving the [HDTV
 Channels]({filename}../HDTV.md) that are broadcast over the air free of charge
@@ -126,8 +126,6 @@ This is what the kit looks like:
 
 ![Signal Meter Kit]({static}/images/meter_kit.jpg)
 
-[comment]: # (TODO: Take a picture of the kit with guide and label the parts. )
-
 The kit consists of:
 
 * the SS40 meter in its protective nylon cover,
@@ -136,7 +134,7 @@ The kit consists of:
 * a stylus for use on the SS40's touchscreen,
 * the GE Pro Bar HD UHF indoor antenna with an attached 66" long cable,
 * a hard case with compartments for all the other pieces, and
-* a printout of this guide.
+* a printout of this guide (not shown in the picture above).
 
 *Please ensure that all components are in the case before returning the meter.*
 
@@ -157,7 +155,7 @@ It is a good idea to charge the meter's battery when you get it home.
 
 | | <div style="width:200px"></div> |
 | :---- | :----: |
-| Remove the meter, charger and USB cable from the hard case.  If the case is hard to open even after unlatching it, the knob under the handle can be turned counter-clockwise to equalize the pressure in the case. | [![Meter, charger and cable]({static}/images/meter_removed.jpg)]({static}/images/meter_removed.jpg) |
+| Remove the meter, charger and USB cable from the hard case.  If the case is hard to open even after unlatching it, the knob under the handle can be turned counter-clockwise to equalize the pressure in the case and then back clockwise to seal the case again. | [![Meter, charger and cable]({static}/images/meter_removed.jpg)]({static}/images/meter_removed.jpg) |
 | Open the meter's nylon protective cover. | [![Opening the meter's cover]({static}/images/meter_opening.jpg)]({static}/images/meter_opening.jpg) |
 | Flip the nylon protective cover behind the meter and reattach it like an easel. | [![Make the cover an easel]({static}/images/meter_easel.jpg)]({static}/images/meter_easel.jpg) |
 | Flip open the plastic lid on the top of the meter. | [![Opening the meter lid]({static}/images/meter_lid.jpg)]({static}/images/meter_lid.jpg) |
