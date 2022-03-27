@@ -17,13 +17,15 @@ instead at
 [https://new.westlanetv.org/hdtv-how-to.html](https://new.westlanetv.org/hdtv-how-to.html)
 so that you can click on the links, see larger versions of the
 pictures and obtain additional information regarding HDTV and our FM
-stations.
+stations.  Conversely, if you are reading it online but you want it on
+paper, you can either try printing this page from your browser or
+download a [pdf]({static}/pdfs/HDTV_How-To.pdf) of it and print that.
 
 [comment]: # (TODO: Change new.westlanetv.org to westlanetv.org)
 
 [comment]: # (TODO: Replace pictures of screens with screenshots)
 
-[comment]: # (TODO: Add a pdf printout, optimally without navigation menus)
+[comment]: # (TODO: Some kind of quick reference)
 
 ## The Basics
 
