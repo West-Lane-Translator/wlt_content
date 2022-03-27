@@ -122,6 +122,8 @@ for the channels we broadcast all at the same time.  In addition, it
 is highly portable because it is small and is powered by an internal
 rechargeable battery.
 
+### The Signal Meter Kit
+
 This is what the kit looks like:
 
 ![Signal Meter Kit]({static}/images/meter_kit.jpg)
