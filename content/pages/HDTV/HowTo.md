@@ -25,8 +25,6 @@ download a [pdf]({static}/pdfs/HDTV_How-To.pdf) of it and print that.
 
 [comment]: # (TODO: Replace pictures of screens with screenshots)
 
-[comment]: # (TODO: Some kind of quick reference)
-
 ## The Basics
 
 To receive WLT's HDTV broadcasts you need to have a TV that can receive HDTV
@@ -281,3 +279,17 @@ producing and permission to use the screen images on this page.
 More information about the SignalScout 40 including videos and manuals
 are available on its [product
 page](http://www.psiber.com/signal-scout.html).
+
+### Quick Reference
+
+* The SNR needs to be at least 20 dB and preferably over 25 dB.
+
+* The signal levels need to be between -35 dBm and -70 dBm.
+
+| Signal<br>Meter<br>Channel | Eugene<br>Channel | Program<br>Content |
+| :--:   | :--: | :---            |
+| *24* | **13** | CBS/TBD/Charge! |
+| *26* | **16** | NBC/CW/Comet    |
+| *28* | **34** | Fox/My TV       |
+| *32* | **28** | OBP             |
+| *35* | **9**  | ABC/MeTV/ION    |
