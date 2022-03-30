@@ -25,7 +25,7 @@ download a [pdf]({static}/pdfs/HDTV_How-To.pdf) of it and print that.
 
 [comment]: # (TODO: Replace pictures of screens with screenshots)
 
-[comment]: # (TODO: look into highlighting relevant text when link followed.)
+[comment]: # (TODO: Use Text Fragment linking after more browsers support it.)
 
 ## The Basics
 
@@ -166,9 +166,7 @@ It is a good idea to charge the meter's battery when you get it home.
 | Connect the small end of the charging cable to the meter. | [![Connecting small end of charging cable to meter]({static}/images/meter_microusb.jpg)]({static}/images/meter_microusb.jpg) |
 | You may need to unfold the prongs on the charger that plug into the AC outlet. | [![Unfolding charger AC prongs]({static}/images/meter_unfold_ac.jpg)]({static}/images/meter_unfold_ac.jpg) |
 | Connect the large end of the charging cable to the charger. | [![Connecting large end of charging cable to charger]({static}/images/meter_charger.jpg)]({static}/images/meter_charger.jpg) |
-| Plug the charger into an AC outlet. | [![Meter charging]({static}/images/meter_charging.jpg)]({static}/images/meter_charging.jpg) |
-
-[comment]: # (TODO: Tell them they can use the meter while charging)
+| Plug the charger into an AC outlet.  You can continue on to the next section "[Getting Started with the Meter]({filename}HowTo.md#getting-started-with-the-meter)" while the meter charges. | [![Meter charging]({static}/images/meter_charging.jpg)]({static}/images/meter_charging.jpg) |
 
 ### Getting Started with the Meter
 
@@ -184,13 +182,14 @@ the meter.
 | After the meter is powered on, its home screen is displayed.  The icon at the top right corner of the screen indicates how full the battery is.  When the battery is fully charged, all the segments of the battery icon will be green.  When the battery is being charged, the red tip on the very right of the icon will be on.  The screen is a touch screen which works best when it is touched with the stylus included in the kit.  If the large vertical button on the left side of the screen shows **CATV**, press it with the stylus to change it to say **ATSC**.  The image at right shows the meter in the correct ATSC mode. | [![Meter ATSC button]({static}/images/meter_atsc.jpg)]({static}/images/meter_atsc.jpg) |
 | Press the **SETUP** button on the screen with the stylus to enter the setup menu shown. | [![Meter Setup Screen]({static}/images/meter_setup.jpg)]({static}/images/meter_setup.jpg) |
 | Press the **FILE EXPLORER** button on the screen with the stylus so prior customizations can be removed.  **USER SETTINGS** should be highlighted as shown, but if it is not, press it with the stylus.  Delete the prior user's settings by pressing the image of the trash can in the bottom right corner with the stylus.  A confirmation will appear on the screen; press **YES** to confirm the deletion.  Press **METER CAL (User)** to highlight it and once again press the trash can and then confirm by pressing **YES** to delete the prior user's meter cal also. When done, press the circular arrow at the bottom left corner of the screen to return to the setup menu. | [![Meter Files Screen]({static}/images/meter_files.jpg)]({static}/images/meter_files.jpg) |
-| Press the **SETTINGS** button on the screen with the stylus to enter the settings screen as shown.  If the time or date are incorrect, you may optionally correct them by touching the value with the stylus and then entering the correct value (note that time is entered in 24 hour format so add 12 to the time if it is afternoon).  The recommended values for the other settings are shown in the image to the right.  They can be changed by pressing the empty square that you want checked.  The **Speaker Level** can be changed to enable a clicking sound when the screen is touched.  The minimum **Auto Off** value of 5 minutes is recommended to extend battery life, but can be changed if needed.  **Automatic Gain Control** should be turned **Off**.  If it is not off, you may be confused by the readings because the meter can automatically offset the values displayed.  When done, quickly press the power button twice to return to the home screen. | [![Meter Settings Screen]({static}/images/meter_settings.jpg)]({static}/images/meter_settings.jpg) |
-
-[comment]: # (TODO: Explicitly say AGC needs changed.)
+| Press the **SETTINGS** button on the screen with the stylus to enter the settings screen as shown.  If the time or date are incorrect, you may optionally correct them by touching the value with the stylus and then entering the correct value (note that time is entered in 24 hour format so add 12 to the time if it is afternoon).  The recommended values for the other settings are shown in the image to the right.  They can be changed by pressing the empty square that you want checked.  The **Speaker Level** can be changed to enable a clicking sound when the screen is touched.  The minimum **Auto Off** value of 5 minutes is recommended to extend battery life, but can be changed if needed.  **Automatic Gain Control** needs to be changed from **On** to **Off**.  If it is not off, you may be confused by the readings because the meter can automatically offset the values displayed.  When done, quickly press the power button twice to return to the home screen. | [![Meter Settings Screen]({static}/images/meter_settings.jpg)]({static}/images/meter_settings.jpg) |
 
 ### Signal Quality Measurements
 
-[comment]: # (TODO: They need to learn background.)
+This section will provide you with background information that you
+will need to effectively use the meter.  While you read this section,
+you can set the meter aside and let it continue to charge, which it
+will do even when its display is off.
 
 As mentioned in a note on the [HDTV Channels]({filename}../HDTV.md)
 page, subchannels are available for each HDTV channel.  The main
@@ -199,13 +198,7 @@ so the level and SNR will be identical for all of them.  The meter
 displays information about channels without the decimal suffixes
 because of this.
 
-[comment]: # (TODO: Move dBmv down to where they could first see it.)
-
-The meter displays the signal level in dBm.  If you accidentally touch
-the word **dBm** on the screen, the meter will switch to displaying
-dBmv.  This document uses dBm so just press the stylus on the word
-**dBmv** on the screen and the meter will flip back to using dBm.
-
+The meter displays the signal level in dBm.
 A good signal level is typically between -35 dBm and -70 dBm.  Note
 that these values are negative and higher values are better so -35 dBm
 is better than -70 dBm.  The other important thing to know is that dBm
@@ -253,6 +246,12 @@ The SCAN screen shows the signal level for all the channels at once, while the
 SNR screen shows the SNR for all the channels at once.  As mentioned above,
 the SNR is critical for reception so we will start with that screen.
 
+The meter displays the signal level on all three of the signal
+measurements screens.  If the meter is displaying signal levels as
+dBmv instead of the dBm units this document uses, just press the
+stylus on the word **dBmv** on the screen and the meter will flip back
+to showing dBm.
+
 [comment]: # (TODO: Channel 9 (far right) is marginal because it's between 20 25.)
 [comment]: # (TODO: Add another screen to show Channel 9.)
 
@@ -265,9 +264,9 @@ the SNR is critical for reception so we will start with that screen.
 ### Resetting the Meter to Show WLT Channels
 
 These steps only need to be done if you don't see the five WLT
-channels as shown above in the images of the SNR and SCAN screens.
-
-[comment]: # (TODO: If not skip to final notes.)
+channels as shown above in the images of the SNR and SCAN screens.  If
+the channels are displayed properly, you can skip this section and go
+on to the "[Final Notes]({filename}HowTo.md#final-notes)" section.
 
 | | <div style="width:200px"></div> |
 | :---- | :----: |
@@ -279,13 +278,10 @@ channels as shown above in the images of the SNR and SCAN screens.
 
 ## Final Notes
 
-[comment]: # (TODO: You're ready to go.)
-
-[comment]: # (TODO: restore all as previously described.)
-
-When you are ready to return the meter, please ensure that the
-settings have been restored as mentioned above, the battery has been
-charged and everything has been put back in the case.
+You are now ready to start using the meter to diagnose your HDTV
+reception.  When you are ready to return the meter, please ensure that
+all settings have been restored as previously described, the battery
+has been charged and everything has been put back in the case.
 
 If you have any problems with or questions about using the SS40 for
 checking for reception of WLT's channels, please [contact
