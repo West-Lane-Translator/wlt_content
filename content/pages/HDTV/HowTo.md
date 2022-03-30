@@ -25,6 +25,8 @@ download a [pdf]({static}/pdfs/HDTV_How-To.pdf) of it and print that.
 
 [comment]: # (TODO: Replace pictures of screens with screenshots)
 
+[comment]: # (TODO: look into highlighting relevant text when link followed.)
+
 ## The Basics
 
 To receive WLT's HDTV broadcasts you need to have a TV that can receive HDTV
@@ -166,6 +168,8 @@ It is a good idea to charge the meter's battery when you get it home.
 | Connect the large end of the charging cable to the charger. | [![Connecting large end of charging cable to charger]({static}/images/meter_charger.jpg)]({static}/images/meter_charger.jpg) |
 | Plug the charger into an AC outlet. | [![Meter charging]({static}/images/meter_charging.jpg)]({static}/images/meter_charging.jpg) |
 
+[comment]: # (TODO: Tell them they can use the meter while charging)
+
 ### Getting Started with the Meter
 
 The following steps will familiarize you with the operation of the meter and
@@ -182,7 +186,11 @@ the meter.
 | Press the **FILE EXPLORER** button on the screen with the stylus so prior customizations can be removed.  **USER SETTINGS** should be highlighted as shown, but if it is not, press it with the stylus.  Delete the prior user's settings by pressing the image of the trash can in the bottom right corner with the stylus.  A confirmation will appear on the screen; press **YES** to confirm the deletion.  Press **METER CAL (User)** to highlight it and once again press the trash can and then confirm by pressing **YES** to delete the prior user's meter cal also. When done, press the circular arrow at the bottom left corner of the screen to return to the setup menu. | [![Meter Files Screen]({static}/images/meter_files.jpg)]({static}/images/meter_files.jpg) |
 | Press the **SETTINGS** button on the screen with the stylus to enter the settings screen as shown.  If the time or date are incorrect, you may optionally correct them by touching the value with the stylus and then entering the correct value (note that time is entered in 24 hour format so add 12 to the time if it is afternoon).  The recommended values for the other settings are shown in the image to the right.  They can be changed by pressing the empty square that you want checked.  The **Speaker Level** can be changed to enable a clicking sound when the screen is touched.  The minimum **Auto Off** value of 5 minutes is recommended to extend battery life, but can be changed if needed.  **Automatic Gain Control** should be turned **Off**.  If it is not off, you may be confused by the readings because the meter can automatically offset the values displayed.  When done, quickly press the power button twice to return to the home screen. | [![Meter Settings Screen]({static}/images/meter_settings.jpg)]({static}/images/meter_settings.jpg) |
 
+[comment]: # (TODO: Explicitly say AGC needs changed.)
+
 ### Signal Quality Measurements
+
+[comment]: # (TODO: They need to learn background.)
 
 As mentioned in a note on the [HDTV Channels]({filename}../HDTV.md)
 page, subchannels are available for each HDTV channel.  The main
@@ -190,6 +198,8 @@ channel and subchannels are all part of the same digital transmission
 so the level and SNR will be identical for all of them.  The meter
 displays information about channels without the decimal suffixes
 because of this.
+
+[comment]: # (TODO: Move dBmv down to where they could first see it.)
 
 The meter displays the signal level in dBm.  If you accidentally touch
 the word **dBm** on the screen, the meter will switch to displaying
@@ -243,6 +253,9 @@ The SCAN screen shows the signal level for all the channels at once, while the
 SNR screen shows the SNR for all the channels at once.  As mentioned above,
 the SNR is critical for reception so we will start with that screen.
 
+[comment]: # (TODO: Channel 9 (far right) is marginal because it's between 20 25.)
+[comment]: # (TODO: Add another screen to show Channel 9.)
+
 | | <div style="width:200px"></div> |
 | :---- | :----: |
 | **SNR Screen**<br> The majority of the SNR screen displays a bar graph that shows the SNR for all five of WLT's channels.  The two lines of numbers under the bar graph are the channel numbers.  The top line of these show the *Florence Channels* as listed on our [HDTV Channels]({filename}../HDTV.md) page.  The bottom line shows the **Eugene Channels** which you are probably more familiar with.  If the channels you see do not match the image shown to the right, you will need to follow the instructions in the next section "[Resetting the Meter to Show WLT Channels]({filename}HowTo.md#resetting-the-meter-to-show-wlt-channels)" to reset them.  The LEVEL and SNR boxes at the bottom of the screen show the numerical signal level and SNR for the blue highlighted channel.  The highlighted channel can be changed by pressing the circled arrow buttons at the bottom of the screen with the stylus.  The meter incorporates a compass.  The "NW" towards the top left corner of the screen shown to the right indicates the meter was pointed roughly northwest.  The compass works best when the meter is lying flat on its back and it indicates the direction that the antenna connector is pointed.  As mentioned above, SNR values need to be at least 20 dB and preferably over 25 dB.  On the screen shown to the right, four of the channels are being received well, but channel 9 (ABC) is marginal.  You can try to improve it by repositioning the antenna as you monitor the meter.  Even if it can not be improved, you will probably be satisfied with your reception of ABC at the time but you may lose reception of it under worse conditions.  Changing your [antenna]({filename}Antennas.md) to one rated for a longer range should improve the SNR. | [![Meter SNR Screen]({static}/images/meter_snr.jpg)]({static}/images/meter_snr.jpg) |
@@ -254,15 +267,21 @@ the SNR is critical for reception so we will start with that screen.
 These steps only need to be done if you don't see the five WLT
 channels as shown above in the images of the SNR and SCAN screens.
 
+[comment]: # (TODO: If not skip to final notes.)
+
 | | <div style="width:200px"></div> |
 | :---- | :----: |
 | As you did in the [Getting Started]({filename}HowTo.md##getting-started-with-the-meter), press the **SETUP** button on the home screen and then the **FILE EXPLORER** button on the setup screen to get to the FILES screen.  Press **Off-Air ATSC PLAN** with the stylus to select it.  The meter will add a new button that looks like a pencil writing on paper in the center at the bottom of the screen.  This button lets you edit the ATSC plan (the channels that will be displayed).  Press the edit button with the stylus. | [![Meter Files ATSC Plan]({static}/images/meter_atsc_plan.jpg)]({static}/images/meter_atsc_plan.jpg) |
 | The prior step brings up a screen similar to the one shown at right.  Look at the second button from the left at the bottom of the screen.  If it is a check mark, press it.  That will check all the channels' "Use" boxes so they will be displayed on the measurement screens.  It will also change the check mark button to be a filled-in square as shown at the right.  When you see the filled-in square button, press it and that will uncheck all the "Use" boxes so that no channels will be displayed on the measurement screens.  This will be a good starting point to enable WLT's five channels. | [![Meter Files ATSC Plan Ch 2]({static}/images/meter_atsc_plan2.jpg)]({static}/images/meter_atsc_plan2.jpg) |
-| Press the circular down arrow button at the bottom of the screen twice to get to the page of channels that has channel 24 in the C# (channel number) column.  Press the empty box to right of the 24 that is in the V# column.  Press "1", "3" and then the blue enter arrow.  Next press the empty box at the end of the 24 row in the "Use" column so that there is a check mark.  The meter screen should look like the image to the right.  Press the circular down arrow button at the bottom of the screen once to get to the page of channels that has channels 26, 29 and 32 in the C# column. | [![Meter Files ATSC Plan Ch 2]({static}/images/meter_atsc_plan18.jpg)]({static}/images/meter_atsc_plan18.jpg) |
+| Press the circular down arrow button at the bottom of the screen twice to get to the page of channels that has channel 24 in the C# (channel number) column.  Press the empty box to right of the 24 that is in the V# column.  Press "1", "3" and then the blue enter arrow.  Next press the empty box at the end of the 24 row in the "Use" column so that there is a check mark.  The meter screen should look like the image to the right.  Press the circular down arrow button at the bottom of the screen once to get to the page of channels that has channels 26, 28 and 32 in the C# column. | [![Meter Files ATSC Plan Ch 2]({static}/images/meter_atsc_plan18.jpg)]({static}/images/meter_atsc_plan18.jpg) |
 | In the same manner as in the prior step, set V# to 16 for C# 26, V# 34 for C# 28 and V# 28 for C# 32.  Also turn on the check mark for C# 26, 28 and 32.  The screen should look like the image to the right.  Press the circular down arrow button at the bottom of the screen once to get to the page of channels that has channel 35 in the C# column. | [![Meter Files ATSC Plan Ch 2]({static}/images/meter_atsc_plan26.jpg)]({static}/images/meter_atsc_plan26.jpg) |
 | On this screen, set V# to 9 for C# 35 and turn on the check mark for C# 35 and verify against the image shown to the right.  Press the circular arrow at the bottom left corner of the screen and then press "YES" when asked if the Channel Plan should be saved.  The meter has now been set to show just the Florence WLT channels with their equivalent Eugene channels.  Quickly press the power button twice to return to the home screen. | [![Meter Files ATSC Plan Ch 2]({static}/images/meter_atsc_plan34.jpg)]({static}/images/meter_atsc_plan34.jpg) |
 
 ## Final Notes
+
+[comment]: # (TODO: You're ready to go.)
+
+[comment]: # (TODO: restore all as previously described.)
 
 When you are ready to return the meter, please ensure that the
 settings have been restored as mentioned above, the battery has been
