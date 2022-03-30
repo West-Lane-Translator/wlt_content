@@ -52,9 +52,9 @@ information) about it further down the page.
 | Florence Frequency: | 90.7 MHz                                   |
 | Output Power:       | 900 Watts E.R.P.                           |
 | Programming:        | Florence community news and public affairs |
-| Licensee:           | West Lane Translator, Inc                  |
+| Licensee:           | KXCR Community Radio Partners              |
 | Address:            | KXCR Radio                                 |
-|                     | P.O. Box 127                               |
+|                     | 1509 9th Street                            |
 |                     | Florence, Oregon 97439                     |
 | Telephone:          | Business Office: 541-997-5252              |
 | Website:            | <http://www.kxcr.net>                      |
