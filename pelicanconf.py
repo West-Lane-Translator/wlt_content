@@ -23,6 +23,9 @@ from markdown_include.include import MarkdownInclude
 PUBLISHING = __file__.endswith('publishconf.py')
 
 # Pelican general site settings
+# Depending on the scope of changes, you may want to change "westlanetv.org"
+# in the SITEURL to "new.westlanetv.org" so links on
+# new.westlanetv.org point to new.westlanetv.org:
 SITEURL = 'https://westlanetv.org' if PUBLISHING else 'http://localhost:8000'
 SITENAME = 'West Lane Translator Inc.'
 TIMEZONE = 'America/Los_Angeles'
