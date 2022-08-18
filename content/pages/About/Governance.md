@@ -8,10 +8,9 @@ Menu: TopB
 
 ### Board Meetings
 
-Historically, meetings were held on the fourth Wednesday of January,
-April, July, and October at 6:00 PM in the Bromley room of the Siuslaw
-Public Library. For the time being, upcoming meetings are planned to
-be virtual.  Details on how to attend will be sent to
+Board meetings are held on the fourth Wednesday of January,
+April, July, and October at 6:00 PM via video conferencing.
+Details on how to attend will be sent to
 [members]({filename}Membership.md).
 
 The next four scheduled meetings are:
