@@ -5,8 +5,6 @@ Menu: SideD
 
 [TOC]
 
-**NOTE: Some of the images on this page are still preliminary.**
-
 This page is for you if you are interested in receiving the [HDTV
 Channels]({filename}../HDTV.md) that are broadcast over the air free of charge
 in the Florence area, but are not sure how to do that or if you are having
@@ -14,14 +12,12 @@ problems receiving the channels.
 
 If you are reading this on paper, you might want to read it online
 instead at
-[https://westlanetv.org/hdtv-how-to.html](https://new.westlanetv.org/hdtv-how-to.html)
+[https://westlanetv.org/hdtv-how-to.html](https://westlanetv.org/hdtv-how-to.html)
 so that you can click on the links, see larger versions of the
 pictures and obtain additional information regarding HDTV and our FM
 stations.  Conversely, if you are reading it online but you want it on
 paper, you can either try printing this page from your browser or
 download a [pdf]({static}/pdfs/HDTV_How-To.pdf) of it and print that.
-
-[comment]: # (TODO: Change new.westlanetv.org to westlanetv.org)
 
 [comment]: # (TODO: Use Text Fragment linking after more browsers support it.)
 
