@@ -75,7 +75,7 @@ message shortly.
 
 **Address:** 5909 E. Glenada Road
 
-**Coordinates:** N 43° 57' 25.0" W 124° 4' 30.0
+**Coordinates:** N 43° 57' 22.1" W 124° 4' 29.9"
 
 **Site Elevation:** 709' (216m) AMSL
 
