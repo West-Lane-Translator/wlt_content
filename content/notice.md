@@ -14,3 +14,17 @@
 [//]: # (</b>)
 [//]: # ()
 [//]: # (---)
+
+---
+
+<b>
+August 19, 2022
+
+KEZI (HDTV 9.1), MeTV (HDTV 9.2) and ION Televison (9.3) are currently
+off the air in the Florence area.  The problem is being investigated.
+
+Please accept our apologies for this unanticipated interruption of
+service.
+</b>
+
+---
