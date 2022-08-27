@@ -202,7 +202,7 @@ originating station and hope it is repaired soon.
 
 ### How can I report problems that I think are transmission-related?
 
-First, check into this web site. When there is an ongoing problem that
+First, check into this website. When there is an ongoing problem that
 we are aware of, there will be a banner at the bottom of every page
 describing the issue, and giving information as to when it is expected
 to be solved.

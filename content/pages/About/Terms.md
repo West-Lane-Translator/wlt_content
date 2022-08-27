@@ -80,19 +80,20 @@ Policy carefully before using Our Service.
 
 ## Links to Other Websites
 
-Our Service may contain links to third-party web sites or services
+Our Service may contain links to third-party websites or services
 that are not owned or controlled by the Company.
 
 The Company has no control over, and assumes no responsibility for,
-the content, privacy policies, or practices of any third party web
-sites or services. You further acknowledge and agree that the Company
+the content, privacy policies, or practices of any third party
+websites or services. You further acknowledge and agree that the
+Company
 shall not be responsible or liable, directly or indirectly, for any
 damage or loss caused or alleged to be caused by or in connection with
 the use of or reliance on any such content, goods or services
-available on or through any such web sites or services.
+available on or through any such websites or services.
 
 We strongly advise You to read the terms and conditions and privacy
-policies of any third-party web sites or services that You visit.
+policies of any third-party websites or services that You visit.
 
 ## Termination
 

@@ -48,7 +48,7 @@ indicated on your payment method (money order, etc.)
 Please note that donations or memberships sent to West Lane Translator
 will be applied to West Lane Translator, Inc. If you are interested in
 supporting the non-profit radio station KXCR, you may do
-so by visiting the [KXCR web site](http://www.kxcr.net).
+so by visiting the [KXCR website](http://www.kxcr.net).
 
 As WLT is a 501(c)(4) non-profit corporation, your contributions are
 not tax deductible, but they do help us to keep the free, over-the-air

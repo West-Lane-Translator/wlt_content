@@ -16,7 +16,7 @@ translators]({filename}FM.md) provide diverse programming choices
 while maintaining world-class signal quality, including HD digital
 music and news.
 
-Take some time to explore our web site. Here you will find access to
+Take some time to explore our website. Here you will find access to
 the information you need to make the most of our available services.
 
 As a non-profit, Oregon State 501(c)(4) corporation, we maintain an
