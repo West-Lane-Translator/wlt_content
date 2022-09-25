@@ -21,7 +21,7 @@ Of special note is that the KEZI Sky Cam gets its dramatic aerial view
 by being mounted on West Lane Translator's tower.
 
 * [Detailed weather
-  information](https://forecast.weather.gov/MapClick.php?lat=43.97372500000006&lon=-124.10680999999994#.XxzKp2NKjmE)
+  information](https://forecast.weather.gov/MapClick.php?lat=43.97372500000006&lon=-124.10680999999994)
   is available from the National Weather Service website.
 
 * Information about the levels, tides and currents of the Siuslaw

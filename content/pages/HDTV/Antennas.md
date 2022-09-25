@@ -97,7 +97,7 @@ location.
 
 Have someone move your antenna vertically, either up or down on its
 mount while you watch your set or the [signal
-meter]({filename}HowTo.md#a-signal-meter-helps-overcome-the-challenge)
+meter]({filename}HowTo.md#measuring-signal-quality-with-a-signal-meter)
 that you can checkout from the library.
 Switch among the various channels with
 the antenna at different heights instead of viewing just one channel.
@@ -163,5 +163,4 @@ your needs.
 |                                                     |                                                                          |
 | ---                                                 | ---                                                                      |
 | [Antenna Web](https://www.antennaweb.org)            | Geographical antenna selector                                            |
-| [HDTv Antenna Labs](http://www.hdtvantennalabs.com) | HDTV antenna reviews, technical articles and antennas comparison         |
 | [TV Fool](https://www.tvfool.com/)                  | Resources for over-the-air (OTA) broadcast services (TV, FM, and others) |

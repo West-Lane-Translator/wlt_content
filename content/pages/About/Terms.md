@@ -45,7 +45,7 @@ For the purposes of these Terms and Conditions:
   Generator](https://www.termsfeed.com/terms-conditions-generator/){:target="_blank"}.
 
 * **Website** refers to West Lane Translator Inc., accessible from
-  [http://www.westlanetv.org](http://www.westlanetv.org)
+  [https://westlanetv.org](https://westlanetv.org)
 
 * **You** means the individual accessing or using the Service, or the
   company, or other legal entity on behalf of which such individual is
@@ -235,6 +235,6 @@ If you have any questions about these Terms and Conditions, You can
 contact us:
 
 * By visiting this page on our website:
-  [http://www.westlanetv.org/pages/contact-us.html]({filename}Contact.md)
+  [https://westlanetv.org/pages/contact-us.html]({filename}Contact.md)
 
 * By mail: P.O. Box 91, Florence, Oregon 97439

@@ -58,7 +58,7 @@ For the purposes of this Privacy Policy:
   infrastructure itself (for example, the duration of a page visit).
 
 * **Website** refers to West Lane Translator Inc., accessible from
-  [http://www.westlanetv.org](http://www.westlanetv.org)
+  [https://westlanetv.org](https://westlanetv.org)
 
 * **You** means the individual accessing or using the Service, or the
   company, or other legal entity on behalf of which such individual is
@@ -299,6 +299,6 @@ posted on this page.
 If you have any questions about this Privacy Policy, You can contact us:
 
 * By visiting this page on our website:
-  [http://www.westlanetv.org/pages/contact-us.html]({filename}Contact.md)
+  [https://westlanetv.org/pages/contact-us.html]({filename}Contact.md)
 
 * By mail: P.O. Box 91, Florence, Oregon 97439
