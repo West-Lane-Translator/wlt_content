@@ -20,9 +20,9 @@
 <b>April 19, 2023
 
 All of the Florence TV translators will be off the air tonight for
-approximately 4 hours starting around 11 PM for planned maintenance.
-The translators should be back on the air early Thursday morning,
-April 20.  Please accept our apologies for this interruption of
-service.</b>
+approximately 4 hours starting at 11:35 PM or later for planned
+maintenance.  The translators should be back on the air early Thursday
+morning, April 20.  Please accept our apologies for this interruption
+of service.</b>
 
 ---
