@@ -13,11 +13,17 @@ April, July, and October at 6:00 PM via video conferencing.
 Details on how to attend will be sent to
 [members]({filename}Membership.md).
 
+We are deeply saddened by the passing of Julie McGrew, our
+President. We have rescheduled our next board meeting from April 26th
+to May 3rd to give us additional time to prepare for it.  Note that
+the list of Board Members later in this page is no longer accurate,
+but it will be updated after the upcoming meeting.
+
 The next four scheduled meetings are:
 
 | Date                                      | Time    |
 | :---                                      | :---    |
-| <div id='meet1'>JavaScript required</div> | 6:00 PM |
+| <div id='meet1'>JavaScript required</div> rescheduled to May 3, 2023 | 6:00 PM |
 | <div id='meet2'>JavaScript required</div> | 6:00 PM |
 | <div id='meet3'>JavaScript required</div> | 6:00 PM |
 | <div id='meet4'>JavaScript required</div> | 6:00 PM |
