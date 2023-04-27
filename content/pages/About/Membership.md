@@ -42,7 +42,8 @@ West Lane Translator
 P.O. Box 91  
 Florence, Oregon 97439
 
-Be sure to include your name and mailing address if it is not
+Be sure to include your email address as well as your
+name and mailing address if it is not
 indicated on your payment method (money order, etc.)
 
 Please note that donations or memberships sent to West Lane Translator
