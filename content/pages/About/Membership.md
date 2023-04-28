@@ -16,11 +16,6 @@ Membership conditions and rights are described in the *Regular Voting Members*
 section of the [WLT
 bylaws]({static}/pdfs/WLT_Bylaws_January_27_2021_distribution.pdf).
 
-Membership also includes a quarterly e-newsletter detailing our
-volunteer efforts to maintain your access to free, quality on-air
-broadcasting from eleven television and radio broadcasters on our
-towers.
-
 West Lane Translator is a "membership" nonprofit -- your vote is the
 keystone -- you can vote annually for Board members. You will receive
 email alerts of our open public meetings.
