@@ -11,7 +11,7 @@ Oregon and the Central Oregon Coast area.
 
 Today, we continue to present our community with state-of-the-art
 [High Definition digital television]({filename}HDTV.md) featuring the
-highest video and audio quality available. Our six [FM radio
+highest video and audio quality available. Our [FM radio
 translators]({filename}FM.md) provide diverse programming choices
 while maintaining world-class signal quality, including HD digital
 music and news.

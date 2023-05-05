@@ -88,15 +88,17 @@ format]({static}/pdfs/WLT_Bylaws_January_27_2021_distribution.pdf).
 
 ### Board Members
 
-| Name              | Office              | Affiliation                                        |
-| ----              | ------              | -----------                                        |
-| Julie McGrew      | President           | Local Resident                                     |
-| Scott Anderson    | Vice President      | Local Resident                                     |
-| Chris Sorensen    | Secretary/Treasurer | Local Resident                                     |
-| Dr. Ralph Garono  | Member              | Local Resident                                     |
-| Dennis Hunt       | Member              | Retired Television Engineer                        |
-| Chris Reid Murray | Member              | Chief Engineer, KKNU / McKenzie River Broadcasting |
-| Jeff Williams     | Member              | Local Resident                                     |
+| Name              | Office            | Affiliation                                        |
+| ----              | ------            | -----------                                        |
+| Dennis Hunt       | President Pro Tem | Retired Television Engineer                        |
+| Scott Anderson    | Vice President    | Local Resident                                     |
+| Chris Sorensen    | Treasurer         | Local Resident                                     |
+| Dr. Ralph Garono  | Member            | Local Resident                                     |
+| Chris Reid Murray | Member            | Chief Engineer, KKNU / McKenzie River Broadcasting |
+| Jeff Williams     | Member            | Local Resident                                     |
+
+Kim Miller, a local resident, is currently performing the duties of
+Secretary until we are able to hold an election to fill the position.
 
 We are actively looking for new board members to join us.  Please
 reach out to us via our [contact page]({filename}Contact.md) if you
