@@ -14,3 +14,14 @@
 [//]: # (</b>)
 [//]: # ()
 [//]: # (---)
+
+---
+
+<b>June 30, 2023
+
+KLSR (HDTV 34.1) and KEVU (34.2) are currently off the air in the
+Florence area.  Technicians are aware of the problem and are working
+on a solution.  Please accept our apologies for this unanticipated
+interruption of service.</b>
+
+---
