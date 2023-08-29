@@ -52,10 +52,11 @@ how we can assist your business in achieving its communications goals.
 : All levels of the tower are available for the mounting of antenna
   apparatus. If your equipment installation needs are modest, we have
   equipment rack space available in our climate-controlled main
-  building. Users requiring more space or needing their own equipment
-  shelters will find that there is ample area adjacent to the tower,
-  needing minimal preparation for use. Base-of-tower outdoor-installed
-  equipment is easily accommodated as well.
+  building. If you need more space, we have a 12' by 26' fully
+  air-conditioned facility ready to occupy.  Users needing their own
+  equipment shelters will find that there is ample area adjacent to
+  the tower, needing minimal preparation for use. Base-of-tower
+  outdoor-installed equipment is easily accommodated as well.
 
 * VALUE
 : WLT's lease offerings are competitively priced.
