@@ -20,8 +20,9 @@ Take some time to explore our website. Here you will find access to
 the information you need to make the most of our available services.
 
 As a non-profit, Oregon State 501(c)(4) corporation, we maintain an
-[online]({filename}About/Governance.md) listing of officers,
-board-of-directors members, upcoming meetings, and
+online listing of [officers and board
+members]({filename}About/Governance.md#board-members)
+, [upcoming meetings]({filename}About/Governance.md#board-meetings), and
 [bylaws]({static}/pdfs/WLT_Bylaws_January_27_2021_distribution.pdf) for your
 perusal. You will also find ample [contact
 information]({filename}About/Contact.md), should you desire to let us
@@ -32,3 +33,9 @@ you want to help!
 Continue your visit here by reading the [Frequently Asked
 Questions]({filename}FAQ.md) section, or by exploring the menu items
 on the left side of every page.
+
+**Please feel free to join us at our next
+[meeting]({filename}About/Governance.md#board-meetings)
+at 6:00 PM on <span id='meet1'>JavaScript required</span>.**
+
+{!mtgsched.js!}
