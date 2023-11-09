@@ -31,15 +31,17 @@ facilities, none of our administration is paid staff.
 
 -------
 
-Please remit donations or membership via US Postal Mail to our mailing address:
+To become a member or donate, please print [this
+form]({static}/pdfs/Membership_Form.pdf), fill in your information and
+send it along with payment (check, money order, etc.) via US Postal
+Mail to our mailing address:
 
 West Lane Translator  
 P.O. Box 91  
 Florence, Oregon 97439
 
-Be sure to include your email address as well as your
-name and mailing address if it is not
-indicated on your payment method (money order, etc.)
+Please ensure that you provide an email address so that you will
+receive meeting information and organization news.
 
 Please note that donations or memberships sent to West Lane Translator
 will be applied to West Lane Translator, Inc. If you are interested in
