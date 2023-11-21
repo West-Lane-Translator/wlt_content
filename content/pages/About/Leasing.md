@@ -96,21 +96,22 @@ message shortly.
 : Coburg Ridge/Mt. Tom (Eugene)
 
 **Current users and leasees:**
+: Allen Media Broadcasting
 : Bicoastal Media
-: California Oregon Broadcasters Inc.
-: Charter Cable
-: Family Stations Inc.
-: Heartland Media
+: Charter Communications
+: Coast Broadcasting
+: Cox Media Group
+: Family Stations, Inc.
+: Hyak
+: KXCR Community Radio
 : Lane Community College
 : Lane County Sheriffs Office
 : Lane Radio Interoperability Group
 : McKenzie River Broadcasting
-: Oregon Coast Emergency Repeater Inc.
+: Oregon Coast Emergency Repeater, Inc.
 : Oregon Public Broadcasting
-: Sinclair Broadcasting
-: Siuslaw Broadband
-: Sprint Cellular
-: University of Oregon Foundation
+: Sinclair Broadcast Group
+: University of Oregon
 : Verizon Wireless
 
 </div>
