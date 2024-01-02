@@ -17,11 +17,6 @@ your mind.
 
 Someone from our organization will contact you in reply shortly.
 
-**On June 30, 2023 we noticed that this form had not been working for
-an unknown period of time.  It is fixed now but we sincerely regret
-that we may have missed some messages that were sent to us.  If you
-still need to contact us, please try again.  We offer our apologies.**
-
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2.3.2/dist/email.min.js"></script>
 <script type="text/javascript">
     (function(){
