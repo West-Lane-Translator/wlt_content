@@ -6,7 +6,7 @@ Menu: TopC
 
 West Lane Translator Incorporated owns and operates a substantial
 communications tower in the Florence, Oregon market. Our facilities are
-located at the top of Parachute Hill, south of the Siuslaw River and Old
+located at the top of Glenada Hill, south of the Siuslaw River and Old
 Town Florence. We currently have available tower inventory at all levels
 for lease. [Contact us]({filename}Contact.md) for a consultation on
 how we can assist your business in achieving its communications goals.
@@ -72,7 +72,7 @@ message shortly.
 
 <div markdown style="float:left;margin-right:1em;">
 
-**Site Name:** Parachute Hill (AKA "Glenada Hill")
+**Site Name:** Glenada Hill (aka "Parachute Hill")
 
 **Address:** 5909 E. Glenada Road
 

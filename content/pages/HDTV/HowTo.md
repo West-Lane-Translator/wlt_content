@@ -28,7 +28,7 @@ and a UHF antenna connected to it.  All TVs manufactured since March 1, 2007
 receive HDTV so the chances are good that you already have a suitable TV.  If
 not, there are many options available locally and on the internet.
 
-We broadcast from a tower that is on the top of Parachute Hill across
+We broadcast from a tower that is on the top of Glenada Hill across
 the Siuslaw River from Old Town Florence.  The next time you are
 enjoying the Port of Siuslaw, look across the river and you will be
 able to see WLT's communication towers.  If you can see the towers
@@ -171,7 +171,7 @@ the meter.
 
 | | <div style="width:200px"></div> |
 | :---- | :----: |
-| Connect the antenna's cable to the threaded connector under the plastic lid on the top of the meter by turning the outer part of the antenna's connector clockwise.  The connectors can be fussy but careful alignment of the connectors will help.  Finger tighten the connector.  If you are using the antenna that is part of the kit, orient it so that either flat side points toward the antenna towers on Parachute Hill. | [![Meter F-connector]({static}/images/meter_f_connector.jpg)]({static}/images/meter_f_connector.jpg) |
+| Connect the antenna's cable to the threaded connector under the plastic lid on the top of the meter by turning the outer part of the antenna's connector clockwise.  The connectors can be fussy but careful alignment of the connectors will help.  Finger tighten the connector.  If you are using the antenna that is part of the kit, orient it so that either flat side points toward the antenna towers on Glenada Hill. | [![Meter F-connector]({static}/images/meter_f_connector.jpg)]({static}/images/meter_f_connector.jpg) |
 | Turn on the meter by pressing and holding the power button for a second until the screen turns on.  The meter is turned off in the same way.  HINT: The power button can be pressed twice quickly as a shortcut to return to the home screen at any time. | [![Meter power button]({static}/images/meter_button.jpg)]({static}/images/meter_button.jpg) |
 | After the meter is powered on, its home screen is displayed.  The icon at the top right corner of the screen indicates how full the battery is.  When the battery is fully charged, all the segments of the battery icon will be green.  When the battery is being charged, the red tip on the very right of the icon will be on.  The screen is a touch screen which works best when it is touched with the stylus included in the kit.  If the large vertical button on the left side of the screen shows **CATV**, press it with the stylus to change it to say **ATSC**.  The image at right shows the meter in the correct ATSC mode. | [![Meter ATSC button]({static}/images/meter_atsc.png)]({static}/images/meter_atsc.png) |
 | Press the **SETUP** button on the screen with the stylus to enter the setup menu shown. | [![Meter Setup Screen]({static}/images/meter_setup.png)]({static}/images/meter_setup.png) |
