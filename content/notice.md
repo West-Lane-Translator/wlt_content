@@ -10,3 +10,14 @@
 [//]: # (**Please accept our apologies for this unanticipated interruption of)
 [//]: # (service.**)
 [//]: # (---)
+
+---
+**January 9, 2024**
+
+**KEZI(9.1), MeTV(9.2), ION(9.3), H&I(9.4) and Start TV(9.5) are
+having problems being received in the Florence area.  We are
+investigating and will update this notice as we learn more.**
+
+**Please accept our apologies for this unanticipated interruption of
+service.**
+---
