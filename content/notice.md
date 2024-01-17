@@ -12,7 +12,7 @@
 [//]: # (---)
 
 ---
-**January 16, 2024**
+**January 17, 2024**
 
 **Over the past week, we have experienced and are continuing to
 experience problems due to the weather in Eugene and the Coast Range.
@@ -21,7 +21,7 @@ transmitted to our Glenada site via antennas to the east of us. Those
 antennas are getting coated with ice and are unable to transmit the
 signal to our site until the ice is cleared from them.**
 
-**At last report, all of the CBS (13.x), NBC (16.x) and Fox (34.x)
+**At last report, many of our
 channels are off the air in the Florence area.  We will endeavor to
 continue to keep the Eugene broadcasters informed of our local
 outages.**
