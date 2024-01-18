@@ -12,20 +12,13 @@
 [//]: # (---)
 
 ---
-**January 17, 2024**
 
-**Over the past week, we have experienced and are continuing to
-experience problems due to the weather in Eugene and the Coast Range.
-The signals that we retransmit to the Florence community are
-transmitted to our Glenada site via antennas to the east of us. Those
-antennas are getting coated with ice and are unable to transmit the
-signal to our site until the ice is cleared from them.**
+**January 18, 2024**
 
-**At last report, many of our
-channels are off the air in the Florence area.  We will endeavor to
-continue to keep the Eugene broadcasters informed of our local
-outages.**
-
-**Please accept our apologies for this unanticipated interruption of
+**KLSR (Fox on 34.1) and KEVU (My TV on 34.2) are still off the air in
+the Florence area.  Please have patience as efforts to restore power
+and communications infrastructure continue to the east of us and
+please accept our apologies for this unanticipated interruption of
 service.**
+
 ---
