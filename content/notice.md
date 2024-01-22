@@ -15,14 +15,11 @@
 
 **January 21, 2024**
 
-**KLSR (Fox on 34.1) and KEVU (My TV on 34.2) are still off the air in
-the Florence area.  Their transmitter on Walker Mountain is not
-transmitting a signal to our Glenada Hill site.  They hope to be able
-to restore service sometime this week.**
-
-**In addition, the OPB family of channels (28.x) are also off the air
-in the Florence area.  Our volunteers will endeavor to continue to
-keep the Eugene broadcasters informed of our local outages.**
+**The OPB family of channels (28.x), KLSR (Fox on 34.1) and KEVU (My
+TV on 34.2) are off the air in the Florence area.  Their signals come
+to our Glenada Hill site via transmitters on Walker Mountain which has
+lost power.  A repair crew will attempt to reach the site on Monday
+(1/22) using a snowcat and chainsaws.**
 
 **Please accept our apologies for this unanticipated interruption of
 service.**
