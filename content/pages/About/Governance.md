@@ -34,15 +34,14 @@ format]({static}/pdfs/WLT_Bylaws_January_27_2021_distribution.pdf).
 
 ### Board Members
 
-| Name              | Office         | Affiliation                                        |
-| ----              | ------         | -----------                                        |
-| Dennis Hunt       | President      | Retired Television Engineer                        |
-| Scott Anderson    | Vice President | Local Resident                                     |
-| Kim Miller        | Secretary      | Local Resident                                     |
-| Chris Sorensen    | Treasurer      | Local Resident                                     |
-| Dr. Ralph Garono  | Member         | Local Resident                                     |
-| Chris Reid Murray | Member         | Chief Engineer, KKNU / McKenzie River Broadcasting |
-| Jeff Williams     | Member         | Local Resident                                     |
+| Name              | Office              | Affiliation                 |
+| ----              | ------              | -----------                 |
+| Dennis Hunt       | President           | Retired Television Engineer |
+| Scott Anderson    | Vice President      | Local Resident              |
+| Kim Miller        | Secretary/Treasurer | Local Resident              |
+| Dr. Ralph Garono  | Member              | Local Resident              |
+| Chris Reid Murray | Member              | Retired Radio Engineer      |
+| Chris Sorensen    | Member              | Local Resident              |
 
 We are actively looking for new board members to join us.  Please
 reach out to us via our [contact page]({filename}Contact.md) if you
@@ -50,7 +49,7 @@ would like to help with the governance of West Lane Translator.
 
 ### Technical Committee
 
-| Name              | Affiliation                                        |
-| ----              | -----------                                        |
-| Dennis Hunt       | Retired Television Engineer                        |
-| Chris Reid Murray | Chief Engineer, KKNU / McKenzie River Broadcasting |
+| Name              | Affiliation                 |
+| ----              | -----------                 |
+| Dennis Hunt       | Retired Television Engineer |
+| Chris Reid Murray | Retired Radio Engineer      |
