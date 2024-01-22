@@ -9,7 +9,7 @@ translators in Florence. Together with a fifth licensee, Oregon Public
 Broadcasting, we bring High Definition television to the Central Coast
 area.
 
-Because we are incorporated as a non-profit entity, we are able to offer
+Because we are incorporated as a nonprofit entity, we are able to offer
 these television signals at no cost to the Florence and Central Coast
 communities. All that is required of the viewer is a television receiver
 of reasonably recent vintage and some manner of receiving antenna to

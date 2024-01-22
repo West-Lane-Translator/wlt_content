@@ -19,7 +19,7 @@ music and news.
 Take some time to explore our website. Here you will find access to
 the information you need to make the most of our available services.
 
-As a non-profit, Oregon State 501(c)(4) corporation, we maintain an
+As a nonprofit, Oregon State 501(c)(4) corporation, we maintain an
 online listing of [officers and board
 members]({filename}About/Governance.md#board-members)
 , [upcoming meetings]({filename}About/Governance.md#board-meetings), and
