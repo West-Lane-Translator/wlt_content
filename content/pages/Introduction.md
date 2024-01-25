@@ -27,7 +27,7 @@ members]({filename}About/Governance.md#board-members)
 perusal. You will also find ample [contact
 information]({filename}About/Contact.md), should you desire to let us
 know your feelings or need further information.  We're also currently
-looking for new board members and would appreciate hearing from you if
+looking for a new board member and would appreciate hearing from you if
 you want to help!
 
 Continue your visit here by reading the [Frequently Asked
