@@ -33,11 +33,15 @@ Locations such as Siltcoos Lake, and other hilly environs will
 experience hit-or-miss propagation, depending on which side of a hill
 you might be on, and the elevation of your site.
 
-It is possible to run complex computer simulations that take into
-account more accurate terrain modeling, but it is very expensive, and
-is usually only put to task in high-stakes radio frequency
-installations. For now, all we have access to is the FCC contour maps,
-which is the only data which the Commission regards as valid.
+In the future, we hope to update this map with an improved version
+that takes into account more accurate terrain modeling but it still
+will not account for very localized conditions (such as the majestic
+trees that have grown tall enough to block your antenna's clear view
+of our tower).  You'll be able to get the most accurate information
+about reception by trying it out and we hope that the information on
+our [HDTV How-To]({filename}HowTo.md) and [HDTV
+Antennas]({filename}Antennas.md) pages will be helpful in your
+efforts.
 
 The tools on [TV Fool](https://www.tvfool.com/) may be useful for
 getting information specific to your exact location.
