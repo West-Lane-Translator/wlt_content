@@ -6,7 +6,7 @@ Menu: SideG
 [TOC]
 
 In order to assist translator system viewers in pulling in the best
-possible signal, what follows a list of tips for installing an antenna
+possible signal, what follows is a list of tips for installing an antenna
 or "tuning up" an existing antenna.  The channels broadcast by West
 Lane Translator are all in the UHF band (specifically UHF channels 24,
 26, 28, 32 and 35) so make sure that your antenna is designed to
@@ -135,9 +135,7 @@ operating efficiently at UHF frequencies and must be weatherproof
 types. Ask your dealer for the proper ones.
 
 Most TV sets made nowadays have the coaxial type F connector for input,
-so these sets are ready for the coaxial down-lead cable. The type F
-connectors can be tricky to put on the cable for those not used to
-them. A TV shop can put them on for you if you have trouble.
+so these sets are ready for the coaxial down-lead cable.
 
 ### Amplifiers
 
