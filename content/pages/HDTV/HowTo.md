@@ -54,8 +54,7 @@ weak that it can not be received.
 even deadly.  Please, please, please be safe and follow all guidance
 that your antenna manufacturer provides (an
 [example](https://support.channelmaster.com/hc/en-us/articles/200383605-Safe-Installation-Procedures))
-and if you have any doubts, please contact a
-[professional]({filename}../FAQ.md#im-not-going-up-on-the-roof-how-can-i-get-an-outdoor-antenna-installed).***
+and if you have any doubts, please contact a professional.***
 
 
 ## The Challenge
@@ -293,10 +292,10 @@ page](http://www.psiber.com/signal-scout.html).
 
 * The signal levels need to be between -35 dBm and -70 dBm.
 
-| Signal<br>Meter<br>Channel | Eugene<br>Channel | Program<br>Content |
-| :--:   | :--: | :---            |
-| *24* | **13** | CBS/TBD/Charge! |
-| *26* | **16** | NBC/CW/Comet    |
-| *28* | **34** | Fox/My TV       |
-| *32* | **28** | OBP             |
-| *35* | **9**  | ABC/MeTV/ION    |
+| Signal<br>Meter<br>Channel | Eugene<br>Channel | Program<br>Content     |
+| :--:                       | :--:              | :---                   |
+| *24*                       | **13**            | CBS/TBD/Charge!        |
+| *26*                       | **16**            | NBC/CW/Comet           |
+| *28*                       | **34**            | Fox/My TV              |
+| *32*                       | **28**            | OBP                    |
+| *35*                       | **9**             | ABC/MeTV/ION/H&I/Start |
