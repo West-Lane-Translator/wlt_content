@@ -22,8 +22,8 @@ down, perhaps to channel 45. The program content of the broadcast is
 unchanged by the shift in channel, it is identical to the
 original. Shifting the frequency of FM stations or the channel number
 of TV stations is necessary to prevent interference to the originating
-station's broadcast signal.  See the [HDTV]({filename}HDTV.md) and [FM
-Radio]({filename}FM.md) pages for additional information.
+station's broadcast signal.  See the [HDTV Channels]({filename}HDTV.md)
+and [FM Radio]({filename}FM.md) pages for additional information.
 
 ## HDTV
 
@@ -39,15 +39,16 @@ enjoyment of on-air television broadcasts is now enhanced by clearer,
 crisper video images, stereophonic and surround sound of the highest
 quality, and the complete absence of snow, ghosting, fading, and
 distortion that the old system was prone to experience. HDTV also
-allows the originating station to supply up to three additional
-program streams to be viewed. See the [HDTV]({filename}HDTV.md) page
-for additional information.
+allows the originating station to supply additional
+program streams to be viewed. See the [HDTV Channels]({filename}HDTV.md)
+page for additional information.
 
 ### I've tried receiving your broadcasts on my HD television, but see nothing. Why?
 
 There may be a variety of reasons, but first understand that you must
 have an antenna connected to your television to receive anything. See
-the [HDTV Antennas]({filename}HDTV/Antennas.md) page for additional
+the [HDTV How-To]({filename}HDTV/HowTo.md) and
+[HDTV Antennas]({filename}HDTV/Antennas.md) pages for additional
 information. With an antenna, reception in most areas of Florence and
 the surrounding area should be no problem. See the [HDTV
 Coverage]({filename}HDTV/Coverage.md) page for additional information
@@ -136,14 +137,6 @@ town, it might be time to try some unconventional cures.
 * Try pointing your antenna *away* from the tower. If the reflected
   signal is so strong, it might be a better bet than going with the
   direct signal.
-* You might try changing the polarity of your antenna. Most TV antennas
-  are horizontally polarized because this is a good way to minimize the
-  effects of trees, power poles, lighting standards, and other common
-  upright obstructions. WLT's transmitting antenna is "circularly
-  polarized", so it transmits in both planes. Rotating the receive
-  antenna 90 degrees clockwise or counter-clockwise will change the
-  polarity. (this assumes that you keep the antenna pointed at the same
-  compass reading that you started at.)
 * Put up a second outdoor antenna some distance away, using a two-set
   "splitter" to combine the two antennas into one coaxial feed
   line. Perhaps the multipath will cancel and the direct signal will
@@ -203,7 +196,7 @@ originating station and hope it is repaired soon.
 ### How can I report problems that I think are transmission-related?
 
 First, check into this website. When there is an ongoing problem that
-we are aware of, there will be a banner at the bottom of every page
+we are aware of, there will be a banner at the top of every page
 describing the issue, and giving information as to when it is expected
 to be solved.
 
@@ -218,7 +211,7 @@ things are coming in hot and heavy, you might get an auto-reply until we
 get caught up.
 
 Also consider contacting the originating station using the contact
-information on the [HDTV]({filename}HDTV.md) page. If they
+information on the [HDTV Channels]({filename}HDTV.md) page. If they
 just get a single complaint, they are likely to think that the problem
 is your antenna or your set, but if there are several similar reports of
 trouble, they *will* take it seriously. West Lane County comprises 10%
