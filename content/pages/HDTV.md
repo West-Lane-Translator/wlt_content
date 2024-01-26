@@ -58,9 +58,9 @@ A few important notes on the information in this table:
  are listed in these tables. The Florence channel numbers (italicized)
  will only be useful to
  you the first time you receive the station's programming. After
- once entering the Florence channel number or allowing your HD
- television or HDTV converter box to scan for local stations, the
- set or converter will "learn" the relationship between the
+ once entering the Florence channel number or allowing your HDTV
+ receiver to scan for local stations, the
+ receiver will "learn" the relationship between the
  originating station's channel number and the translator's channel
  number. Thereafter, you will only need to know and enter the
  channel number of the "Eugene" station to view the programming you
@@ -80,24 +80,10 @@ A few important notes on the information in this table:
   available program streams you wish to view from the station. The
   x**.1** subchannel is always the "main" channel for that station.
 
-* Cable and satellite services only provide you with the first, "main"
-  channel of each of the local stations. You may be missing multiple
-  programming choices offered on the HDTV subchannels, channels that
-  subscription services don't offer under any of their service plans.
-  Additionally, although the cable or satellite version of the local
-  channels originates as an HDTV signal at the station, the
-  programming is converted to analog before being delivered to your
-  home. As a result, you are not getting the complete HDTV experience,
-  you might just as well be watching any ordinary video feed. Only by
-  receiving our on-air transmitted signals will you start enjoying the
-  rich experience that all-digital HDTV can provide.
-
-All of the transmitting equipment required to place these HDTV signals
-on the air was new and placed on the air January 12, 2010. Due to
-the efficiency of having matching equipment, each of the five stations
-uses identical transmitters and the resulting signals are combined
+All of the signals from the transmitting equipment required to broadcast
+these HDTV channels on the air are combined
 electronically so that a master transmitting antenna can be utilized
-from atop our new 240-foot tower on Glenada Hill, south of Florence. As
+from atop our 240-foot tower on Glenada Hill, south of Florence. As
 a result, and because the five TV stations have identical power output
 levels of 2500 Watts E.R.P., robust signal strength in the area is
 insured for each station.
