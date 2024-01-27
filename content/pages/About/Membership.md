@@ -22,16 +22,7 @@ email alerts of our open public meetings.
 
 -------
 
-## Donations
-
-The amount you donate is up to you.
-
-All proceeds are applied to the operation of the translator
-facilities, none of our administration is paid staff.
-
--------
-
-To become a member or donate, please print [this
+To become a member, please print [this
 form]({static}/pdfs/Membership_Form.pdf), fill in your information and
 send it along with payment (check, money order, etc.) via US Postal
 Mail to our mailing address:
@@ -42,18 +33,3 @@ Florence, Oregon 97439
 
 Please ensure that you provide an email address so that you will
 receive meeting information and organization news.
-
-Please note that donations or memberships sent to West Lane Translator
-will be applied to West Lane Translator, Inc. If you are interested in
-supporting the nonprofit radio station KXCR, you may do
-so by visiting the [KXCR website](https://www.kxcr.net).
-
-As WLT is a 501(c)(4) nonprofit corporation, your contributions are
-not tax deductible, but they do help us to keep the free, over-the-air
-programming coming. The Officers and Board of Directors serve on a
-volunteer basis, there are no paid staff members. Professional
-services such as accounting, legal advice, and engineering are paid
-modestly on an hourly basis when needed. You can be sure that your
-contribution will go directly to the necessary expenses of keeping
-entertainment, news, and public safety information flowing into the
-West Lane County airwaves.
