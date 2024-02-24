@@ -2,12 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 import datetime
-import inspect
 import pathlib
 import re
-import sys
 
-sys.path.append('../markdown-include')
 from markdown_include.include import MarkdownInclude
 
 # The Pelican settings are documented here:
@@ -15,24 +12,17 @@ from markdown_include.include import MarkdownInclude
 # and the Flex theme's settings are documented here:
 #   https://github.com/alexandrevicenzi/Flex/wiki/Custom-Settings
 
-# I personally found it a pain to have a separate pelicanconf.py and
-# publishconf.py mainly because it wasn't possible to use SITEURL in other
-# things such as FAVICON and SITELOGO.  I instead just symlink pelicanconf.py
-# to publishconf.py and use this little bit of ugliness to set a variable so
-# the code can figure out if it is publishing or not:
-PUBLISHING = __file__.endswith('publishconf.py')
-
 # Pelican general site settings
 # Depending on the scope of changes, you may want to change "westlanetv.org"
-# in the SITEURL to "new.westlanetv.org" so links on
-# new.westlanetv.org point to new.westlanetv.org:
-SITEURL = 'https://westlanetv.org' if PUBLISHING else 'http://localhost:8000'
+# in the SITEURL to wherever the staging site is so links point within the
+# staging site.
+SITEURL = 'https://westlanetv.org'
 SITENAME = 'West Lane Translator Inc.'
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = 'en'
 
 # The Flex theme can accommodate our non-blog site well and is MIT license
-THEME = '../Flex'
+THEME = 'Flex'
 
 # Flex general site settings
 SITETITLE = SITENAME
@@ -115,7 +105,7 @@ LOAD_CONTENT_CACHE = False
 PATH = 'content'  # Keep content separate from how to build.
 PAGE_PATHS = ['pages']  # Where to look in content subdirectory for our pages.
 STATIC_PATHS = ['images', 'pdfs', 'extra']  # Copy things from these to output.
-OUTPUT_PATH = '../wlt_output/'  # Where to put the output.
+OUTPUT_PATH = 'output/'  # Where to put the output.
 PAGE_URL = '{slug}.html'  # Output the HTML at the root instead of in pages/
 PAGE_SAVE_AS = '{slug}.html'
 
