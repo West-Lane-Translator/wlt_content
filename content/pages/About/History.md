@@ -148,7 +148,7 @@ engineer.  "Non-digital sets will require the converter box. There is
 no need to buy an amplified antenna system."
 
 For more information, visit WLT's website
-[www.WestLaneTV.org](https://westlanetv.org).
+[www.westlanetv.org](https://westlanetv.org).
 
 </div>
 
