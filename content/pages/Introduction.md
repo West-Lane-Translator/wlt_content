@@ -39,3 +39,17 @@ on the left side of every page.
 at 6:00 PM on <span id='meet1'>JavaScript required</span>.**
 
 {!mtgsched.js!}
+
+<script type="text/javascript">
+var now = new Date();
+var dt = new Date(now);
+var i = 1;
+do {
+    setFourthWednesdayOfQuarter(dt);
+    if (now <= dt) {
+    	setMeetN(dt, i);
+    	i += 1;
+    }
+    setNextQuarter(dt);
+} while (i < 2);
+</script>

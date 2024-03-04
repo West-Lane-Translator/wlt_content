@@ -40,16 +40,4 @@ function setMeetN(dt, n) {
 				   month: 'long',
 				   day: 'numeric'});
 }
-
-var now = new Date();
-var dt = new Date(now);
-var i = 1;
-do {
-    setFourthWednesdayOfQuarter(dt);
-    if (now <= dt) {
-	setMeetN(dt, i);
-	i += 1;
-    }
-    setNextQuarter(dt);
-} while (i < 5);
 </script>
