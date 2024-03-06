@@ -48,7 +48,6 @@ THEME_COLOR_ENABLE_USER_OVERRIDE = True  # Uses JavaScript
 #   https://daringfireball.net/projects/markdown/syntax
 MARKDOWN = {
     'extensions': {
-        'markdown.extensions.attr_list',
         'markdown.extensions.extra',
         'markdown.extensions.meta',
         'markdown.extensions.smarty',
