@@ -65,7 +65,9 @@ would like to help with the governance of West Lane Translator.
 
 ### Technical Committee
 
-| Name              | Affiliation                 |
-| ----              | -----------                 |
-| Dennis Hunt       | Retired Television Engineer |
-| Chris Reid Murray | Retired Radio Engineer      |
+| Name              | Affiliation                                     |
+| ----              | -----------                                     |
+| Dennis Hunt       | Retired Television Engineer                     |
+| Keane Laguatan    | Chief Engineer KEZI-TV                          |
+| Chris Reid Murray | Retired Radio Engineer                          |
+| Chris Novara      | Broadcast Engineer Transmitter Tower Facilities |
