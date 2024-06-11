@@ -12,12 +12,12 @@
 [//]: # (---)
 
 ---
-**June 5, 2024**
+**June 11, 2024**
 
-**We plan to replace some of our transmission equipment sometime
-during the week of June 10th in order to improve the reliability and
-quality of our signals.  Currently, it is anticipated that KLSR and
-KEZI will be off the air for less than one hour each and other
-stations will not be affected, but this notice will be updated as
-details are finalized.**
+**We plan to replace some of our transmission equipment during
+the afternoon of Wednesday, June 12 in order to improve the
+reliability and quality of our signals.  It is anticipated that the
+broadcasting of the KLSR (34.x) and KEZI (9.x) channels will be
+briefly interrupted but other stations will not be affected.**
+
 ---
