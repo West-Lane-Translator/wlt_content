@@ -80,7 +80,7 @@ Someone from our organization will contact you in reply shortly.
       <!-- Client-side validation is a bit silly, but it's something. -->
       The following question is for testing whether you are a human
       visitor and to prevent automated spam submissions.<br>
-      <b>What river runs through Florence, Oregon?:</b><br>
+      <b>What river runs by Florence, Oregon?:</b><br>
       <input type="text" name="river" size="10" required
              pattern="[Ss][Ii][Uu][Ss][Ll][Aa][Ww]"><br>
       <i>Hint: One word only, seven letters total.</i>
