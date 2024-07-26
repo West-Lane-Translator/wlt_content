@@ -7,7 +7,7 @@ The FM radio stations of WLT are owned and operated by their
 respective originating stations. The translator licenses are granted to
 the station owners. These radio stations have affirmed their commitment
 to serving the Florence community by becoming User Members of West Lane
-Translator, Inc, and they share equally in the ongoing costs associated
+Translator, Inc, and they share the ongoing costs associated
 with keeping the WLT facilities operational.
 
 Our FM radio stations providing programming are listed in the table
