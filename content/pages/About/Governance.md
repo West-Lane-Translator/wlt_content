@@ -10,9 +10,9 @@ Menu: TopB
 
 Board meetings are held on the fourth Wednesday of January, April,
 July, and October at 6:00 PM in either the Bromley Room or the
-Conference Room at the Siuslaw Public Library as well as via video
-conferencing.  Details on how to attend will be sent to
-[members]({filename}Membership.md).
+Conference Room of the Siuslaw Public Library at 1460 9th Street in
+Florence, OR as well as via video conferencing.  Details on how to
+attend will be sent to [members]({filename}Membership.md).
 
 The next four scheduled meetings are:
 
