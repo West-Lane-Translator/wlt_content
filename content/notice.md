@@ -10,3 +10,17 @@
 [//]: # (**Please accept our apologies for this unanticipated interruption of)
 [//]: # (service.**)
 [//]: # (---)
+
+---
+**November 12, 2024**
+
+**KMTR (NBC) and KVAL (CBS) along with their subchannels (16.x and
+13.x) are currently having troubles being received in the Florence
+area.  It is suspected that a lightning strike damaged the equipment
+that receives their signals on Glenada Hill and engineers have been
+informed of the problem.  This notice will be updated with more
+information as it becomes available until the problem is resolved.**
+
+**Please accept our apologies for this unanticipated interruption of
+service.**
+---
