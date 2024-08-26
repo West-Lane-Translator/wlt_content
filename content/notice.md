@@ -12,12 +12,15 @@
 [//]: # (---)
 
 ---
-**August 25, 2024**
+**August 26, 2024**
 
 **KMTR (NBC) and KVAL (CBS) along with their subchannels (16.x and
-13.x) are currently having troubles being received in the Florence
-area.  This notice will be updated with more information as it becomes
-available until the problem is resolved.**
+13.x) are currently off the air in the Florence area.  A lightning
+strike in Eugene damaged the fiber optic equipment that transmits
+their programming to Florence.  Engineers are working on getting the
+link restored or finding an alternative.  We do not yet know when
+service will be restored, but this notice will be updated as more
+information becomes available.**
 
 **Please accept our apologies for this unanticipated interruption of
 service.**
