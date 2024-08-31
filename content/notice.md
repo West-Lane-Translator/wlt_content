@@ -10,14 +10,3 @@
 [//]: # (**Please accept our apologies for this unanticipated interruption of)
 [//]: # (service.**)
 [//]: # (---)
-
----
-**August 29, 2024**
-
-**KMTR (NBC) and KVAL (CBS) along with their subchannels (16.x and
-13.x) should now be restored for the Florence area.  If you have
-trouble receiving them, please rescan the channels on your set.**
-
-**Please accept our apologies for this unanticipated interruption of
-service.**
----
