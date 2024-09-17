@@ -10,14 +10,3 @@
 [//]: # (**Please accept our apologies for this unanticipated interruption of)
 [//]: # (service.**)
 [//]: # (---)
-
----
-**September 12, 2024**
-
-**KVAL (CBS) and KMTR (NBC) along with their subchannels (13.x and
-16.x) were off the air but are now working.  If you are not receiving
-them, please try doing a channel rescan on your set.**
-
-**Please accept our apologies for this unanticipated interruption of
-service.**
----
