@@ -20,6 +20,12 @@ page is especially useful to get an overview of current conditions.
 Of special note is that the KEZI Sky Cam gets its dramatic aerial view
 by being mounted on West Lane Translator's tower.
 
+* Another [aerial view](https://alertwest.live/cam-console/15781) of
+the Florence area is available from a camera that has been installed
+on West Lane Translator's tower by The Oregon Hazards Lab at the
+University of Oregon as part of the [ALERTWest network of
+cameras](https://alertwest.live/).
+
 * [Detailed weather
   information](https://forecast.weather.gov/MapClick.php?lat=43.97372500000006&lon=-124.10680999999994)
   is available from the National Weather Service website.
