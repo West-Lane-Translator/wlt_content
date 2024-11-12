@@ -16,10 +16,11 @@
 
 **KMTR (NBC) and KVAL (CBS) along with their subchannels (16.x and
 13.x) are currently having troubles being received in the Florence
-area.  It is suspected that a lightning strike damaged the equipment
-that receives their signals on Glenada Hill and engineers have been
-informed of the problem.  This notice will be updated with more
-information as it becomes available until the problem is resolved.**
+area.  A lightning strike damaged the equipment that receives their
+signals on Glenada Hill.  Engineers are working on the problem but we
+do not yet have an estimate on how long the repairs will take.  This
+notice will be updated with more information as it becomes available
+until the problem is resolved.**
 
 **Please accept our apologies for this unanticipated interruption of
 service.**
