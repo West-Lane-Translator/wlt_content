@@ -15,12 +15,10 @@
 **November 14, 2024**
 
 **KMTR (NBC) and KVAL (CBS) along with their subchannels (16.x and
-13.x) are currently off the air in the Florence area.  A lightning
-strike damaged the equipment that receives their signals on Glenada
-Hill.  A crew is on-site today (Thursday) to do repairs. Barring
-unforeseen problems, KMTR and KVAL should be back on-air this
-afternoon.  This notice will be updated with more information as it
-becomes available until the problem is resolved.**
+13.x) are available again in the Florence area after being taken off
+the air by a lightning strike Monday night.  Try doing a channel scan
+on your set if you think you should be able to receive the channels
+but cannot.**
 
 **Please accept our apologies for this unanticipated interruption of
 service.**
