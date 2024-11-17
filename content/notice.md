@@ -10,16 +10,3 @@
 [//]: # (**Please accept our apologies for this unanticipated interruption of)
 [//]: # (service.**)
 [//]: # (---)
-
----
-**November 14, 2024**
-
-**KMTR (NBC) and KVAL (CBS) along with their subchannels (16.x and
-13.x) are available again in the Florence area after being taken off
-the air by a lightning strike Monday night.  Try doing a channel scan
-on your set if you think you should be able to receive the channels
-but cannot.**
-
-**Please accept our apologies for this unanticipated interruption of
-service.**
----
