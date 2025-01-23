@@ -16,12 +16,12 @@ attend will be sent to [members]({filename}Membership.md).
 
 The next four scheduled meetings are:
 
-| Date                                      | Time    |
-| :---                                      | :---    |
-| <div id='meet1'>JavaScript required</div> | 6:00 PM |
-| <div id='meet2'>JavaScript required</div> | 6:00 PM |
-| <div id='meet3'>JavaScript required</div> | 6:00 PM |
-| <div id='meet4'>JavaScript required</div> | 6:00 PM |
+| Date                                      | Time                                                                         |
+| :---                                      | :---                                                                         |
+| April 30, 2025                            | 6:30 PM (rescheduled from <div id='meet1'>JavaScript required</div> 6:00 PM) |
+| <div id='meet2'>JavaScript required</div> | 6:00 PM                                                                      |
+| <div id='meet3'>JavaScript required</div> | 6:00 PM                                                                      |
+| <div id='meet4'>JavaScript required</div> | 6:00 PM                                                                      |
 
 {!mtgsched.js!}
 
