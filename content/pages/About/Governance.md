@@ -16,28 +16,12 @@ attend will be sent to [members]({filename}Membership.md).
 
 The next four scheduled meetings are:
 
-| Date                                      | Time                                                                         |
-| :---                                      | :---                                                                         |
-| April 30, 2025                            | 6:30 PM (rescheduled from <div id='meet1'>JavaScript required</div> 6:00 PM) |
-| <div id='meet2'>JavaScript required</div> | 6:00 PM                                                                      |
-| <div id='meet3'>JavaScript required</div> | 6:00 PM                                                                      |
-| <div id='meet4'>JavaScript required</div> | 6:00 PM                                                                      |
-
-{!mtgsched.js!}
-
-<script type="text/javascript">
-var now = new Date();
-var dt = new Date(now);
-var i = 1;
-do {
-    setFourthWednesdayOfQuarter(dt);
-    if (now <= dt) {
-    	setMeetN(dt, i);
-    	i += 1;
-    }
-    setNextQuarter(dt);
-} while (i < 5);
-</script>
+| Date             | Time                                              |
+| :---             | :---                                              |
+| April 30, 2025   | 6:30 PM (rescheduled from April 23, 2025 6:00 PM) |
+| July 23, 2025    | 6:00 PM                                           |
+| October 22, 2025 | 6:00 PM                                           |
+| January 28, 2026 | 6:00 PM                                           |
 
 [Summaries of past board meetings are available
 here.]({filename}Summaries of past board meetings.md)

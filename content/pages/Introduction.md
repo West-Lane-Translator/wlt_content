@@ -36,20 +36,4 @@ on the left side of every page.
 
 **Please feel free to join us at our next
 [meeting]({filename}About/Governance.md#board-meetings)
-at 6:00 PM on <span id='meet1'>JavaScript required</span>.**
-
-{!mtgsched.js!}
-
-<script type="text/javascript">
-var now = new Date();
-var dt = new Date(now);
-var i = 1;
-do {
-    setFourthWednesdayOfQuarter(dt);
-    if (now <= dt) {
-    	setMeetN(dt, i);
-    	i += 1;
-    }
-    setNextQuarter(dt);
-} while (i < 2);
-</script>
+at 6:30 PM on April 30, 2025 (rescheduled from April 23, 2025 6:00 PM).**
