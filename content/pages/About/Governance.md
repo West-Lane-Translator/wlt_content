@@ -42,6 +42,7 @@ format]({static}/pdfs/WLT_Bylaws_January_27_2021_distribution.pdf).
 | Keane Laguatan    | Member              | Chief Engineer KEZI-TV                          |
 | Chris Reid Murray | Member              | Retired Radio Engineer                          |
 | Chris Novara      | Member              | Broadcast Engineer Transmitter Tower Facilities |
+| Randy Ripley      | Member              | Local Resident                                  |
 | Chris Sorensen    | Member              | Local Resident                                  |
 
 We are actively looking for a new board member to join us.  Please
