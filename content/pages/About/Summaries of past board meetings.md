@@ -6,6 +6,7 @@ following table.  Note that annual meetings occur in Q1.
 
 | Year | Q1                                      | Q2                                      | Q3                                      | Q4                                      |
 | ---- | ----                                    | ----                                    | ----                                    | ----                                    |
+| 2025 | [Jan. 22]({static}/pdfs/2025-01-22.pdf) |                                         |                                         |                                         |
 | 2024 | [Jan. 24]({static}/pdfs/2024-01-24.pdf) | [Apr. 24]({static}/pdfs/2024-04-24.pdf) | [Jul. 24]({static}/pdfs/2024-07-24.pdf) | [Oct. 23]({static}/pdfs/2024-10-23.pdf) |
 | 2023 | [Jan. 25]({static}/pdfs/2023-01-25.pdf) | [May  3]({static}/pdfs/2023-05-03.pdf)  | [Jul. 26]({static}/pdfs/2023-07-26.pdf) | [Oct. 25]({static}/pdfs/2023-10-25.pdf) |
 | 2022 | [Jan. 26]({static}/pdfs/2022-01-26.pdf) | [Apr. 27]({static}/pdfs/2022-04-27.pdf) | [Jul. 27]({static}/pdfs/2022-07-27.pdf) | [Oct. 26]({static}/pdfs/2022-10-26.pdf) |
