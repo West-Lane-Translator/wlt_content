@@ -10,3 +10,15 @@
 [//]: # (**Please accept our apologies for this unanticipated interruption of)
 [//]: # (service.**)
 [//]: # (---)
+
+---
+**February 16, 2025**
+
+**KMTR (NBC) and KVAL (CBS) along with their subchannels (16.x and
+13.x) are currently having troubles being received in the Florence
+area.  This notice will be updated with more information as it becomes
+available until the problem is resolved.**
+
+**Please accept our apologies for this unanticipated interruption of
+service.**
+---
