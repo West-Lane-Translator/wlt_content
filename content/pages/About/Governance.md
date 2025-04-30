@@ -61,10 +61,6 @@ format]({static}/pdfs/WLT_Bylaws_January_27_2021_distribution.pdf).
 | Randy Ripley      | Member              | Local Resident                                  |
 | Chris Sorensen    | Member              | Local Resident                                  |
 
-We are actively looking for a new board member to join us.  Please
-reach out to us via our [contact page]({filename}Contact.md) if you
-would like to help with the governance of West Lane Translator.
-
 ### Technical Committee
 
 | Name              | Affiliation                                     |

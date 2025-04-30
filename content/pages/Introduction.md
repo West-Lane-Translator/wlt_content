@@ -26,9 +26,7 @@ members]({filename}About/Governance.md#board-members)
 [bylaws]({static}/pdfs/WLT_Bylaws_January_27_2021_distribution.pdf) for your
 perusal. You will also find ample [contact
 information]({filename}About/Contact.md), should you desire to let us
-know your feelings or need further information.  We're also currently
-looking for a new board member and would appreciate hearing from you if
-you want to help!
+know your feelings or need further information.
 
 Continue your visit here by reading the [Frequently Asked
 Questions]({filename}FAQ.md) section, or by exploring the menu items
