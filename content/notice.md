@@ -10,3 +10,14 @@
 [//]: # (**Please accept our apologies for this unanticipated interruption of)
 [//]: # (service.**)
 [//]: # (---)
+
+---
+**May 14, 2025**
+
+**Our FM and HDTV transmitters will be operated at reduced power at
+times both today and tomorrow (Wednesday and Thursday) to protect
+personnel that will be replacing equipment on the tower.**
+
+**Please accept our apologies for this possible reduction of
+service.**
+---
