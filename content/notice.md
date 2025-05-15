@@ -12,11 +12,12 @@
 [//]: # (---)
 
 ---
-**May 14, 2025**
+**May 15, 2025**
 
-**Our FM and HDTV transmitters will be operated at reduced power at
-times both today and tomorrow (Wednesday and Thursday) to protect
-personnel that will be replacing equipment on the tower.**
+**Equipment on our tower is scheduled to be replaced on Tuesday, May
+20th.  To protect the personnel working on the tower, our FM
+transmitters will be transmitting at lower power while this work is
+done.**
 
 **Please accept our apologies for this possible reduction of
 service.**
