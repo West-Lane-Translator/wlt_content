@@ -10,15 +10,3 @@
 [//]: # (**Please accept our apologies for this unanticipated interruption of)
 [//]: # (service.**)
 [//]: # (---)
-
----
-**May 20, 2025**
-
-**Equipment on our tower is scheduled to be replaced on Wednesday, May
-21st.  To protect the personnel working on the tower, our FM
-transmitters will be transmitting at lower power while this work is
-done.**
-
-**Please accept our apologies for this possible reduction of
-service.**
----
