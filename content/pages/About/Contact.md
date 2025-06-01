@@ -65,8 +65,8 @@ Someone from our organization will contact you in reply shortly.
           Reception Issues - KMTR (NBC) channel 16</option>
         <option value="Reception Issues - KVAL (CBS) channel 13">
           Reception Issues - KVAL (CBS) channel 13</option>
-        <option value="Support WLT - Membership">
-          Support WLT - Membership</option>
+        <option value="WLT Membership">
+          WLT Membership</option>
         <option value="Problems with the Library's Signal Meter">
           Problems with the Library's Signal Meter</option>
         <option value="Tower Leasing">Tower Leasing</option>
