@@ -10,3 +10,13 @@
 [//]: # (**Please accept our apologies for this unanticipated interruption of)
 [//]: # (service.**)
 [//]: # (---)
+
+---
+**July 10, 2025**
+
+**KLSR (HDTV 34.1) and KEVU (HDTV 34.2) are currently off the air in the
+Florence area although they are operating normally in Eugene.  Their engineers
+are aware of the outage and are working to resolve the problem.**
+
+**Please accept our apologies for this unanticipated interruption of service.**
+---
