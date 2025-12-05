@@ -10,7 +10,7 @@ Oregon area on the internet.  Notable sites include:
 * The [City of Florence Oregon](https://www.ci.florence.or.us/)
 website contains a variety of useful information including very
 important information about [tsunamis and emergency
-preparedness](https://www.ci.florence.or.us/community/west-lane-emergency-operations-group).
+preparedness](https://www.ci.florence.or.us/569/West-Lane-Emergency-Operations-Group).
 
 * The [Florence Area Chamber of
 Commerce](https://florencechamber.com/) has information about visiting
@@ -35,4 +35,3 @@ cameras](https://alertwest.live/).
   available for the following locations:
     * [Florence Coast Guard station](https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9434098)
     * [Cushman](https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9434068)
-    * [Mapleton](https://water.weather.gov/ahps2/hydrograph.php?wfo=pqr&gage=mplo3)
