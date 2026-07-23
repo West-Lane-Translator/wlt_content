@@ -9,6 +9,19 @@ West Lane Translator Incorporated
 P.O. Box 91  
 Florence, Oregon 97439
 
+## Station Phone Numbers
+
+If you are having problems receiving one particular station, please
+contact them directly:
+
+| Station | Network | Channel | Website                                                       | Phone Number |
+|---------|---------|---------|---------------------------------------------------------------|--------------|
+| KEPB    | PBS     | 28.x    | [Contact OPB](https://opb2.my.site.com/Help/s/contactsupport) | 800-241-8123 |
+| KEZI    | ABC     | 9.x     | [Contact KEZI](https://www.kezi.com/contact/)                 | 541-485-5611 |
+| KLSR    | Fox     | 34.x    | [Contact KLSR](https://www.oregonsfox.com/contact-us.html)    | 541-683-3434 |
+| KMTR    | NBC     | 16.x    | [Contact KMTR](https://nbc16.com/station/contact)             | 541-746-1600 |
+| KVAL    | CBS     | 13.x    | [Contact KVAL](https://kval.com/station/contact)              | 541-342-4961 |
+
 ## Email Us
 
 Use this form to send us a message about reception problems,
@@ -55,16 +68,8 @@ Someone from our organization will contact you in reply shortly.
       <select name="category">
         <option value="WLT Administration">WLT Administration</option>
         <option value="Website Problems">Website Problems</option>
-        <option value="Reception Issues - KEPB (OPB) channel 28">
-          Reception Issues - KEPB (OPB) channel 28</option>
-        <option value="Reception Issues - KEZI (ABC) channel 9">
-          Reception Issues - KEZI (ABC) channel 9</option>
-        <option value="Reception Issues - KLSR (FOX) channel 34">
-          Reception Issues - KLSR (FOX) channel 34</option>
-        <option value="Reception Issues - KMTR (NBC) channel 16">
-          Reception Issues - KMTR (NBC) channel 16</option>
-        <option value="Reception Issues - KVAL (CBS) channel 13">
-          Reception Issues - KVAL (CBS) channel 13</option>
+        <option value="Reception Issues with All Channels">
+          Reception Issues with All Channels</option>
         <option value="WLT Membership">
           WLT Membership</option>
         <option value="Problems with the Library's Signal Meter">
