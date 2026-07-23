@@ -69,7 +69,7 @@ Someone from our organization will contact you in reply shortly.
         <option value="WLT Administration">WLT Administration</option>
         <option value="Website Problems">Website Problems</option>
         <option value="Reception Issues with All Channels">
-          Reception Issues</option>
+          Reception Issues with All Channels</option>
         <option value="WLT Membership">
           WLT Membership</option>
         <option value="Problems with the Library's Signal Meter">
